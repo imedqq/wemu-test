@@ -1,0 +1,17 @@
+{
+  "name": "WEMU",
+  "short_name": "WEMU",
+  "description": "Browser-based N64 multiplayer and offline single-player.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#e9f1fb",
+  "theme_color": "#12365a",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>WEMU GB Link Instance</title>
+    <style>
+      html,
+      body {
+        background: #041220;
+        color: #e6eef7;
+        font-family: Inter, sans-serif;
+        height: 100%;
+        margin: 0;
+        overflow: hidden;
+      }
+
+      body {
+        display: block;
+        position: relative;
+      }
+
+      .head {
+        align-items: center;
+        background: linear-gradient(180deg, rgba(9, 28, 46, 0.96), rgba(6, 19, 33, 0.92));
+        border-bottom: 1px solid rgba(148, 163, 184, 0.18);
+        display: flex;
+        gap: 0.75rem;
+        justify-content: space-between;
+        left: 0;
+        padding: 0.55rem 0.8rem;
+        position: absolute;
+        right: 0;
+        top: 0;
+        z-index: 2;
+      }
+
+      .title {
+        display: grid;
+        gap: 0.12rem;
+      }
+
+      .title strong {
+        font-size: 0.88rem;
+      }
+
+      .title span {
+        color: #9db3c8;
+        font-size: 0.74rem;
+      }
+
+      .status {
+        color: #c8d7e6;
+        font-size: 0.76rem;
+        text-align: right;
+      }
+
+      #mount {
+        bottom: 0;
+        left: 0;
+        position: absolute;
+        right: 0;
+        top: 58px;
+      }
+
+      #ejs-player {
+        height: 100%;
+        left: 0;
+        position: absolute;
+        top: 0;
+        width: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <header class="head">
+      <div class="title">
+        <strong id="instanceLabel">GB Link Instance</strong>
+        <span id="romName">No ROM selected</span>
+      </div>
+      <div class="status" id="status">Idle</div>
+    </header>
+    <main id="mount">
+      <div id="ejs-player"></div>
+    </main>
+    <script src="runtime-config.js"></script>
+    <script>
+      (function () {
+        const appBaseUrl = new URL('./', window.location.href);
+        const BUTTON_INPUT_IDS = {
+          A: 8,
+          B: 0,
+          SELECT: 2,
+          START: 3,
+          DUP: 4,
+          DDOWN: 5,
+          DLEFT: 6,
+          DRIGHT: 7
+        };
+        const params = new URLSearchParams(window.location.search);
+        const label = params.get('label') || 'GB Link Instance';
+        const romUrl = params.get('romUrl') || '';
+        const romName = params.get('romName') || 'No ROM selected';
+        const screenLayout = params.get('screenLayout') || 'left-right';
+        const audioOutput = params.get('audioOutput') || 'Game Boy #1';
+        const visibleScreens = params.get('visibleScreens') || 'both players';
+        const switchScreens = params.get('switchScreens') || 'normal';
+        const statusEl = document.getElementById('status');
+        const labelEl = document.getElementById('instanceLabel');
+        const romNameEl = document.getElementById('romName');
+        const buttonStates = new Map();
+
+        function sendParentStatus(type, extra) {
+          if (window.parent === window) {
+            return;
+          }
+          window.parent.postMessage(
+            {
+              type,
+              label,
+              ...extra
+            },
+            window.location.origin
+          );
+        }
+
+        function applyButton(player, button, pressed) {
+          const inputId = BUTTON_INPUT_IDS[button];
+          const gameManager = window.EJS_emulator && window.EJS_emulator.gameManager;
+          if (typeof inputId !== 'number' || !gameManager || statusEl.textContent !== 'Running') {
+            return;
+          }
+          const key = player + ':' + button;
+          if (buttonStates.get(key) === pressed) {
+            return;
+          }
+          buttonStates.set(key, pressed);
+          gameManager.simulateInput(player, inputId, pressed ? 1 : 0);
+        }
+
+        labelEl.textContent = label;
+        romNameEl.textContent = romName;
+
+        if (!romUrl) {
+          statusEl.textContent = 'Missing ROM';
+          return;
+        }
+
+        window.EJS_player = '#ejs-player';
+        window.EJS_gameName = romName;
+        window.EJS_gameUrl = romUrl;
+        window.EJS_core = 'tgbdual';
+        window.EJS_controlScheme = 'gb';
+        window.EJS_coreOptions = {
+          file: 'TGB Dual.opt',
+          settings: {
+            tgbdual_gblink_enable: 'enabled',
+            tgbdual_screen_placement: screenLayout,
+            tgbdual_audio_output: audioOutput,
+            tgbdual_single_screen_mp: visibleScreens,
+            tgbdual_switch_screens: switchScreens
+          }
+        };
+        window.EJS_biosUrl = '';
+        const configuredDataBase = window.__WEMU_CONFIG__ && typeof window.__WEMU_CONFIG__.emulatorJsDataBaseUrl === 'string'
+          ? window.__WEMU_CONFIG__.emulatorJsDataBaseUrl
+          : new URL('emulatorjs/data/', appBaseUrl).toString();
+        window.EJS_pathtodata = configuredDataBase.endsWith('/') ? configuredDataBase : configuredDataBase + '/';
+        window.EJS_startOnLoaded = true;
+        window.EJS_disableDatabases = true;
+        window.EJS_disableAutoLang = true;
+        window.EJS_DEBUG_XX = false;
+        window.EJS_noAutoFocus = true;
+        window.EJS_defaultControllers = {
+          0: {},
+          1: {},
+          2: {},
+          3: {}
+        };
+        window.EJS_defaultOptions = {
+          'virtual-gamepad': 'disabled',
+          'menu-bar-button': 'hidden',
+          fps: 'hide',
+          vsync: 'enabled',
+          ejs_threads: 'enabled',
+          webgl2Enabled: 'enabled'
+        };
+        window.EJS_Buttons = {
+          gamepad: { visible: false }
+        };
+        window.EJS_hideSettings = ['virtual-gamepad', 'menu-bar-button', 'virtual-gamepad-left-handed-mode'];
+        window.EJS_ready = function () {
+          statusEl.textContent = 'Booting TGB Dual';
+          sendParentStatus('wemu-gb-instance-status', { status: 'booting' });
+        };
+        window.EJS_onGameStart = function () {
+          statusEl.textContent = 'Running';
+          sendParentStatus('wemu-gb-instance-status', { status: 'running' });
+        };
+
+        window.addEventListener('message', function (event) {
+          if (event.origin !== window.location.origin || !event.data || typeof event.data !== 'object') {
+            return;
+          }
+
+          if (event.data.type !== 'wemu-gb-input') {
+            return;
+          }
+
+          applyButton(Number(event.data.player || 0), event.data.button, Boolean(event.data.pressed));
+        });
+
+        const script = document.createElement('script');
+        script.src = new URL('loader.js?gb-link=' + Date.now(), window.EJS_pathtodata).toString();
+        script.async = true;
+        script.onerror = function () {
+          statusEl.textContent = 'Loader failed';
+          sendParentStatus('wemu-gb-instance-status', { status: 'failed' });
+        };
+        statusEl.textContent = 'Loading ROM';
+        sendParentStatus('wemu-gb-instance-status', { status: 'loading' });
+        document.body.appendChild(script);
+      })();
+    </script>
+  </body>
+</html>

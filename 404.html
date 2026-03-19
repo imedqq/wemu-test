@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>WEMU Redirect</title>
+    <script>
+      (function () {
+        var routeRoots = new Set(['offline', 'spikes', 'join', 'play', 'play-standard', 'play-ios', 'room', 'legal']);
+        var parts = window.location.pathname.split('/').filter(Boolean);
+        var usesProjectBase = parts.length > 0 && !routeRoots.has(parts[0]);
+        var basePath = usesProjectBase ? '/' + parts[0] + '/' : '/';
+        var routeParts = usesProjectBase ? parts.slice(1) : parts;
+        var routePath = '/' + routeParts.join('/');
+        var routeSuffix = routePath + window.location.search + window.location.hash;
+
+        try {
+          window.sessionStorage.setItem('wemu.githubPagesRedirect', routeSuffix === '/' ? '' : routeSuffix);
+        } catch {
+          // Ignore unavailable session storage and continue to a plain redirect.
+        }
+
+        window.location.replace(window.location.origin + basePath);
+      })();
+    </script>
+  </head>
+  <body></body>
+</html>

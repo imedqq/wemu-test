@@ -1,0 +1,361 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>WEMU Naomi Flycast Spike</title>
+    <style>
+      html,
+      body {
+        background: #041220;
+        color: #e6eef7;
+        font-family: Inter, sans-serif;
+        height: 100%;
+        margin: 0;
+        overflow: hidden;
+      }
+
+      body {
+        display: block;
+        position: relative;
+      }
+
+      .head {
+        align-items: center;
+        background: linear-gradient(180deg, rgba(9, 28, 46, 0.96), rgba(6, 19, 33, 0.92));
+        border-bottom: 1px solid rgba(148, 163, 184, 0.18);
+        display: flex;
+        gap: 0.75rem;
+        justify-content: space-between;
+        left: 0;
+        padding: 0.55rem 0.8rem;
+        position: absolute;
+        right: 0;
+        top: 0;
+        z-index: 2;
+      }
+
+      .title {
+        display: grid;
+        gap: 0.12rem;
+      }
+
+      .title strong {
+        font-size: 0.88rem;
+      }
+
+      .title span {
+        color: #9db3c8;
+        font-size: 0.74rem;
+      }
+
+      .status {
+        color: #c8d7e6;
+        font-size: 0.76rem;
+        max-width: 40ch;
+        text-align: right;
+      }
+
+      #mount {
+        bottom: 0;
+        left: 0;
+        position: absolute;
+        right: 0;
+        top: 58px;
+      }
+
+      #ejs-player {
+        height: 100%;
+        left: 0;
+        position: absolute;
+        top: 0;
+        width: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <header class="head">
+      <div class="title">
+        <strong id="instanceLabel">Naomi / Flycast Spike</strong>
+        <span id="gameLabel">No game selected</span>
+      </div>
+      <div class="status" id="status">Idle</div>
+    </header>
+    <main id="mount">
+      <div id="ejs-player"></div>
+    </main>
+    <script src="runtime-config.js"></script>
+    <script>
+      (function () {
+        const appBaseUrl = new URL('./', window.location.href);
+        const params = new URLSearchParams(window.location.search);
+        const label = params.get('label') || 'Naomi / Flycast Spike';
+        const gameUrl = params.get('gameUrl') || '';
+        const gamePath = params.get('gamePath') || '';
+        const gameName = params.get('gameName') || 'No game selected';
+        const renderer = params.get('renderer') || 'per-strip';
+        const statusEl = document.getElementById('status');
+        const labelEl = document.getElementById('instanceLabel');
+        const gameLabelEl = document.getElementById('gameLabel');
+        const mountEl = document.getElementById('mount');
+        const filePaths = params.getAll('filePath');
+        const fileUrls = params.getAll('fileUrl');
+        const externalFiles = {};
+        const configuredDataBase = window.__WEMU_CONFIG__ && typeof window.__WEMU_CONFIG__.emulatorJsDataBaseUrl === 'string'
+          ? window.__WEMU_CONFIG__.emulatorJsDataBaseUrl
+          : new URL('emulatorjs/data/', appBaseUrl).toString();
+
+        function setStatus(text) {
+          statusEl.textContent = text;
+        }
+
+        function sendParentStatus(type, extra) {
+          if (window.parent === window) {
+            return;
+          }
+          window.parent.postMessage(
+            {
+              type,
+              label,
+              ...extra
+            },
+            window.location.origin
+          );
+        }
+
+        let bestFailureMessage = '';
+
+        function reportFailure(message) {
+          const text = String(message || 'Failed');
+          if (text.includes('Aborted(undefined)') && bestFailureMessage && !bestFailureMessage.includes('Aborted(undefined)')) {
+            sendParentStatus('wemu-flycast-status', { status: 'warning', message: text });
+            return;
+          }
+          bestFailureMessage = text;
+          setStatus(text);
+          sendParentStatus('wemu-flycast-status', { status: 'failed', message: text });
+        }
+
+        function layoutSnapshot() {
+          return {
+            mountWidth: mountEl ? mountEl.clientWidth : 0,
+            mountHeight: mountEl ? mountEl.clientHeight : 0,
+            playerWidth: document.getElementById('ejs-player')?.clientWidth || 0,
+            playerHeight: document.getElementById('ejs-player')?.clientHeight || 0,
+            windowWidth: window.innerWidth,
+            windowHeight: window.innerHeight
+          };
+        }
+
+        function hasUsableLayout() {
+          const layout = layoutSnapshot();
+          return layout.mountWidth > 0 && layout.mountHeight > 0 && layout.playerWidth > 0 && layout.playerHeight > 0;
+        }
+
+        async function waitForUsableLayout() {
+          for (let attempt = 0; attempt < 40; attempt += 1) {
+            if (hasUsableLayout()) {
+              return true;
+            }
+            await new Promise((resolve) => requestAnimationFrame(() => setTimeout(resolve, 50)));
+          }
+          return false;
+        }
+
+        labelEl.textContent = label;
+        gameLabelEl.textContent = gameName;
+
+        if (!gameUrl || !gamePath) {
+          setStatus('Missing game file');
+          return;
+        }
+
+        for (let index = 0; index < Math.min(filePaths.length, fileUrls.length); index += 1) {
+          externalFiles[filePaths[index]] = fileUrls[index];
+        }
+
+        window.EJS_player = '#ejs-player';
+        window.EJS_gameName = gameName;
+        window.EJS_gameUrl = gameUrl;
+        window.EJS_core = 'flycast';
+        window.EJS_controlScheme = 'arcade';
+        window.EJS_pathtodata = configuredDataBase.endsWith('/') ? configuredDataBase : configuredDataBase + '/';
+        window.EJS_startOnLoaded = false;
+        window.EJS_disableDatabases = true;
+        window.EJS_disableAutoLang = true;
+        window.EJS_DEBUG_XX = true;
+        window.EJS_noAutoFocus = true;
+        window.EJS_threads = true;
+        window.EJS_externalFiles = externalFiles;
+        const alphaSortingValue = renderer === 'per-pixel'
+          ? 'per-pixel (accurate)'
+          : 'per-strip (fast, least accurate)';
+        window.EJS_coreOptions = {
+          file: 'Flycast.opt',
+          settings: {
+            reicast_alpha_sorting: alphaSortingValue,
+            reicast_hle_bios: 'disabled',
+            reicast_threaded_rendering: 'enabled',
+            flycast_alpha_sorting: renderer === 'per-pixel'
+              ? 'Per-Pixel (accurate, but slowest)'
+              : 'Per-Strip (fast, least accurate)',
+            flycast_renderer: renderer,
+            flycast_hle_bios: 'disabled',
+            flycast_boot_to_bios: 'disabled',
+            flycast_threaded_rendering: 'enabled'
+          }
+        };
+        window.EJS_defaultOptions = {
+          'virtual-gamepad': 'disabled',
+          fps: 'hide',
+          vsync: 'enabled',
+          ejs_threads: 'enabled',
+          webgl2Enabled: 'enabled'
+        };
+        window.EJS_Buttons = {
+          gamepad: { visible: false }
+        };
+
+        if (typeof window.SharedArrayBuffer !== 'function' || !window.crossOriginIsolated) {
+          reportFailure('Flycast requires SharedArrayBuffer and cross-origin isolation.');
+          return;
+        }
+
+        window.addEventListener('error', (event) => {
+          reportFailure(event.message || 'Window error');
+        });
+
+        window.addEventListener('unhandledrejection', (event) => {
+          reportFailure(event.reason && event.reason.message ? event.reason.message : String(event.reason || 'Unhandled rejection'));
+        });
+
+        const originalWarn = console.warn.bind(console);
+        const originalLog = console.log.bind(console);
+        console.log = function (...args) {
+          originalLog(...args);
+          const text = args
+            .map((arg) => {
+              if (arg instanceof Error) {
+                return arg.stack || arg.message;
+              }
+              return typeof arg === 'string' ? arg : JSON.stringify(arg);
+            })
+            .join(' ')
+            .trim();
+          if (text) {
+            sendParentStatus('wemu-flycast-status', { status: 'log', message: text });
+          }
+        };
+        console.warn = function (...args) {
+          originalWarn(...args);
+          const text = args
+            .map((arg) => {
+              if (arg instanceof Error) {
+                return arg.stack || arg.message;
+              }
+              return typeof arg === 'string' ? arg : JSON.stringify(arg);
+            })
+            .join(' ')
+            .trim();
+          if (text) {
+            sendParentStatus('wemu-flycast-status', { status: 'warning', message: text });
+          }
+        };
+
+        window.EJS_ready = function () {
+          const emulator = window.EJS_emulator;
+          if (!emulator) {
+            reportFailure('Flycast init failed');
+            return;
+          }
+
+          emulator.on('exit', () => {
+            const currentText = emulator.textElem && typeof emulator.textElem.innerText === 'string'
+              ? emulator.textElem.innerText.trim()
+              : '';
+            if (currentText && !/^(loading|running)$/i.test(currentText)) {
+              reportFailure(currentText);
+            }
+          });
+
+          const originalStartGameError = emulator.startGameError.bind(emulator);
+          emulator.startGameError = function (message) {
+            reportFailure(message);
+            return originalStartGameError(message);
+          };
+
+          const originalDownloadFile = emulator.downloadFile.bind(emulator);
+          emulator.downloadRom = function () {
+            return new Promise(async (resolve) => {
+              if (this.textElem) {
+                this.textElem.innerText = this.localization('Download Game Data');
+              }
+
+              const response = await originalDownloadFile(
+                this.config.gameUrl,
+                (progress) => {
+                  if (this.textElem) {
+                    this.textElem.innerText = this.localization('Download Game Data') + progress;
+                  }
+                },
+                true,
+                { responseType: 'arraybuffer', method: 'GET' }
+              );
+
+              if (response === -1) {
+                this.startGameError(this.localization('Network Error'));
+                resolve();
+                return;
+              }
+
+              this.fileName = gamePath.replace(/^\//, '');
+              this.gameManager.writeFile(gamePath, new Uint8Array(response.data));
+              resolve();
+            });
+          };
+
+          (async () => {
+            setStatus('Preparing Naomi files');
+            sendParentStatus('wemu-flycast-status', { status: 'booting' });
+
+            const readyForStart = await waitForUsableLayout();
+            if (!readyForStart) {
+              const layout = layoutSnapshot();
+              reportFailure(`Flycast mount size stayed invalid: mount ${layout.mountWidth}x${layout.mountHeight}, player ${layout.playerWidth}x${layout.playerHeight}, window ${layout.windowWidth}x${layout.windowHeight}`);
+              return;
+            }
+
+            sendParentStatus('wemu-flycast-status', {
+              status: 'log',
+              message: `Starting with mount ${mountEl.clientWidth}x${mountEl.clientHeight}`
+            });
+
+            emulator.startButtonClicked({
+              pointerType: 'mouse',
+              preventDefault() {},
+              target: { remove() {} },
+              remove() {}
+            });
+          })().catch((error) => {
+            reportFailure(error instanceof Error ? error.message : String(error));
+          });
+        };
+
+        window.EJS_onGameStart = function () {
+          setStatus('Running');
+          sendParentStatus('wemu-flycast-status', { status: 'running' });
+        };
+
+        const script = document.createElement('script');
+        script.src = new URL('loader.js?flycast=' + Date.now(), window.EJS_pathtodata).toString();
+        script.async = true;
+        script.onerror = function () {
+          reportFailure('Loader failed');
+        };
+        setStatus('Loading Flycast');
+        sendParentStatus('wemu-flycast-status', { status: 'loading' });
+        document.body.appendChild(script);
+      })();
+    </script>
+  </body>
+</html>
