@@ -5,7 +5,7 @@
     <title>WEMU Redirect</title>
     <script>
       (function () {
-        var routeRoots = new Set(['offline', 'spikes', 'join', 'play', 'play-standard', 'play-ios', 'room', 'legal']);
+        var routeRoots = new Set(['offline', 'spikes', 'join', 'play', 'play-standard', 'play-ios', 'room', 'legal', 'games', 'dev']);
         var parts = window.location.pathname.split('/').filter(Boolean);
         var usesProjectBase = parts.length > 0 && !routeRoots.has(parts[0]);
         var basePath = usesProjectBase ? '/' + parts[0] + '/' : '/';
