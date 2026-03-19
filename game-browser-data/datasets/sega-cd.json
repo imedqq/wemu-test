@@ -1,5 +1,6 @@
 [
   {
+    "gameId": "sega-cd-00001",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "NFL Football Trivia Challenge",
@@ -38,6 +39,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/nfl-football-trivia-challenge"
   },
   {
+    "gameId": "sega-cd-00002",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Wheel of Fortune",
@@ -76,6 +78,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/wheel-of-fortune"
   },
   {
+    "gameId": "sega-cd-00003",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "BC Racers",
@@ -114,6 +117,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/bc-racers"
   },
   {
+    "gameId": "sega-cd-00004",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Jaguar XJ220",
@@ -152,6 +156,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/jaguar-xj220"
   },
   {
+    "gameId": "sega-cd-00005",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Road Rash",
@@ -190,6 +195,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/road-rash"
   },
   {
+    "gameId": "sega-cd-00006",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Bill Walsh College Football",
@@ -228,6 +234,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/bill-walsh-college-football"
   },
   {
+    "gameId": "sega-cd-00007",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "ESPN NBA Hangtime '95",
@@ -266,6 +273,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/espn-nba-hangtime-95"
   },
   {
+    "gameId": "sega-cd-00008",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "ESPN National Hockey Night",
@@ -304,6 +312,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/espn-national-hockey-night"
   },
   {
+    "gameId": "sega-cd-00009",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "FIFA International Soccer",
@@ -342,6 +351,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/fifa-international-soccer"
   },
   {
+    "gameId": "sega-cd-00010",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Jeopardy!",
@@ -380,6 +390,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/jeopardy"
   },
   {
+    "gameId": "sega-cd-00011",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "NBA Jam",
@@ -418,6 +429,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/nba-jam"
   },
   {
+    "gameId": "sega-cd-00012",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "NHL '94",
@@ -456,6 +468,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/nhl-94"
   },
   {
+    "gameId": "sega-cd-00013",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "WWF Rage in the Cage",
@@ -494,6 +507,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/wwf-rage-in-the-cage"
   },
   {
+    "gameId": "sega-cd-00014",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "World Cup USA 94",
@@ -532,6 +546,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/world-cup-usa-94"
   },
   {
+    "gameId": "sega-cd-00015",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Lethal Enforcers",
@@ -570,6 +585,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/lethal-enforcers"
   },
   {
+    "gameId": "sega-cd-00016",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Lethal Enforcers II: Gun Fighters",
@@ -608,6 +624,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/lethal-enforcers-ii-gun-fighters"
   },
   {
+    "gameId": "sega-cd-00017",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Mad Dog II: The Lost Gold",
@@ -646,6 +663,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/mad-dog-ii-the-lost-gold"
   },
   {
+    "gameId": "sega-cd-00018",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Mad Dog McCree",
@@ -684,6 +702,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/mad-dog-mccree"
   },
   {
+    "gameId": "sega-cd-00019",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Crime Patrol",
@@ -722,6 +741,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/crime-patrol"
   },
   {
+    "gameId": "sega-cd-00020",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Lords of Thunder",
@@ -760,6 +780,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/lords-of-thunder"
   },
   {
+    "gameId": "sega-cd-00021",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Soulstar",
@@ -798,6 +819,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/soulstar"
   },
   {
+    "gameId": "sega-cd-00022",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Who Shot Johnny Rock?",
@@ -836,6 +858,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/who-shot-johnny-rock"
   },
   {
+    "gameId": "sega-cd-00023",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Blackhole Assault",
@@ -874,6 +897,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/blackhole-assault"
   },
   {
+    "gameId": "sega-cd-00024",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Brutal: Paws of Fury",
@@ -912,6 +936,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/brutal-paws-of-fury"
   },
   {
+    "gameId": "sega-cd-00025",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Fatal Fury Special",
@@ -950,6 +975,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/fatal-fury-special"
   },
   {
+    "gameId": "sega-cd-00026",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Revengers of Vengeance",
@@ -988,6 +1014,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/revengers-of-vengeance"
   },
   {
+    "gameId": "sega-cd-00027",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Samurai Shodown",
@@ -1026,6 +1053,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/samurai-shodown"
   },
   {
+    "gameId": "sega-cd-00028",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Championship Soccer '94",
@@ -1064,6 +1092,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/championship-soccer-94"
   },
   {
+    "gameId": "sega-cd-00029",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "ESPN Sunday Night NFL",
@@ -1102,6 +1131,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/espn-sunday-night-nfl"
   },
   {
+    "gameId": "sega-cd-00030",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Joe Montana's NFL Football",
@@ -1140,6 +1170,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/joe-montanas-nfl-football"
   },
   {
+    "gameId": "sega-cd-00031",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Eternal Champions: Challenge from the Dark Side",
@@ -1178,6 +1209,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/eternal-champions-challenge-from-the-dark-side"
   },
   {
+    "gameId": "sega-cd-00032",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Mortal Kombat",
@@ -1216,6 +1248,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/mortal-kombat"
   },
   {
+    "gameId": "sega-cd-00033",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Links: The Challenge of Golf",
@@ -1254,6 +1287,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/links-the-challenge-of-golf"
   },
   {
+    "gameId": "sega-cd-00034",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "ESPN Baseball Tonight",
@@ -1292,6 +1326,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/espn-baseball-tonight"
   },
   {
+    "gameId": "sega-cd-00035",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Ultraverse Prime",
@@ -1330,6 +1365,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/ultraverse-prime"
   },
   {
+    "gameId": "sega-cd-00036",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Trivial Pursuit Interactive Multimedia Game",
@@ -1368,6 +1404,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/trivial-pursuit-interactive-multimedia-game"
   },
   {
+    "gameId": "sega-cd-00037",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "3 Ninjas Kick Back",
@@ -1406,6 +1443,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/3-ninjas-kick-back"
   },
   {
+    "gameId": "sega-cd-00038",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Bouncers",
@@ -1444,6 +1482,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/bouncers"
   },
   {
+    "gameId": "sega-cd-00039",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Cadillacs and Dinosaurs: The Second Cataclysm",
@@ -1482,6 +1521,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/cadillacs-and-dinosaurs-the-second-cataclysm"
   },
   {
+    "gameId": "sega-cd-00040",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Final Fight CD",
@@ -1520,6 +1560,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/final-fight-cd"
   },
   {
+    "gameId": "sega-cd-00041",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "RDF: Global Conflict",
@@ -1558,6 +1599,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/rdf-global-conflict"
   },
   {
+    "gameId": "sega-cd-00042",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Radical Rex",
@@ -1596,6 +1638,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/radical-rex"
   },
   {
+    "gameId": "sega-cd-00043",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Sega Classics Arcade Collection 4-in-1",
@@ -1634,6 +1677,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/sega-classics-arcade-collection-4-in-1"
   },
   {
+    "gameId": "sega-cd-00044",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Sega Classics Arcade Collection 5-in-1",
@@ -1672,6 +1716,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/sega-classics-arcade-collection-5-in-1"
   },
   {
+    "gameId": "sega-cd-00045",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Star Wars Chess",
@@ -1710,6 +1755,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/star-wars-chess"
   },
   {
+    "gameId": "sega-cd-00046",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Dungeon Explorer",
@@ -1748,6 +1794,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/dungeon-explorer"
   },
   {
+    "gameId": "sega-cd-00047",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Dungeon Master II: Skullkeep",
@@ -1786,6 +1833,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/dungeon-master-ii-skullkeep"
   },
   {
+    "gameId": "sega-cd-00048",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "A/X 101",
@@ -1824,6 +1872,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/a-x-101"
   },
   {
+    "gameId": "sega-cd-00049",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "AH-3 Thunderstrike",
@@ -1862,6 +1911,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/ah-3-thunderstrike"
   },
   {
+    "gameId": "sega-cd-00050",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "After Burner III",
@@ -1900,6 +1950,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/after-burner-iii"
   },
   {
+    "gameId": "sega-cd-00051",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Android Assault: The Revenge of Bari-Arm",
@@ -1938,6 +1989,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/android-assault-the-revenge-of-bari-arm"
   },
   {
+    "gameId": "sega-cd-00052",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Batman Returns",
@@ -1976,6 +2028,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/batman-returns"
   },
   {
+    "gameId": "sega-cd-00053",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Battlecorps",
@@ -2014,6 +2067,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/battlecorps"
   },
   {
+    "gameId": "sega-cd-00054",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Bram Stoker's Dracula",
@@ -2052,6 +2106,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/bram-stokers-dracula"
   },
   {
+    "gameId": "sega-cd-00055",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Chuck Rock",
@@ -2090,6 +2145,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/chuck-rock"
   },
   {
+    "gameId": "sega-cd-00056",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Chuck Rock II: Son of Chuck",
@@ -2128,6 +2184,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/chuck-rock-ii-son-of-chuck"
   },
   {
+    "gameId": "sega-cd-00057",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Cliffhanger",
@@ -2166,6 +2223,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/cliffhanger"
   },
   {
+    "gameId": "sega-cd-00058",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Cobra Command",
@@ -2204,6 +2262,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/cobra-command"
   },
   {
+    "gameId": "sega-cd-00059",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Compton's Interactive Encyclopedia",
@@ -2242,6 +2301,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/comptons-interactive-encyclopedia"
   },
   {
+    "gameId": "sega-cd-00060",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Corpse Killer",
@@ -2280,6 +2340,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/corpse-killer"
   },
   {
+    "gameId": "sega-cd-00061",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Corpse Killer (32X)",
@@ -2318,6 +2379,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/corpse-killer-32x"
   },
   {
+    "gameId": "sega-cd-00062",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Dark Wizard",
@@ -2356,6 +2418,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/dark-wizard"
   },
   {
+    "gameId": "sega-cd-00063",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Demolition Man",
@@ -2394,6 +2457,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/demolition-man"
   },
   {
+    "gameId": "sega-cd-00064",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Double Switch",
@@ -2432,6 +2496,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/double-switch"
   },
   {
+    "gameId": "sega-cd-00065",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Dracula Unleashed Disc 1",
@@ -2470,6 +2535,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/dracula-unleashed-disc-1"
   },
   {
+    "gameId": "sega-cd-00066",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Dracula Unleashed Disc 1",
@@ -2508,6 +2574,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/dracula-unleashed-disc-1"
   },
   {
+    "gameId": "sega-cd-00067",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Dragon's Lair",
@@ -2546,6 +2613,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/dragons-lair"
   },
   {
+    "gameId": "sega-cd-00068",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Dune",
@@ -2584,6 +2652,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/dune"
   },
   {
+    "gameId": "sega-cd-00069",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Earthworm Jim: Special Edition",
@@ -2622,6 +2691,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/earthworm-jim-special-edition"
   },
   {
+    "gameId": "sega-cd-00070",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Ecco the Dolphin",
@@ -2660,6 +2730,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/ecco-the-dolphin"
   },
   {
+    "gameId": "sega-cd-00071",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Ecco: The Tides of Time",
@@ -2698,6 +2769,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/ecco-the-tides-of-time"
   },
   {
+    "gameId": "sega-cd-00072",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Eye of the Beholder",
@@ -2736,6 +2808,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/eye-of-the-beholder"
   },
   {
+    "gameId": "sega-cd-00073",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Fahrenheit Disc 1",
@@ -2774,6 +2847,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/fahrenheit-disc-1"
   },
   {
+    "gameId": "sega-cd-00074",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Fahrenheit Disc 1",
@@ -2812,6 +2886,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/fahrenheit-disc-1"
   },
   {
+    "gameId": "sega-cd-00075",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Flashback: The Quest for Identity",
@@ -2850,6 +2925,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/flashback-the-quest-for-identity"
   },
   {
+    "gameId": "sega-cd-00076",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Flink",
@@ -2888,6 +2964,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/flink"
   },
   {
+    "gameId": "sega-cd-00077",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Formula One World Championship: Beyond the Limit",
@@ -2926,6 +3003,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/formula-one-world-championship-beyond-the-limit"
   },
   {
+    "gameId": "sega-cd-00078",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Ground Zero Texas Disc 1",
@@ -2964,6 +3042,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/ground-zero-texas-disc-1"
   },
   {
+    "gameId": "sega-cd-00079",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Ground Zero Texas Disc 1",
@@ -3002,6 +3081,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/ground-zero-texas-disc-1"
   },
   {
+    "gameId": "sega-cd-00080",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Heart of the Alien: Out of this World parts I and II",
@@ -3040,6 +3120,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/heart-of-the-alien-out-of-this-world-parts-i-and-ii"
   },
   {
+    "gameId": "sega-cd-00081",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Heimdall",
@@ -3078,6 +3159,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/heimdall"
   },
   {
+    "gameId": "sega-cd-00082",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Hook",
@@ -3116,6 +3198,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/hook"
   },
   {
+    "gameId": "sega-cd-00083",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Iron Helix",
@@ -3154,6 +3237,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/iron-helix"
   },
   {
+    "gameId": "sega-cd-00084",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Jurassic Park",
@@ -3192,6 +3276,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/jurassic-park"
   },
   {
+    "gameId": "sega-cd-00085",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Keio Flying Squadron",
@@ -3230,6 +3315,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/keio-flying-squadron"
   },
   {
+    "gameId": "sega-cd-00086",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Kids on Site",
@@ -3268,6 +3354,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/kids-on-site"
   },
   {
+    "gameId": "sega-cd-00087",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Loadstar: The Legend of Tully Bodine",
@@ -3306,6 +3393,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/loadstar-the-legend-of-tully-bodine"
   },
   {
+    "gameId": "sega-cd-00088",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Lunar: Eternal Blue",
@@ -3344,6 +3432,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/lunar-eternal-blue"
   },
   {
+    "gameId": "sega-cd-00089",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Lunar: The Silver Star",
@@ -3382,6 +3471,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/lunar-the-silver-star"
   },
   {
+    "gameId": "sega-cd-00090",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Make My Video: INXS",
@@ -3420,6 +3510,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/make-my-video-inxs"
   },
   {
+    "gameId": "sega-cd-00091",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Make My Video: Kris Kross",
@@ -3458,6 +3549,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/make-my-video-kris-kross"
   },
   {
+    "gameId": "sega-cd-00092",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Make My Video: Marky Mark and the Funky Bunch",
@@ -3496,6 +3588,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/make-my-video-marky-mark-and-the-funky-bunch"
   },
   {
+    "gameId": "sega-cd-00093",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Mansion of Hidden Souls",
@@ -3534,6 +3627,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/mansion-of-hidden-souls"
   },
   {
+    "gameId": "sega-cd-00094",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Mary Shelley's Frankenstein",
@@ -3572,6 +3666,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/mary-shelleys-frankenstein"
   },
   {
+    "gameId": "sega-cd-00095",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "MegaRace",
@@ -3610,6 +3705,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/megarace"
   },
   {
+    "gameId": "sega-cd-00096",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Mickey Mania",
@@ -3648,6 +3744,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/mickey-mania"
   },
   {
+    "gameId": "sega-cd-00097",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Microcosm",
@@ -3686,6 +3783,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/microcosm"
   },
   {
+    "gameId": "sega-cd-00098",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Midnight Raiders",
@@ -3724,6 +3822,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/midnight-raiders"
   },
   {
+    "gameId": "sega-cd-00099",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Mighty Morphin Power Rangers",
@@ -3762,6 +3861,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/mighty-morphin-power-rangers"
   },
   {
+    "gameId": "sega-cd-00100",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "My Paint - The Animated Paint Program",
@@ -3800,6 +3900,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/my-paint-the-animated-paint-program"
   },
   {
+    "gameId": "sega-cd-00101",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "NFL's Greatest - San Francisco vs. Dallas 1978-1993",
@@ -3838,6 +3939,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/nfls-greatest-san-francisco-vs-dallas-1978-1993"
   },
   {
+    "gameId": "sega-cd-00102",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Night Trap Disc 1",
@@ -3876,6 +3978,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/night-trap-disc-1"
   },
   {
+    "gameId": "sega-cd-00103",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Night Trap Disc 1",
@@ -3914,6 +4017,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/night-trap-disc-1"
   },
   {
+    "gameId": "sega-cd-00104",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Night Trap Disc 1 (32X)",
@@ -3952,6 +4056,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/night-trap-disc-1-32x"
   },
   {
+    "gameId": "sega-cd-00105",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Night Trap Disc 1 (32X)",
@@ -3990,6 +4095,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/night-trap-disc-1-32x"
   },
   {
+    "gameId": "sega-cd-00106",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Novastorm",
@@ -4028,6 +4134,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/novastorm"
   },
   {
+    "gameId": "sega-cd-00107",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Panic!",
@@ -4066,6 +4173,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/panic"
   },
   {
+    "gameId": "sega-cd-00108",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Penn & Teller - Smoke and Mirrors Disc 1",
@@ -4104,6 +4212,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/penn-and-teller-smoke-and-mirrors-disc-1"
   },
   {
+    "gameId": "sega-cd-00109",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Penn & Teller - Smoke and Mirrors Disc 1",
@@ -4142,6 +4251,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/penn-and-teller-smoke-and-mirrors-disc-1"
   },
   {
+    "gameId": "sega-cd-00110",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Pitfall: The Mayan Adventure",
@@ -4180,6 +4290,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/pitfall-the-mayan-adventure"
   },
   {
+    "gameId": "sega-cd-00111",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Popful Mail",
@@ -4218,6 +4329,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/popful-mail"
   },
   {
+    "gameId": "sega-cd-00112",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Power Factory Featuring C+C Music Factory",
@@ -4256,6 +4368,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/power-factory-featuring-c-c-music-factory"
   },
   {
+    "gameId": "sega-cd-00113",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "PowerMonger",
@@ -4294,6 +4407,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/powermonger"
   },
   {
+    "gameId": "sega-cd-00114",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Prince of Persia",
@@ -4332,6 +4446,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/prince-of-persia"
   },
   {
+    "gameId": "sega-cd-00115",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Prize Fighter Disc 1",
@@ -4370,6 +4485,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/prize-fighter-disc-1"
   },
   {
+    "gameId": "sega-cd-00116",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Prize Fighter Disc 1",
@@ -4408,6 +4524,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/prize-fighter-disc-1"
   },
   {
+    "gameId": "sega-cd-00117",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Puggsy",
@@ -4446,6 +4563,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/puggsy"
   },
   {
+    "gameId": "sega-cd-00118",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Racing Aces",
@@ -4484,6 +4602,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/racing-aces"
   },
   {
+    "gameId": "sega-cd-00119",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Revenge of the Ninja",
@@ -4522,6 +4641,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/revenge-of-the-ninja"
   },
   {
+    "gameId": "sega-cd-00120",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Rise of the Dragon",
@@ -4560,6 +4680,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/rise-of-the-dragon"
   },
   {
+    "gameId": "sega-cd-00121",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Road Avenger",
@@ -4598,6 +4719,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/road-avenger"
   },
   {
+    "gameId": "sega-cd-00122",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Robo Aleste",
@@ -4636,6 +4758,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/robo-aleste"
   },
   {
+    "gameId": "sega-cd-00123",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "San Diego Zoo Presents... The Animals!, The",
@@ -4674,6 +4797,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/san-diego-zoo-presents-the-animals-the"
   },
   {
+    "gameId": "sega-cd-00124",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Sewer Shark",
@@ -4712,6 +4836,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/sewer-shark"
   },
   {
+    "gameId": "sega-cd-00125",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Shadow of the Beast II",
@@ -4750,6 +4875,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/shadow-of-the-beast-ii"
   },
   {
+    "gameId": "sega-cd-00126",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Sherlock Holmes Consulting Detective: Volume II Disc 1",
@@ -4788,6 +4914,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/sherlock-holmes-consulting-detective-volume-ii-disc-1"
   },
   {
+    "gameId": "sega-cd-00127",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Sherlock Holmes Consulting Detective: Volume II Disc 1",
@@ -4826,6 +4953,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/sherlock-holmes-consulting-detective-volume-ii-disc-1"
   },
   {
+    "gameId": "sega-cd-00128",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Sherlock Holmes: Consulting Detective",
@@ -4864,6 +4992,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/sherlock-holmes-consulting-detective"
   },
   {
+    "gameId": "sega-cd-00129",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Shining Force CD",
@@ -4902,6 +5031,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/shining-force-cd"
   },
   {
+    "gameId": "sega-cd-00130",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Silpheed",
@@ -4940,6 +5070,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/silpheed"
   },
   {
+    "gameId": "sega-cd-00131",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Slam City with Scottie Pippen Disc 1",
@@ -4978,6 +5109,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/slam-city-with-scottie-pippen-disc-1"
   },
   {
+    "gameId": "sega-cd-00132",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Slam City with Scottie Pippen Disc 1",
@@ -5016,6 +5148,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/slam-city-with-scottie-pippen-disc-1"
   },
   {
+    "gameId": "sega-cd-00133",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Slam City with Scottie Pippen Disc 1",
@@ -5054,6 +5187,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/slam-city-with-scottie-pippen-disc-1"
   },
   {
+    "gameId": "sega-cd-00134",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Slam City with Scottie Pippen Disc 1",
@@ -5092,6 +5226,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/slam-city-with-scottie-pippen-disc-1"
   },
   {
+    "gameId": "sega-cd-00135",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Slam City with Scottie Pippen Disc 1 (32X)",
@@ -5130,6 +5265,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/slam-city-with-scottie-pippen-disc-1-32x"
   },
   {
+    "gameId": "sega-cd-00136",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Slam City with Scottie Pippen Disc 1 (32X)",
@@ -5168,6 +5304,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/slam-city-with-scottie-pippen-disc-1-32x"
   },
   {
+    "gameId": "sega-cd-00137",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Slam City with Scottie Pippen Disc 1 (32X)",
@@ -5206,6 +5343,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/slam-city-with-scottie-pippen-disc-1-32x"
   },
   {
+    "gameId": "sega-cd-00138",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Slam City with Scottie Pippen Disc 1 (32X)",
@@ -5244,6 +5382,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/slam-city-with-scottie-pippen-disc-1-32x"
   },
   {
+    "gameId": "sega-cd-00139",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Smurfs",
@@ -5282,6 +5421,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/smurfs"
   },
   {
+    "gameId": "sega-cd-00140",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Snatcher",
@@ -5320,6 +5460,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/snatcher"
   },
   {
+    "gameId": "sega-cd-00141",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Sol-Feace",
@@ -5358,6 +5499,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/sol-feace"
   },
   {
+    "gameId": "sega-cd-00142",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Sonic CD",
@@ -5396,6 +5538,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/sonic-cd"
   },
   {
+    "gameId": "sega-cd-00143",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Space Ace",
@@ -5434,6 +5577,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/space-ace"
   },
   {
+    "gameId": "sega-cd-00144",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Star Wars: Rebel Assault",
@@ -5472,6 +5616,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/star-wars-rebel-assault"
   },
   {
+    "gameId": "sega-cd-00145",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Starblade",
@@ -5510,6 +5655,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/starblade"
   },
   {
+    "gameId": "sega-cd-00146",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Stellar-Fire",
@@ -5548,6 +5694,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/stellar-fire"
   },
   {
+    "gameId": "sega-cd-00147",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Supreme Warrior Disc 1",
@@ -5586,6 +5733,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/supreme-warrior-disc-1"
   },
   {
+    "gameId": "sega-cd-00148",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Supreme Warrior Disc 1",
@@ -5624,6 +5772,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/supreme-warrior-disc-1"
   },
   {
+    "gameId": "sega-cd-00149",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Supreme Warrior Disc 1 (32X)",
@@ -5662,6 +5811,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/supreme-warrior-disc-1-32x"
   },
   {
+    "gameId": "sega-cd-00150",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Supreme Warrior Disc 1 (32X)",
@@ -5700,6 +5850,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/supreme-warrior-disc-1-32x"
   },
   {
+    "gameId": "sega-cd-00151",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Surgical Strike",
@@ -5738,6 +5889,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/surgical-strike"
   },
   {
+    "gameId": "sega-cd-00152",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Syndicate",
@@ -5776,6 +5928,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/syndicate"
   },
   {
+    "gameId": "sega-cd-00153",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "The Adventures of Batman & Robin",
@@ -5814,6 +5967,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/the-adventures-of-batman-and-robin"
   },
   {
+    "gameId": "sega-cd-00154",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "The Adventures of Willy Beamish",
@@ -5852,6 +6006,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/the-adventures-of-willy-beamish"
   },
   {
+    "gameId": "sega-cd-00155",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "The Amazing Spider-Man vs. The Kingpin",
@@ -5890,6 +6045,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/the-amazing-spider-man-vs-the-kingpin"
   },
   {
+    "gameId": "sega-cd-00156",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "The Lawnmower Man",
@@ -5928,6 +6084,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/the-lawnmower-man"
   },
   {
+    "gameId": "sega-cd-00157",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "The Masked Rider: Kamen Rider ZO",
@@ -5966,6 +6123,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/the-masked-rider-kamen-rider-zo"
   },
   {
+    "gameId": "sega-cd-00158",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "The Secret of Monkey Island",
@@ -6004,6 +6162,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/the-secret-of-monkey-island"
   },
   {
+    "gameId": "sega-cd-00159",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "The Space Adventure",
@@ -6042,6 +6201,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/the-space-adventure"
   },
   {
+    "gameId": "sega-cd-00160",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "The Terminator",
@@ -6080,6 +6240,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/the-terminator"
   },
   {
+    "gameId": "sega-cd-00161",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Theme Park",
@@ -6118,6 +6279,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/theme-park"
   },
   {
+    "gameId": "sega-cd-00162",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Third World War",
@@ -6156,6 +6318,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/third-world-war"
   },
   {
+    "gameId": "sega-cd-00163",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Time Gal",
@@ -6194,6 +6357,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/time-gal"
   },
   {
+    "gameId": "sega-cd-00164",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Tomcat Alley",
@@ -6232,6 +6396,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/tomcat-alley"
   },
   {
+    "gameId": "sega-cd-00165",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Vay",
@@ -6270,6 +6435,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/vay"
   },
   {
+    "gameId": "sega-cd-00166",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Virtual VCR – The Colors of Modern Rock",
@@ -6308,6 +6474,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/virtual-vcr-the-colors-of-modern-rock"
   },
   {
+    "gameId": "sega-cd-00167",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Wild Woody",
@@ -6346,6 +6513,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/wild-woody"
   },
   {
+    "gameId": "sega-cd-00168",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Wing Commander",
@@ -6384,6 +6552,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/wing-commander"
   },
   {
+    "gameId": "sega-cd-00169",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Wirehead",
@@ -6422,6 +6591,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/wirehead"
   },
   {
+    "gameId": "sega-cd-00170",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Wolfchild",
@@ -6460,6 +6630,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-cd/artwork-title-screen/wolfchild"
   },
   {
+    "gameId": "sega-cd-00171",
     "datasetId": "sega-cd",
     "console": "Sega CD",
     "english_name": "Wonder Dog",

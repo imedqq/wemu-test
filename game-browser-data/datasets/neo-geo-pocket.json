@@ -1,5 +1,6 @@
 [
   {
+    "gameId": "neo-geo-pocket-00001",
     "datasetId": "neo-geo-pocket",
     "console": "Neo Geo Pocket",
     "english_name": "Pocket Tennis - Pocket Sports Series",
@@ -38,6 +39,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/snk-neo-geo-pocket/artwork-title-screen/pocket-tennis-pocket-sports-series"
   },
   {
+    "gameId": "neo-geo-pocket-00002",
     "datasetId": "neo-geo-pocket",
     "console": "Neo Geo Pocket",
     "english_name": "Samurai Shodown! - Pocket Fighting Series",
@@ -76,6 +78,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/snk-neo-geo-pocket/artwork-title-screen/samurai-shodown-pocket-fighting-series"
   },
   {
+    "gameId": "neo-geo-pocket-00003",
     "datasetId": "neo-geo-pocket",
     "console": "Neo Geo Pocket",
     "english_name": "Neo Geo Cup '98",
@@ -114,6 +117,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/snk-neo-geo-pocket/artwork-title-screen/neo-geo-cup-98"
   },
   {
+    "gameId": "neo-geo-pocket-00004",
     "datasetId": "neo-geo-pocket",
     "console": "Neo Geo Pocket",
     "english_name": "Baseball Stars",
@@ -152,6 +156,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/snk-neo-geo-pocket/artwork-title-screen/baseball-stars"
   },
   {
+    "gameId": "neo-geo-pocket-00005",
     "datasetId": "neo-geo-pocket",
     "console": "Neo Geo Pocket",
     "english_name": "Shougi no Tatsujin",
@@ -190,6 +195,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/snk-neo-geo-pocket/artwork-title-screen/shougi-no-tatsujin"
   },
   {
+    "gameId": "neo-geo-pocket-00006",
     "datasetId": "neo-geo-pocket",
     "console": "Neo Geo Pocket",
     "english_name": "Dokodemo Mahjong",
@@ -228,6 +234,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/snk-neo-geo-pocket/artwork-title-screen/dokodemo-mahjong"
   },
   {
+    "gameId": "neo-geo-pocket-00007",
     "datasetId": "neo-geo-pocket",
     "console": "Neo Geo Pocket",
     "english_name": "King of Fighters R-1",
@@ -266,6 +273,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/snk-neo-geo-pocket/artwork-title-screen/king-of-fighters-r-1"
   },
   {
+    "gameId": "neo-geo-pocket-00008",
     "datasetId": "neo-geo-pocket",
     "console": "Neo Geo Pocket",
     "english_name": "Melon-chan no Seichou Nikki",
@@ -304,6 +312,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/snk-neo-geo-pocket/artwork-title-screen/melon-chan-no-seichou-nikki"
   },
   {
+    "gameId": "neo-geo-pocket-00009",
     "datasetId": "neo-geo-pocket",
     "console": "Neo Geo Pocket",
     "english_name": "Neo Cherry Master - Real Casino Series",
@@ -342,6 +351,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/snk-neo-geo-pocket/artwork-title-screen/neo-cherry-master-real-casino-series"
   },
   {
+    "gameId": "neo-geo-pocket-00010",
     "datasetId": "neo-geo-pocket",
     "console": "Neo Geo Pocket",
     "english_name": "Renketsu Puzzle Tsunagete Pon!",

@@ -1,0 +1,18 @@
+IBM VGA 8x16 webfont used by WEMU
+
+Source:
+https://int10h.org/oldschool-pc-fonts/
+https://int10h.org/oldschool-pc-fonts/download/
+
+Pack:
+The Ultimate Oldschool PC Font Pack v2.2
+
+Embedded file:
+Web437_IBM_VGA_8x16.woff
+
+License:
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Copyright / attribution:
+The font files in the pack are by VileR / int10h.org.

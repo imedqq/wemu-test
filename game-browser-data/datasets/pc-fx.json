@@ -1,5 +1,6 @@
 [
   {
+    "gameId": "pc-fx-00001",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Shanghai The Great Wall",
@@ -38,6 +39,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/shanghai-the-great-wall"
   },
   {
+    "gameId": "pc-fx-00002",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Battle Heat",
@@ -76,6 +78,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/battle-heat"
   },
   {
+    "gameId": "pc-fx-00003",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Tengai Makyu Karakuri Kakutouden",
@@ -114,6 +117,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/tengai-makyu-karakuri-kakutouden"
   },
   {
+    "gameId": "pc-fx-00004",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "All Japan Womans Pro Wrestling - Queen Of Queens  Disk 1",
@@ -152,6 +156,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "pc-fx-00005",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "All Japan Womans Pro Wrestling - Queen Of Queens  Disk 1",
@@ -190,6 +195,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "pc-fx-00006",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Super Power League FX",
@@ -228,6 +234,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/super-power-league-fx"
   },
   {
+    "gameId": "pc-fx-00007",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Akazukin Chacha",
@@ -266,6 +273,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/akazukin-chacha"
   },
   {
+    "gameId": "pc-fx-00008",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Chip Chan Kick",
@@ -304,6 +312,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/chip-chan-kick"
   },
   {
+    "gameId": "pc-fx-00009",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Kishin Douji Zenki Vajura Fight FX",
@@ -342,6 +351,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/kishin-douji-zenki-vajura-fight-fx"
   },
   {
+    "gameId": "pc-fx-00010",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Aa! Megami Sama  Disk 1",
@@ -380,6 +390,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "pc-fx-00011",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Aa! Megami Sama  Disk 1",
@@ -418,6 +429,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "pc-fx-00012",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Angelique Special",
@@ -456,6 +468,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/angelique-special"
   },
   {
+    "gameId": "pc-fx-00013",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Angelique Special 2",
@@ -494,6 +507,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/angelique-special-2"
   },
   {
+    "gameId": "pc-fx-00014",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Angelique Tenkuu No Requim",
@@ -532,6 +546,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/angelique-tenkuu-no-requim"
   },
   {
+    "gameId": "pc-fx-00015",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Aruberea's Maiden",
@@ -570,6 +585,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/arubereas-maiden"
   },
   {
+    "gameId": "pc-fx-00016",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Blue Breaker",
@@ -608,6 +624,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/blue-breaker"
   },
   {
+    "gameId": "pc-fx-00017",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Blue Chicago Blues  Disk 1",
@@ -646,6 +663,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "pc-fx-00018",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Blue Chicago Blues  Disk 1",
@@ -684,6 +702,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "pc-fx-00019",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Boundary Gate - Daughter Of Kingdom",
@@ -722,6 +741,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/boundary-gate-daughter-of-kingdom"
   },
   {
+    "gameId": "pc-fx-00020",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Can Can Bunny Extra DX",
@@ -760,6 +780,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/can-can-bunny-extra-dx"
   },
   {
+    "gameId": "pc-fx-00021",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Comic Road",
@@ -798,6 +819,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/comic-road"
   },
   {
+    "gameId": "pc-fx-00022",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Cutey Honey FX",
@@ -836,6 +858,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/cutey-honey-fx"
   },
   {
+    "gameId": "pc-fx-00023",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Der Langrisser FX",
@@ -874,6 +897,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/der-langrisser-fx"
   },
   {
+    "gameId": "pc-fx-00024",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Doukyusei II",
@@ -912,6 +936,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/doukyusei-ii"
   },
   {
+    "gameId": "pc-fx-00025",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Dragon Knight IV",
@@ -950,6 +975,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/dragon-knight-iv"
   },
   {
+    "gameId": "pc-fx-00026",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Farland Story FX",
@@ -988,6 +1014,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/farland-story-fx"
   },
   {
+    "gameId": "pc-fx-00027",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Fire Woman Matoi-Gumi",
@@ -1026,6 +1053,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/fire-woman-matoi-gumi"
   },
   {
+    "gameId": "pc-fx-00028",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "First Kiss Monogatari",
@@ -1064,6 +1092,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/first-kiss-monogatari"
   },
   {
+    "gameId": "pc-fx-00029",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Fushigi No Kuni No Angelique",
@@ -1102,6 +1131,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/fushigi-no-kuni-no-angelique"
   },
   {
+    "gameId": "pc-fx-00030",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Ginga Ojousama Densetsu Yuna FX",
@@ -1140,6 +1170,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/ginga-ojousama-densetsu-yuna-fx"
   },
   {
+    "gameId": "pc-fx-00031",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Kokuu Hyouryuu Nirgends",
@@ -1178,6 +1209,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/kokuu-hyouryuu-nirgends"
   },
   {
+    "gameId": "pc-fx-00032",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Konpeki No Kantai",
@@ -1216,6 +1248,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/konpeki-no-kantai"
   },
   {
+    "gameId": "pc-fx-00033",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Last Imperial Prince  Disk 1",
@@ -1254,6 +1287,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "pc-fx-00034",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Last Imperial Prince  Disk 1",
@@ -1292,6 +1326,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "pc-fx-00035",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Lunatic Dawn",
@@ -1330,6 +1365,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/lunatic-dawn"
   },
   {
+    "gameId": "pc-fx-00036",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Mahjong Goku Tenjiku",
@@ -1368,6 +1404,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/mahjong-goku-tenjiku"
   },
   {
+    "gameId": "pc-fx-00037",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Makeruna! Makendou Z",
@@ -1406,6 +1443,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/makeruna-makendou-z"
   },
   {
+    "gameId": "pc-fx-00038",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Megami Paradise II",
@@ -1444,6 +1482,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/megami-paradise-ii"
   },
   {
+    "gameId": "pc-fx-00039",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Minimum Nanonic",
@@ -1482,6 +1521,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/minimum-nanonic"
   },
   {
+    "gameId": "pc-fx-00040",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Miraculum The Last Revelation",
@@ -1520,6 +1560,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/miraculum-the-last-revelation"
   },
   {
+    "gameId": "pc-fx-00041",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Ojousama Sousamou",
@@ -1558,6 +1599,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/ojousama-sousamou"
   },
   {
+    "gameId": "pc-fx-00042",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Pachio-Kun FX - Maboroshi no Shima Daikessen",
@@ -1596,6 +1638,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/pachio-kun-fx-maboroshi-no-shima-daikessen"
   },
   {
+    "gameId": "pc-fx-00043",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Pia Carrot He Youkoso",
@@ -1634,6 +1677,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/pia-carrot-he-youkoso"
   },
   {
+    "gameId": "pc-fx-00044",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Power Dolls FX",
@@ -1672,6 +1716,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/power-dolls-fx"
   },
   {
+    "gameId": "pc-fx-00045",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Return To Zork",
@@ -1710,6 +1755,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/return-to-zork"
   },
   {
+    "gameId": "pc-fx-00046",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Ruruli Ra Rura",
@@ -1748,6 +1794,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/ruruli-ra-rura"
   },
   {
+    "gameId": "pc-fx-00047",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Sotsugyou II - Neo Generation FX",
@@ -1786,6 +1833,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/sotsugyou-ii-neo-generation-fx"
   },
   {
+    "gameId": "pc-fx-00048",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Sotsugyou R - Graduation Real",
@@ -1824,6 +1872,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/sotsugyou-r-graduation-real"
   },
   {
+    "gameId": "pc-fx-00049",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Sparkling Feather",
@@ -1862,6 +1911,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/sparkling-feather"
   },
   {
+    "gameId": "pc-fx-00050",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Super Real Mahjong P.V. FX",
@@ -1900,6 +1950,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/super-real-mahjong-p-v-fx"
   },
   {
+    "gameId": "pc-fx-00051",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Team Innocent",
@@ -1938,6 +1989,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/team-innocent"
   },
   {
+    "gameId": "pc-fx-00052",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Tekipaki Working Love FX",
@@ -1976,6 +2028,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/tekipaki-working-love-fx"
   },
   {
+    "gameId": "pc-fx-00053",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Tenchi Muyo FX  Disk 1",
@@ -2014,6 +2067,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "pc-fx-00054",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Tenchi Muyo FX  Disk 1",
@@ -2052,6 +2106,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "pc-fx-00055",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Tokimeki Card Paradise - Koi no Royal Straight Flush",
@@ -2090,6 +2145,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/tokimeki-card-paradise-koi-no-royal-straight-flush"
   },
   {
+    "gameId": "pc-fx-00056",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Tonari No Princess Rolfee",
@@ -2128,6 +2184,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/tonari-no-princess-rolfee"
   },
   {
+    "gameId": "pc-fx-00057",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Tyoushin Heiki Zeroigar",
@@ -2166,6 +2223,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/tyoushin-heiki-zeroigar"
   },
   {
+    "gameId": "pc-fx-00058",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Voice Paradise  Disk 1",
@@ -2204,6 +2262,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "pc-fx-00059",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Voice Paradise  Disk 1",
@@ -2242,6 +2301,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "pc-fx-00060",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Wakusei-Koukitai Little Cats",
@@ -2280,6 +2340,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-fx/artwork-title-screen/wakusei-koukitai-little-cats"
   },
   {
+    "gameId": "pc-fx-00061",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Zoku Hatukoi Monogatari  Disk 1",
@@ -2318,6 +2379,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "pc-fx-00062",
     "datasetId": "pc-fx",
     "console": "PC-FX",
     "english_name": "Zoku Hatukoi Monogatari  Disk 1",

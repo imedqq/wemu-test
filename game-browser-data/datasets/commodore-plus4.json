@@ -1,5 +1,6 @@
 [
   {
+    "gameId": "commodore-plus4-00001",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "1K-Mini-Bdash (Italy) (Unl)",
@@ -38,6 +39,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00002",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "2D Maze (Europe)",
@@ -76,6 +78,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00003",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "3D Car Race (Europe)",
@@ -114,6 +117,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00004",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "3D Crazy Tennis (Europe)",
@@ -152,6 +156,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00005",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "3D Ghost Chase (Europe)",
@@ -190,6 +195,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00006",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "3D Glooper (Europe)",
@@ -228,6 +234,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00007",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "3D Quasars (Europe)",
@@ -266,6 +273,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00008",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "3D Time Trek (Europe)",
@@ -304,6 +312,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00009",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "7Up Spot (Europe) (Unl)",
@@ -342,6 +351,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00010",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "A Farao Sirja (Hungary) (Unl)",
@@ -380,6 +390,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00011",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "A-07 (Europe)",
@@ -418,6 +429,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00012",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "ACE (Europe)",
@@ -456,6 +468,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00013",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "ACE +4 (Europe)",
@@ -494,6 +507,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00014",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "ACE 2 (Europe)",
@@ -532,6 +546,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00015",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "ATA (Europe) (Unl)",
@@ -570,6 +585,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00016",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Aardvark (Europe)",
@@ -608,6 +624,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00017",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Aces Up (Europe)",
@@ -646,6 +663,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00018",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Acid Flipper (Europe) (Unl)",
@@ -684,6 +702,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00019",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Acidball (Europe) (Unl)",
@@ -722,6 +741,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00020",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Ack Ack Attack (Europe)",
@@ -760,6 +780,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00021",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Adventures in Time (Europe)",
@@ -798,6 +819,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00022",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Aeroblitz (Europe)",
@@ -836,6 +858,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00023",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Airwolf (Europe)",
@@ -874,6 +897,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00024",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Airwolf 2 (Europe)",
@@ -912,6 +936,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00025",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Alex - The Game (Hungary)",
@@ -950,6 +975,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00026",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Alien (Europe)",
@@ -988,6 +1014,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00027",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Alien Attack (Europe)",
@@ -1026,6 +1053,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00028",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Alien Invasion (Europe)",
@@ -1064,6 +1092,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00029",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Alien Overrun (Europe)",
@@ -1102,6 +1131,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00030",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Aliens (Europe)",
@@ -1140,6 +1170,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00031",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Almatura (Hungary)",
@@ -1178,6 +1209,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00032",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Alpha Jet (Europe)",
@@ -1216,6 +1248,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00033",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Ambush! (Europe) (Unl)",
@@ -1254,6 +1287,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00034",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Amoba (Novotrade) (Hungary)",
@@ -1292,6 +1326,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00035",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Amoba (Punk Software House) (Europe) (Unl)",
@@ -1330,6 +1365,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00036",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Android Nim (Europe)",
@@ -1368,6 +1404,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00037",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Apollo Mission (Europe)",
@@ -1406,6 +1443,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00038",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Archery-16 (Europe)",
@@ -1444,6 +1482,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00039",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Arena 3000 (Europe)",
@@ -1482,6 +1521,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00040",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Armor (Europe)",
@@ -1520,6 +1560,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00041",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Arrow (Europe)",
@@ -1558,6 +1599,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00042",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Arrow of Death (Europe)",
@@ -1596,6 +1638,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00043",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Arthur Noid (Europe)",
@@ -1634,6 +1677,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00044",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Artur Kalandjai (Hungary)",
@@ -1672,6 +1716,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00045",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Assedio (Italy)",
@@ -1710,6 +1755,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00046",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Asteroid Belt (Europe)",
@@ -1748,6 +1794,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00047",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Asteroids (Europe) (Unl)",
@@ -1786,6 +1833,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00048",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Astrapede (Europe)",
@@ -1824,6 +1872,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00049",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Astro Plumber (Europe)",
@@ -1862,6 +1911,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00050",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Atlantis (Europe)",
@@ -1900,6 +1950,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00051",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Atomic Mission (Europe)",
@@ -1938,6 +1989,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00052",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Atomino (Europe) (Unl)",
@@ -1976,6 +2028,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00053",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Atomix (Europe) (Unl)",
@@ -2014,6 +2067,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00054",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Auf Wiedersehen Monty (Europe)",
@@ -2052,6 +2106,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00055",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Auriga (Europe)",
@@ -2090,6 +2145,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00056",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Auto Zone (Europe)",
@@ -2128,6 +2184,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00057",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Autobahn (Europe)",
@@ -2166,6 +2223,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00058",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "BMX Simulator (Europe)",
@@ -2204,6 +2262,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00059",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Baby Berks (Europe)",
@@ -2242,6 +2301,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00060",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Balance (Germany)",
@@ -2280,6 +2340,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00061",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Ball (Europe) (Unl)",
@@ -2318,6 +2379,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00062",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Ball-X (Europe) (Unl)",
@@ -2356,6 +2418,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00063",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Bandits At Zero (Europe)",
@@ -2394,6 +2457,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00064",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Bars (Europe) (Unl)",
@@ -2432,6 +2496,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00065",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Bastow Manor (Europe)",
@@ -2470,6 +2535,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00066",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Bat Attack (Europe) (Unl)",
@@ -2508,6 +2574,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00067",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Battery (Europe) (Unl)",
@@ -2546,6 +2613,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00068",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Battery 2 (Europe) (Unl)",
@@ -2584,6 +2652,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00069",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Battle (Europe)",
@@ -2622,6 +2691,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00070",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Battle Axe (Europe) (Unl)",
@@ -2660,6 +2730,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00071",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Battle Star (Europe)",
@@ -2698,6 +2769,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00072",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Beach Head (Europe)",
@@ -2736,6 +2808,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00073",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Berks (Europe)",
@@ -2774,6 +2847,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00074",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Berks III (Europe)",
@@ -2812,6 +2886,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00075",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Bernat A Nyomozo (Hungary)",
@@ -2850,6 +2925,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00076",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Big Mac (Europe)",
@@ -2888,6 +2964,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00077",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Bio Invaders (Europe) (Unl)",
@@ -2926,6 +3003,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00078",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Bip-bip (Hungary)",
@@ -2964,6 +3042,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00079",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Blagger (Europe)",
@@ -3002,6 +3081,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00080",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Blastones (Europe) (Unl)",
@@ -3040,6 +3120,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00081",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Blaze (Europe)",
@@ -3078,6 +3159,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00082",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Blitz 16 (Europe)",
@@ -3116,6 +3198,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00083",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Bloby (Europe) (Unl)",
@@ -3154,6 +3237,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00084",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Block Memory (Europe) (Unl)",
@@ -3192,6 +3276,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00085",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Blockbusters (Europe) (Tape 1) (Side A)",
@@ -3230,6 +3315,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00086",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Blockbusters (Europe) (Tape 1) (Side A)",
@@ -3268,6 +3354,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00087",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Blockbusters (Europe) (Tape 2) (Extra Questions Database)",
@@ -3306,6 +3393,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00088",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Blockbusters Goldrun (Europe)",
@@ -3344,6 +3432,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00089",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Blue Thunder (Europe) (Unl)",
@@ -3382,6 +3471,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00090",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Bmx Racers (Europe)",
@@ -3420,6 +3510,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00091",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Bombjack (Europe) (Side A)",
@@ -3458,6 +3549,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00092",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Bombjack (Europe) (Side A)",
@@ -3496,6 +3588,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00093",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Bombjack II (Europe)",
@@ -3534,6 +3627,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00094",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Bongo (Europe)",
@@ -3572,6 +3666,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00095",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Booty (Europe)",
@@ -3610,6 +3705,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00096",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Boulder Dash (Europe)",
@@ -3648,6 +3744,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00097",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Boulder Dash II (Europe)",
@@ -3686,6 +3783,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00098",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Bounder (Europe)",
@@ -3724,6 +3822,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00099",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Brainfade (Europe) (Unl)",
@@ -3762,6 +3861,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00100",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Breki (Hungary)",
@@ -3800,6 +3900,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00101",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Bridgehead - Legionnaire 2 (Europe)",
@@ -3838,6 +3939,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00102",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Bubble Trouble (Europe)",
@@ -3876,6 +3978,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00103",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Bubble Works (Europe) (Unl)",
@@ -3914,6 +4017,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00104",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Buckaroo Banzai (Europe)",
@@ -3952,6 +4056,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00105",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Buckaroo Banzai +4 (Europe)",
@@ -3990,6 +4095,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00106",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Can of Worms (Europe)",
@@ -4028,6 +4134,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00107",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Canoe Slalom (Europe)",
@@ -4066,6 +4173,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00108",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Careful (Europe)",
@@ -4104,6 +4212,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00109",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Castle Dracula - Adventure 5 (Europe)",
@@ -4142,6 +4251,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00110",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Catacombs (Europe)",
@@ -4180,6 +4290,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00111",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Cave Fighter (Europe)",
@@ -4218,6 +4329,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00112",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Centripod (Europe) (Unl)",
@@ -4256,6 +4368,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00113",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Championship Wrestling (Europe)",
@@ -4294,6 +4407,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00114",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Chaos (Europe) (Unl)",
@@ -4332,6 +4446,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00115",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Chip Factory, The (Europe)",
@@ -4370,6 +4485,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00116",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Chipy (Europe)",
@@ -4408,6 +4524,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00117",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Chopper War (Europe)",
@@ -4446,6 +4563,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00118",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Church of Death (Europe) (Unl)",
@@ -4484,6 +4602,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00119",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Circus (Europe)",
@@ -4522,6 +4641,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00120",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Classic Adventure (Europe)",
@@ -4560,6 +4680,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00121",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Classic Snooker (Europe)",
@@ -4598,6 +4719,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00122",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Climb It (Europe)",
@@ -4636,6 +4758,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00123",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Clone (Europe) (Unl)",
@@ -4674,6 +4797,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00124",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Cloud Kingdoms (Europe) (Disk 1) (Unl)",
@@ -4712,6 +4836,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00125",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Cloud Kingdoms (Europe) (Disk 1) (Unl)",
@@ -4750,6 +4875,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00126",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Commando (Europe)",
@@ -4788,6 +4914,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00127",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Commando - Plus4 (Europe) (Unl)",
@@ -4826,6 +4953,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00128",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Commodore 16 Games Pack I (Europe) (Side A)",
@@ -4864,6 +4992,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00129",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Commodore 16 Games Pack I (Europe) (Side A)",
@@ -4902,6 +5031,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00130",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Commodore 16 Games Pack II (Europe) (Side A)",
@@ -4940,6 +5070,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00131",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Commodore 16 Games Pack II (Europe) (Side A)",
@@ -4978,6 +5109,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00132",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Control Command (Europe)",
@@ -5016,6 +5148,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00133",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Cops N' Robbers (Europe)",
@@ -5054,6 +5187,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00134",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Corman (Europe)",
@@ -5092,6 +5226,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00135",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Crackball - The Second Version (Europe) (Unl)",
@@ -5130,6 +5265,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00136",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Crazy Golf (Europe)",
@@ -5168,6 +5304,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00137",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Crillion (Europe)",
@@ -5206,6 +5343,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00138",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Cross Motor (Europe) (Unl)",
@@ -5244,6 +5382,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00139",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Cruncher (Europe)",
@@ -5282,6 +5421,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00140",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Csavargas A Gombak Birodalmaban (Hungary)",
@@ -5320,6 +5460,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00141",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Cuthbert Enters the Tombs of Doom (Europe)",
@@ -5358,6 +5499,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00142",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Cuthbert in Space (Europe)",
@@ -5396,6 +5538,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00143",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Cuthbert in the Cooler (Europe)",
@@ -5434,6 +5577,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00144",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Cutthroats (Europe)",
@@ -5472,6 +5616,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00145",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Cyberdroids (Europe)",
@@ -5510,6 +5655,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00146",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Cyborg (Europe)",
@@ -5548,6 +5694,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00147",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Daley Thompson's Star Events (Europe)",
@@ -5586,6 +5733,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00148",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Danger (Europe) (Unl)",
@@ -5624,6 +5772,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00149",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Danger Zone (Europe)",
@@ -5662,6 +5811,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00150",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Dark Tower - Part 1 (Europe)",
@@ -5700,6 +5850,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00151",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Dark Tower - Part 2 (Europe)",
@@ -5738,6 +5889,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00152",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Dark Tower - Part 3 (Europe)",
@@ -5776,6 +5928,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00153",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Death Race 16 (Europe)",
@@ -5814,6 +5967,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00154",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Death River (Europe)",
@@ -5852,6 +6006,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00155",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Death or Glory (Europe)",
@@ -5890,6 +6045,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00156",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Decton (Europe) (Unl)",
@@ -5928,6 +6084,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00157",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Deeper Dungeon (Europe)",
@@ -5966,6 +6123,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00158",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Defence-16 (Europe)",
@@ -6004,6 +6162,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00159",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Demolition (Europe)",
@@ -6042,6 +6201,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00160",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Demonok Birodalma (Hungary)",
@@ -6080,6 +6240,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00161",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Demonsdom (Europe) (Unl)",
@@ -6118,6 +6279,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00162",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Destructor (Europe)",
@@ -6156,6 +6318,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00163",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Dex (Hungary)",
@@ -6194,6 +6357,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00164",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Diagon (Europe)",
@@ -6232,6 +6396,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00165",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Diamond Mine (Europe)",
@@ -6270,6 +6435,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00166",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Diamond Mine II (Europe)",
@@ -6308,6 +6474,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00167",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Digger (Europe)",
@@ -6346,6 +6513,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00168",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Digital Ball (Hungary)",
@@ -6384,6 +6552,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00169",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Dingbat (Europe)",
@@ -6422,6 +6591,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00170",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Dirty Den (Europe)",
@@ -6460,6 +6630,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00171",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Dixi a Megmento (Europe) (Unl)",
@@ -6498,6 +6669,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00172",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "DizasterBlaster (Europe)",
@@ -6536,6 +6708,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00173",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Dizzy Dice (Europe)",
@@ -6574,6 +6747,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00174",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Don Paint (Germany)",
@@ -6612,6 +6786,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00175",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Dork's Dilemma (Europe)",
@@ -6650,6 +6825,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00176",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Double Blocks (Europe) (Unl)",
@@ -6688,6 +6864,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00177",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Dragon Maze (Europe)",
@@ -6726,6 +6903,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00178",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Droid One (Europe)",
@@ -6764,6 +6942,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00179",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Dudaorru Patric (Hungary)",
@@ -6802,6 +6981,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00180",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Dynamoid (Europe) (Unl)",
@@ -6840,6 +7020,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00181",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Elite Squad (Europe) (Unl)",
@@ -6878,6 +7059,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00182",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Elvarazsolt Kastely (Hungary)",
@@ -6916,6 +7098,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00183",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Emerald Mine (Europe)",
@@ -6954,6 +7137,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00184",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Emerald Mine II (Europe)",
@@ -6992,6 +7176,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00185",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Enigma (Europe)",
@@ -7030,6 +7215,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00186",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Eoroid Professional (Europe)",
@@ -7068,6 +7254,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00187",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Escape (Europe) (Unl)",
@@ -7106,6 +7293,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00188",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Escape From Psylon (Hungary)",
@@ -7144,6 +7332,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00189",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Escape From Pulsar 7 (Europe)",
@@ -7182,6 +7371,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00190",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Escape Pro (Europe) (Unl)",
@@ -7220,6 +7410,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00191",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Eszveszto Utveszto (Hungary)",
@@ -7258,6 +7449,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00192",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "European Games (Europe)",
@@ -7296,6 +7488,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00193",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "European Soccer Finals (Europe)",
@@ -7334,6 +7527,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00194",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Ewox (Europe) (Unl)",
@@ -7372,6 +7566,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00195",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Exorcist, The (Europe)",
@@ -7410,6 +7605,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00196",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Exploding Fist +4 (Europe) (Unl)",
@@ -7448,6 +7644,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00197",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Explosive Net (Europe) (Unl)",
@@ -7486,6 +7683,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00198",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Extasy (Europe) (Unl)",
@@ -7524,6 +7722,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00199",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Fancy World (Europe) (Unl)",
@@ -7562,6 +7761,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00200",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Fantastic Four (Europe) (Unl)",
@@ -7600,6 +7800,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00201",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Fast Food (Europe) (Unl)",
@@ -7638,6 +7839,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00202",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Feasibility Experiment (Europe)",
@@ -7676,6 +7878,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00203",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Ferrox Lander (Europe)",
@@ -7714,6 +7917,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00204",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Fighting Warrior (Europe)",
@@ -7752,6 +7956,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00205",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Find Another Way Again (Europe) (Unl)",
@@ -7790,6 +7995,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00206",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Finders Keepers (Europe)",
@@ -7828,6 +8034,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00207",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Fingers Malone (Europe)",
@@ -7866,6 +8073,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00208",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Fire Ant (Europe)",
@@ -7904,6 +8112,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00209",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Fire Galaxy (Europe)",
@@ -7942,6 +8151,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00210",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Firm Base (Europe) (Unl)",
@@ -7980,6 +8190,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00211",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Flash Gordon (Europe) (Unl)",
@@ -8018,6 +8229,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00212",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Flight Path 737 (Europe)",
@@ -8056,6 +8268,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00213",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Flopp (Hungary)",
@@ -8094,6 +8307,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00214",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Footballer Of The Year (Europe)",
@@ -8132,6 +8346,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00215",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Formula 1 Simulator (Europe)",
@@ -8170,6 +8385,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00216",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Fortress Underground (Europe)",
@@ -8208,6 +8424,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00217",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Frank Bruno's Boxing (Europe)",
@@ -8246,6 +8463,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00218",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Freek Out (Europe) (Unl)",
@@ -8284,6 +8502,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00219",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Frenesis (Europe)",
@@ -8322,6 +8541,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00220",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Froggy (Europe)",
@@ -8360,6 +8580,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00221",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Fury (Europe)",
@@ -8398,6 +8619,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00222",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Future Knight (Europe)",
@@ -8436,6 +8658,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00223",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Future Shock (Europe)",
@@ -8474,6 +8697,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00224",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "G-Man (Europe)",
@@ -8512,6 +8736,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00225",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Galaxions (Europe)",
@@ -8550,6 +8775,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00226",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Galaxy (Europe)",
@@ -8588,6 +8814,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00227",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Galli (Europe) (Unl)",
@@ -8626,6 +8853,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00228",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Get It (Europe) (Unl)",
@@ -8664,6 +8892,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00229",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Ghost Castle (Europe) (Unl)",
@@ -8702,6 +8931,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00230",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Ghost Town (Europe)",
@@ -8740,6 +8970,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00231",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Ghost Town USA (USA)",
@@ -8778,6 +9009,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00232",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Ghosts 'n Goblins (Europe)",
@@ -8816,6 +9048,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00233",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Giana Sister (Europe) (Unl)",
@@ -8854,6 +9087,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00234",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Gibson (Europe) (Unl)",
@@ -8892,6 +9126,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00235",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Gnasher (Europe)",
@@ -8930,6 +9165,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00236",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Go Ahead! (Europe) (Unl)",
@@ -8968,6 +9204,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00237",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Godzilla (Hungary)",
@@ -9006,6 +9243,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00238",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Golden Baton (Europe)",
@@ -9044,6 +9282,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00239",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Goldrush (Europe)",
@@ -9082,6 +9321,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00240",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Golf (Europe)",
@@ -9120,6 +9360,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00241",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Golf Royal (Europe) (Unl)",
@@ -9158,6 +9399,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00242",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Grand Master (Europe)",
@@ -9196,6 +9438,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00243",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Green Beret (Europe)",
@@ -9234,6 +9477,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00244",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Gridtrap (Europe)",
@@ -9272,6 +9516,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00245",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Gullwing Falcon (Europe)",
@@ -9310,6 +9555,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00246",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Gunlaw (Europe)",
@@ -9348,6 +9594,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00247",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Gunslinger (Europe)",
@@ -9386,6 +9633,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00248",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Gusztav Motorozik (Hungary)",
@@ -9424,6 +9672,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00249",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Guzzler (Europe)",
@@ -9462,6 +9711,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00250",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Gwnn (Europe)",
@@ -9500,6 +9750,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00251",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Halallabirinthus (Europe) (Unl)",
@@ -9538,6 +9789,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00252",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Halallabirinthus II (Europe) (Unl)",
@@ -9576,6 +9828,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00253",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Harbour Attack (Europe)",
@@ -9614,6 +9867,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00254",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Harvey Headbanger (Europe)",
@@ -9652,6 +9906,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00255",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Headhunters (Europe) (Unl)",
@@ -9690,6 +9945,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00256",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Heebie Jeebies (Europe)",
@@ -9728,6 +9984,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00257",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Hektik (Europe)",
@@ -9766,6 +10023,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00258",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Helicopters (Europe) (Unl)",
@@ -9804,6 +10062,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00259",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Helicopters 2 (Europe) (Unl)",
@@ -9842,6 +10101,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00260",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Helium (Europe) (Unl)",
@@ -9880,6 +10140,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00261",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Hell 2, The (Europe) (Unl)",
@@ -9918,6 +10179,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00262",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Hell 3, The (Europe) (Unl)",
@@ -9956,6 +10218,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00263",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Hell, The (Europe) (Unl)",
@@ -9994,6 +10257,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00264",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Hellgate (Europe)",
@@ -10032,6 +10296,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00265",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Hercules (Europe)",
@@ -10070,6 +10335,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00266",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Heroic (Europe) (Unl)",
@@ -10108,6 +10374,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00267",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Heroic 2 (Europe) (Unl)",
@@ -10146,6 +10413,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00268",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Hexaeder (Europe) (Unl)",
@@ -10184,6 +10452,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00269",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Hitchhiker's Guide to the Galaxy (Europe) (Unl)",
@@ -10222,6 +10491,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00270",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Hollywood Poker (Europe)",
@@ -10260,6 +10530,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00271",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Hoppit (Europe)",
@@ -10298,6 +10569,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00272",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Hulk, The (Europe)",
@@ -10336,6 +10608,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00273",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Hungaroring (Hungary)",
@@ -10374,6 +10647,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00274",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Hunter (Europe) (Unl)",
@@ -10412,6 +10686,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00275",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Hustler (Europe)",
@@ -10450,6 +10725,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00276",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Hydroines (Europe) (Unl)",
@@ -10488,6 +10764,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00277",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Hyper Sports (Europe)",
@@ -10526,6 +10803,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00278",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Hyperforce (Europe)",
@@ -10564,6 +10842,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00279",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "IFR (Flight Simulator) (USA)",
@@ -10602,6 +10881,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00280",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Ian Botham's Test Match (Europe)",
@@ -10640,6 +10920,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00281",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Icicle Works (Europe)",
@@ -10678,6 +10959,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00282",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Idolabirintus (Hungary)",
@@ -10716,6 +10998,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00283",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Ikari Warriors (Europe)",
@@ -10754,6 +11037,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00284",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Incredible Hulk, The (Europe)",
@@ -10792,6 +11076,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00285",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Indoor Soccer (Europe)",
@@ -10830,6 +11115,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00286",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Indoor Sports (Europe)",
@@ -10868,6 +11154,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00287",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "International Karate (Europe)",
@@ -10906,6 +11193,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00288",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Into The Deep (Europe)",
@@ -10944,6 +11232,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00289",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Invaders (Commodore) (Europe)",
@@ -10982,6 +11271,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00290",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Invaders (Livewire) (Europe)",
@@ -11020,6 +11310,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00291",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Invasion 2000 AD (Europe)",
@@ -11058,6 +11349,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00292",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Invincible (Hungary)",
@@ -11096,6 +11388,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00293",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Jack Attack (Europe)",
@@ -11134,6 +11427,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00294",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Jailbreak (Europe)",
@@ -11172,6 +11466,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00295",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Jerry's Quest (Europe) (Unl)",
@@ -11210,6 +11505,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00296",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Jerusalem - Adventure 2 (Europe)",
@@ -11248,6 +11544,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00297",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Jet Set Willy (Europe)",
@@ -11286,6 +11583,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00298",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Jet Set Willy II (Europe)",
@@ -11324,6 +11622,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00299",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Jetbrix (Europe)",
@@ -11362,6 +11661,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00300",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Joe Blade 2 (Europe)",
@@ -11400,6 +11700,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00301",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Joey (Europe)",
@@ -11438,6 +11739,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00302",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Jonigk Games (Europe)",
@@ -11476,6 +11778,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00303",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Jumbo (Hungary)",
@@ -11514,6 +11817,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00304",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Jump Jet (Europe)",
@@ -11552,6 +11856,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00305",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Kaktus (Europe)",
@@ -11590,6 +11895,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00306",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Kane (Europe)",
@@ -11628,6 +11934,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00307",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Karate (Hungary)",
@@ -11666,6 +11973,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00308",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Karate King (Europe)",
@@ -11704,6 +12012,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00309",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Karting Grand Prix (Europe)",
@@ -11742,6 +12051,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00310",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Kikstart (Europe)",
@@ -11780,6 +12090,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00311",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Killapede (Europe)",
@@ -11818,6 +12129,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00312",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "King Size - 50 Games (Europe) (Side A)",
@@ -11856,6 +12168,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00313",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "King Size - 50 Games (Europe) (Side A)",
@@ -11894,6 +12207,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00314",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "King Solomon's Mines (Europe)",
@@ -11932,6 +12246,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00315",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Kitores (Hungary)",
@@ -11970,6 +12285,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00316",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Knights & Demons (Europe) (Unl)",
@@ -12008,6 +12324,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00317",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Knockout (Europe)",
@@ -12046,6 +12363,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00318",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Krakout (Europe) (Unl)",
@@ -12084,6 +12402,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00319",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Kryptonite (Europe) (Unl)",
@@ -12122,6 +12441,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00320",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Kung-Fu Kid (Europe)",
@@ -12160,6 +12480,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00321",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Labirinth 2 (Europe) (Unl)",
@@ -12198,6 +12519,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00322",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Labirinth 3 (Europe) (Unl)",
@@ -12236,6 +12558,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00323",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Labirinth 4 (Europe) (Unl)",
@@ -12274,6 +12597,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00324",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Labirinth! (Europe) (Unl)",
@@ -12312,6 +12636,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00325",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Las Vegas (Europe)",
@@ -12350,6 +12675,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00326",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Laser Squad (Europe) (Unl)",
@@ -12388,6 +12714,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00327",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Laser Squad II (Europe) (Unl)",
@@ -12426,6 +12753,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00328",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Laser Zone (Europe)",
@@ -12464,6 +12792,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00329",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Lawn Tennis (Europe)",
@@ -12502,6 +12831,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00330",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Laza! (Europe)",
@@ -12540,6 +12870,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00331",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Lazer 900 (Europe)",
@@ -12578,6 +12909,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00332",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "League Challenge Division 1 (Europe)",
@@ -12616,6 +12948,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00333",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "League Challenge Division 2 (Europe)",
@@ -12654,6 +12987,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00334",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "League Challenge Division 3 (Europe)",
@@ -12692,6 +13026,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00335",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "League Challenge Division 4 (Europe)",
@@ -12730,6 +13065,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00336",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Leaper (Europe)",
@@ -12768,6 +13104,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00337",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Leapin Louie (Europe)",
@@ -12806,6 +13143,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00338",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Legionnaire (Europe)",
@@ -12844,6 +13182,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00339",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Liberator (Europe)",
@@ -12882,6 +13221,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00340",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Lloyd Game (Europe) (Unl)",
@@ -12920,6 +13260,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00341",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Loco Co-Co (Europe)",
@@ -12958,6 +13299,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00342",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Locomotion (Europe)",
@@ -12996,6 +13338,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00343",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Logi-toli (Hungary)",
@@ -13034,6 +13377,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00344",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Logic Game (Europe) (Unl)",
@@ -13072,6 +13416,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00345",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Logical Ball (Europe) (Unl)",
@@ -13110,6 +13455,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00346",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Logomaze (Europe) (Unl)",
@@ -13148,6 +13494,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00347",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Loncsi (Europe) (Unl)",
@@ -13186,6 +13533,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00348",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Lone Survivor (Europe)",
@@ -13224,6 +13572,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00349",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Lunar Blitz (Europe) (Unl)",
@@ -13262,6 +13611,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00350",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Lunar Landing (Europe)",
@@ -13300,6 +13650,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00351",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Mad Mummy (Europe)",
@@ -13338,6 +13689,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00352",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Magic Balls (Europe) (Unl)",
@@ -13376,6 +13728,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00353",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Magician's Curse, The (Europe)",
@@ -13414,6 +13767,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00354",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Magnet-X (Europe) (Unl)",
@@ -13452,6 +13806,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00355",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Mail Trail (Europe)",
@@ -13490,6 +13845,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00356",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Majesty of Sprites (Europe) (Unl)",
@@ -13528,6 +13884,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00357",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Major Blink (Europe)",
@@ -13566,6 +13923,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00358",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Maniac Garden (Europe) (Unl)",
@@ -13604,6 +13962,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00359",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Maniax (Europe)",
@@ -13642,6 +14001,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00360",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Manic Death Chase (Europe)",
@@ -13680,6 +14040,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00361",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Manic Miner (Europe)",
@@ -13718,6 +14079,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00362",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Mansion - Adventure 1 (Europe)",
@@ -13756,6 +14118,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00363",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Mario Brothers (Europe) (Unl)",
@@ -13794,6 +14157,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00364",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Master Chess (Europe)",
@@ -13832,6 +14196,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00365",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Matrix (Europe)",
@@ -13870,6 +14235,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00366",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Matrix +4 (Europe) (Unl)",
@@ -13908,6 +14274,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00367",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Mayhem (Europe)",
@@ -13946,6 +14313,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00368",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Mega Zap (Europe)",
@@ -13984,6 +14352,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00369",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Megablazer (Europe) (Unl)",
@@ -14022,6 +14391,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00370",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Megabolts (Europe)",
@@ -14060,6 +14430,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00371",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Menekules (Hungary)",
@@ -14098,6 +14469,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00372",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Mercenary - Escape From Targ (Europe)",
@@ -14136,6 +14508,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00373",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Mercenary - The Second City (Europe)",
@@ -14174,6 +14547,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00374",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Mesel Az Erdo (Hungary)",
@@ -14212,6 +14586,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00375",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Meteorite (Europe)",
@@ -14250,6 +14625,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00376",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Mindbenders (Europe)",
@@ -14288,6 +14664,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00377",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Minipedes (Europe)",
@@ -14326,6 +14703,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00378",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Mission Mars (Europe)",
@@ -14364,6 +14742,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00379",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Molecule Man (Europe)",
@@ -14402,6 +14781,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00380",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Money (Europe) (Unl)",
@@ -14440,6 +14820,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00381",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Monkey Magic (Europe)",
@@ -14478,6 +14859,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00382",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Monty on the Run (Europe)",
@@ -14516,6 +14898,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00383",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Moon Buggy (Europe)",
@@ -14554,6 +14937,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00384",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Motormania (Europe) (Unl)",
@@ -14592,6 +14976,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00385",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Mount Vesuvius (Europe)",
@@ -14630,6 +15015,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00386",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Mouse Maze (Europe)",
@@ -14668,6 +15054,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00387",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Mr Angry Dude (Europe) (Unl)",
@@ -14706,6 +15093,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00388",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Mr. Puniverse (Europe)",
@@ -14744,6 +15132,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00389",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Munch It (Europe)",
@@ -14782,6 +15171,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00390",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Murder on the Waterfront (Europe)",
@@ -14820,6 +15210,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00391",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Mushroom Mania (Europe)",
@@ -14858,6 +15249,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00392",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Myriad (Europe)",
@@ -14896,6 +15288,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00393",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Nathrium Chlorid (Europe) (Unl)",
@@ -14934,6 +15327,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00394",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Nautilus (Europe) (Unl)",
@@ -14972,6 +15366,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00395",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Netrun 2000 (Europe)",
@@ -15010,6 +15405,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00396",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Ninja (Europe)",
@@ -15048,6 +15444,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00397",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Ninja Master (Europe)",
@@ -15086,6 +15483,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00398",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Nintendo Worx (Europe) (Unl)",
@@ -15124,6 +15522,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00399",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Nuclear Ball (Europe) (Unl)",
@@ -15162,6 +15561,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00400",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Nucleon (Europe) (Unl)",
@@ -15200,6 +15600,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00401",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Number Builder (Europe)",
@@ -15238,6 +15639,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00402",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Number Chaser (Europe)",
@@ -15276,6 +15678,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00403",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Oblido (Europe)",
@@ -15314,6 +15717,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00404",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Oliver Otthona (Hungary)",
@@ -15352,6 +15756,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00405",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Olympiad (Europe)",
@@ -15390,6 +15795,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00406",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Olympic Skier (Europe)",
@@ -15428,6 +15834,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00407",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "On Cue (Europe)",
@@ -15466,6 +15873,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00408",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "One Man and his Droid (Europe)",
@@ -15504,6 +15912,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00409",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Operation Red Moon (Europe)",
@@ -15542,6 +15951,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00410",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Oszkar a Lovag (Hungary)",
@@ -15580,6 +15990,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00411",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Othello (Europe) (Unl)",
@@ -15618,6 +16029,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00412",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Out On A Limb (Europe)",
@@ -15656,6 +16068,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00413",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "POD - Proof Of Destruction (Europe)",
@@ -15694,6 +16107,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00414",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Pacmania (Europe)",
@@ -15732,6 +16146,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00415",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Pancho (Europe)",
@@ -15770,6 +16185,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00416",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Panic Penguin (Europe)",
@@ -15808,6 +16224,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00417",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Panik! (Europe)",
@@ -15846,6 +16263,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00418",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Panzer Duel (Europe)",
@@ -15884,6 +16302,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00419",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Paperboy (Europe)",
@@ -15922,6 +16341,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00420",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Paramaths (Europe)",
@@ -15960,6 +16380,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00421",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Pasta Blasta (Europe)",
@@ -15998,6 +16419,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00422",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Patt Ball (Europe) (Unl)",
@@ -16036,6 +16458,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00423",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Pegged (Europe) (Unl)",
@@ -16074,6 +16497,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00424",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Pengo (Europe) (Unl)",
@@ -16112,6 +16536,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00425",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Perseus & Andromeda (Europe)",
@@ -16150,6 +16575,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00426",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Petals of Doom (Europe)",
@@ -16188,6 +16614,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00427",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Petch (Europe)",
@@ -16226,6 +16653,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00428",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Phantom (Europe)",
@@ -16264,6 +16692,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00429",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Pharaohs Tomb (Europe)",
@@ -16302,6 +16731,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00430",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Pheenix (Europe)",
@@ -16340,6 +16770,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00431",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Phoenix (Europe) (Unl)",
@@ -16378,6 +16809,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00432",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Pilot X (Europe)",
@@ -16416,6 +16848,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00433",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Pin Point (Europe)",
@@ -16454,6 +16887,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00434",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Ping (Europe) (Unl)",
@@ -16492,6 +16926,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00435",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Ping Pong (Europe)",
@@ -16530,6 +16965,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00436",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Pipe Dream (Europe) (Unl)",
@@ -16568,6 +17004,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00437",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Pipe Mania (Europe) (Unl)",
@@ -16606,6 +17043,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00438",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Pirate Adventure (Europe)",
@@ -16644,6 +17082,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00439",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Pirate Adventure C16 (Europe)",
@@ -16682,6 +17121,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00440",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Pizza Pete (Europe)",
@@ -16720,6 +17160,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00441",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Planet Search (Europe)",
@@ -16758,6 +17199,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00442",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Planetfall (Europe)",
@@ -16796,6 +17238,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00443",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Platina (Hungary)",
@@ -16834,6 +17277,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00444",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Plus Casino (Europe)",
@@ -16872,6 +17316,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00445",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Pogo Pete (Europe)",
@@ -16910,6 +17355,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00446",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Pokoli Torony (Hungary) (Unl)",
@@ -16948,6 +17394,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00447",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Ponk (Europe) (Unl)",
@@ -16986,6 +17433,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00448",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Pottit (Europe)",
@@ -17024,6 +17472,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00449",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Power Ball (Europe)",
@@ -17062,6 +17511,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00450",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Professional Amoeba (Europe) (Unl)",
@@ -17100,6 +17550,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00451",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Project Nova (Europe)",
@@ -17138,6 +17589,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00452",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Prospector Pete (Europe)",
@@ -17176,6 +17628,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00453",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Punchy (Europe)",
@@ -17214,6 +17667,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00454",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Punk Puzzle (Europe) (Unl)",
@@ -17252,6 +17706,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00455",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Puppy's (Europe)",
@@ -17290,6 +17745,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00456",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Purple Turtles (Europe)",
@@ -17328,6 +17784,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00457",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Puzznic (Europe) (Unl)",
@@ -17366,6 +17823,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00458",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Quadrillion (Europe) (Unl)",
@@ -17404,6 +17862,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00459",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Quick Draw (Europe)",
@@ -17442,6 +17901,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00460",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Rablo-Rulett (Hungary)",
@@ -17480,6 +17940,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00461",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Raffles (Europe)",
@@ -17518,6 +17979,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00462",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Raider (Europe)",
@@ -17556,6 +18018,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00463",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Razos Ut (Hungary)",
@@ -17594,6 +18057,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00464",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Reach for the Sky (Europe)",
@@ -17632,6 +18096,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00465",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Real Stunt Experts, The (Europe)",
@@ -17670,6 +18135,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00466",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Reaxion (Europe) (Unl)",
@@ -17708,6 +18174,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00467",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Rebel Planet (Europe) (Unl)",
@@ -17746,6 +18213,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00468",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Reflex (Europe)",
@@ -17784,6 +18252,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00469",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Rescue from Zylon (Europe)",
@@ -17822,6 +18291,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00470",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Return of Rockman (Europe)",
@@ -17860,6 +18330,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00471",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Rig Attack (Europe)",
@@ -17898,6 +18369,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00472",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Road Warrior (Europe) (Unl)",
@@ -17936,6 +18408,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00473",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Robin to the Rescue (Europe)",
@@ -17974,6 +18447,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00474",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Robo Knight (Europe)",
@@ -18012,6 +18486,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00475",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Robothaboru (Hungary)",
@@ -18050,6 +18525,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00476",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Rockman (Europe)",
@@ -18088,6 +18564,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00477",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Rockmania (Europe) (Unl)",
@@ -18126,6 +18603,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00478",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Roller Kong (Europe)",
@@ -18164,6 +18642,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00479",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Rolling Stones (Europe) (Unl)",
@@ -18202,6 +18681,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00480",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Rolling Stones 2 (Europe) (Unl)",
@@ -18240,6 +18720,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00481",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Room Ten (Europe)",
@@ -18278,6 +18759,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00482",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Rozsaszin Parduc (Hungary) (Unl)",
@@ -18316,6 +18798,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00483",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Rug Rider (Europe)",
@@ -18354,6 +18837,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00484",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Runner (Europe)",
@@ -18392,6 +18876,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00485",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Saboteur C16 (Europe)",
@@ -18430,6 +18915,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00486",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Saboteur! (Europe)",
@@ -18468,6 +18954,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00487",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Sabre Wulf (Europe) (Unl)",
@@ -18506,6 +18993,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00488",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Salvage (Europe)",
@@ -18544,6 +19032,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00489",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Sandcastles (Europe)",
@@ -18582,6 +19071,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00490",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Sanxion (Europe) (Unl)",
@@ -18620,6 +19110,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00491",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Savage Island +4 - Part One (Europe)",
@@ -18658,6 +19149,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00492",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Savage Island +4 - Part Two (Europe)",
@@ -18696,6 +19188,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00493",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Savage Island - Part One (Europe)",
@@ -18734,6 +19227,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00494",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Savage Island - Part Two (Europe)",
@@ -18772,6 +19266,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00495",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Scooby Doo (Europe)",
@@ -18810,6 +19305,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00496",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Scumm (Europe) (Unl)",
@@ -18848,6 +19344,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00497",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Sea Strike (Europe)",
@@ -18886,6 +19383,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00498",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Sgt. Helmet Zero (Europe) (Unl)",
@@ -18924,6 +19422,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00499",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Shark Attack (Europe)",
@@ -18962,6 +19461,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00500",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Shoot It (Europe)",
@@ -19000,6 +19500,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00501",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Sir Knight (Europe)",
@@ -19038,6 +19539,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00502",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Skate Roller (Europe) (Unl)",
@@ -19076,6 +19578,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00503",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Skelby (Europe)",
@@ -19114,6 +19617,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00504",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Skramble (Europe)",
@@ -19152,6 +19656,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00505",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Skull Island (Europe)",
@@ -19190,6 +19695,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00506",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Skyhawk (Europe)",
@@ -19228,6 +19734,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00507",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Slipper (Europe) (Unl)",
@@ -19266,6 +19773,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00508",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Slipper 2 (Europe) (Unl)",
@@ -19304,6 +19812,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00509",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Slippery Sid (Europe)",
@@ -19342,6 +19851,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00510",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Small Jones (Europe)",
@@ -19380,6 +19890,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00511",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Snakes (Europe)",
@@ -19418,6 +19929,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00512",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Snooker & Pool C16 (Europe)",
@@ -19456,6 +19968,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00513",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Snooker & Pool Plus4 (Europe)",
@@ -19494,6 +20007,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00514",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Solo (Europe)",
@@ -19532,6 +20046,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00515",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Sorcerer of Claymorgue Castle +4, The (USA)",
@@ -19570,6 +20085,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00516",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Sorcerer of Claymorgue Castle, The (Europe)",
@@ -19608,6 +20124,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00517",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Space Escort (Europe)",
@@ -19646,6 +20163,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00518",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Space Fiends (Europe)",
@@ -19684,6 +20202,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00519",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Space Freeks (Europe)",
@@ -19722,6 +20241,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00520",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Space Pilot (Europe)",
@@ -19760,6 +20280,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00521",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Space Sweep (Europe)",
@@ -19798,6 +20319,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00522",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Spectipede (Europe)",
@@ -19836,6 +20358,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00523",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Speed King (Europe)",
@@ -19874,6 +20397,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00524",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Speedboat Grand Prix (Europe)",
@@ -19912,6 +20436,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00525",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Spiky Harold (Europe)",
@@ -19950,6 +20475,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00526",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Split Personalities (Europe)",
@@ -19988,6 +20514,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00527",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Splitz (Europe)",
@@ -20026,6 +20553,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00528",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Spore (Europe)",
@@ -20064,6 +20592,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00529",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Spy Vs Spy (Europe)",
@@ -20102,6 +20631,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00530",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Sqij (Europe)",
@@ -20140,6 +20670,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00531",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Squirm (Europe)",
@@ -20178,6 +20709,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00532",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Star Commander (Europe)",
@@ -20216,6 +20748,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00533",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Starburst (Europe)",
@@ -20254,6 +20787,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00534",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Starcross (Europe)",
@@ -20292,6 +20826,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00535",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Starforce Nova (Europe)",
@@ -20330,6 +20865,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00536",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Starlite 1 (Europe)",
@@ -20368,6 +20904,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00537",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Starter Chess (Europe)",
@@ -20406,6 +20943,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00538",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Steinzeit (Germany)",
@@ -20444,6 +20982,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00539",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Stellar 7 (Europe)",
@@ -20482,6 +21021,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00540",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Stellar Wars (Europe)",
@@ -20520,6 +21060,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00541",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Steve Davis Snooker (Europe)",
@@ -20558,6 +21099,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00542",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Stone Age (Europe) (Unl)",
@@ -20596,6 +21138,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00543",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Storm (Europe)",
@@ -20634,6 +21177,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00544",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Strange Odyssey (Europe)",
@@ -20672,6 +21216,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00545",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Strange Odyssey C16 (Europe)",
@@ -20710,6 +21255,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00546",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Strangers (Europe)",
@@ -20748,6 +21294,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00547",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Street Olympics (Europe)",
@@ -20786,6 +21333,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00548",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Strip Poker (Europe)",
@@ -20824,6 +21372,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00549",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Strip Poker II Plus (Europe)",
@@ -20862,6 +21411,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00550",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Suicide Run (Europe)",
@@ -20900,6 +21450,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00551",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Summer Events (Europe)",
@@ -20938,6 +21489,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00552",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Sun Star (Europe)",
@@ -20976,6 +21528,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00553",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Super Cobra (Hungary)",
@@ -21014,6 +21567,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00554",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Super Gran (Europe)",
@@ -21052,6 +21606,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00555",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Super Gran - The Adventure (Europe)",
@@ -21090,6 +21645,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00556",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Superman (Europe)",
@@ -21128,6 +21684,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00557",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Surround (Germany)",
@@ -21166,6 +21723,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00558",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Survivors, The (Europe)",
@@ -21204,6 +21762,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00559",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Suspect (Europe)",
@@ -21242,6 +21801,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00560",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Suspended (Europe)",
@@ -21280,6 +21840,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00561",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Sword Of Destiny (Europe)",
@@ -21318,6 +21879,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00562",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Syndrome Compilation (Europe) (Side A)",
@@ -21356,6 +21918,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00563",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Syndrome Compilation (Europe) (Side A)",
@@ -21394,6 +21957,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00564",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Szerpentin (Hungary)",
@@ -21432,6 +21996,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00565",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Tank Attack (Europe)",
@@ -21470,6 +22035,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00566",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Taskforce (Europe)",
@@ -21508,6 +22074,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00567",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Tazz (Europe)",
@@ -21546,6 +22113,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00568",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Ten Little Indians (Europe)",
@@ -21584,6 +22152,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00569",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Tennis (Europe)",
@@ -21622,6 +22191,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00570",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Terra Cognita (Europe)",
@@ -21660,6 +22230,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00571",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Terra Nova (Europe)",
@@ -21698,6 +22269,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00572",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Terra-X (Europe) (Unl)",
@@ -21736,6 +22308,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00573",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Tetris (Europe) (Unl)",
@@ -21774,6 +22347,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00574",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Tetris 2 (Europe) (Unl)",
@@ -21812,6 +22386,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00575",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Thai Boxing (Europe)",
@@ -21850,6 +22425,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00576",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Thermo Nuclear War Games (Europe)",
@@ -21888,6 +22464,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00577",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Thrust (Europe)",
@@ -21926,6 +22503,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00578",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Time Cristal (Europe) (Unl)",
@@ -21964,6 +22542,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00579",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Time Machine, The (Europe)",
@@ -22002,6 +22581,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00580",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Time-Zone (Europe) (Unl)",
@@ -22040,6 +22620,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00581",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Timeslip (Europe)",
@@ -22078,6 +22659,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00582",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Tom Thumb (Europe)",
@@ -22116,6 +22698,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00583",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Tomb of Tarrabash, The (Europe)",
@@ -22154,6 +22737,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00584",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Tomcat (Europe)",
@@ -22192,6 +22776,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00585",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Tonido (Europe) (Unl)",
@@ -22230,6 +22815,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00586",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Torpedo Alley (Europe)",
@@ -22268,6 +22854,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00587",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Torpedo Run (Europe)",
@@ -22306,6 +22893,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00588",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Tower of Evil (Europe)",
@@ -22344,6 +22932,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00589",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Trailblazer (Europe)",
@@ -22382,6 +22971,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00590",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Tramp Kid (Europe) (Unl)",
@@ -22420,6 +23010,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00591",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Trans Logic (Europe) (Unl)",
@@ -22458,6 +23049,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00592",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Trans Logic 2 (Europe) (Unl)",
@@ -22496,6 +23088,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00593",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Transector (Europe)",
@@ -22534,6 +23127,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00594",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Treasure Hunter (Europe)",
@@ -22572,6 +23166,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00595",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Treasure Island (Europe)",
@@ -22610,6 +23205,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00596",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Triple Change (Europe) (Unl)",
@@ -22648,6 +23244,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00597",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Trizons (Europe)",
@@ -22686,6 +23283,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00598",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Tube Runner (Europe)",
@@ -22724,6 +23322,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00599",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Tutti Frutti (Europe)",
@@ -22762,6 +23361,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00600",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Twin Kingdom Valley (Europe)",
@@ -22800,6 +23400,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00601",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Two To One (Europe)",
@@ -22838,6 +23439,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00602",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Tycoon Tex (Europe)",
@@ -22876,6 +23478,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00603",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "UFO Vadasz (Hungary)",
@@ -22914,6 +23517,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00604",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "US Drag Racing (Europe)",
@@ -22952,6 +23556,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00605",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "UXB (Europe)",
@@ -22990,6 +23595,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00606",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Ultimate - Adventure 4 (Europe)",
@@ -23028,6 +23634,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00607",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Under Haupt (Europe) (Unl)",
@@ -23066,6 +23673,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00608",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Underground Adventure (Europe)",
@@ -23104,6 +23712,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00609",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Urkaland (Hungary)",
@@ -23142,6 +23751,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00610",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Urpok (Hungary)",
@@ -23180,6 +23790,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00611",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Urvirag (Hungary)",
@@ -23218,6 +23829,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00612",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Uwol (Europe) (Unl)",
@@ -23256,6 +23868,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00613",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Varmit (Europe)",
@@ -23294,6 +23907,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00614",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Vegas Jackpot (Europe)",
@@ -23332,6 +23946,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00615",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Verem (Hungary)",
@@ -23370,6 +23985,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00616",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Video Classics (Europe)",
@@ -23408,6 +24024,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00617",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Video Meanies (Europe)",
@@ -23446,6 +24063,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00618",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Video Poker (Europe)",
@@ -23484,6 +24102,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00619",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Viduzzles (Europe)",
@@ -23522,6 +24141,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00620",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Voidrunner (Europe)",
@@ -23560,6 +24180,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00621",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Volleyball (Europe) (Unl)",
@@ -23598,6 +24219,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00622",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Voodoo Castle (Europe)",
@@ -23636,6 +24258,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00623",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Voodoo Castle +4 (Europe) (Unl)",
@@ -23674,6 +24297,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00624",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Vox (Europe)",
@@ -23712,6 +24336,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00625",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Wacky Painter (Europe)",
@@ -23750,6 +24375,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00626",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Walaki (Hungary)",
@@ -23788,6 +24414,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00627",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Water Grand Prix (Europe)",
@@ -23826,6 +24453,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00628",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Waxworks (Europe)",
@@ -23864,6 +24492,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00629",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Way of the Exploding Fist (Europe)",
@@ -23902,6 +24531,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00630",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Way of the Tiger, The (Europe)",
@@ -23940,6 +24570,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00631",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Who Dares Wins II (Europe)",
@@ -23978,6 +24609,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00632",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Wildfire (Europe) (Unl)",
@@ -24016,6 +24648,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00633",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Williamburg - Adventure 3 (Europe)",
@@ -24054,6 +24687,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00634",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Wimbledon (Europe)",
@@ -24092,6 +24726,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00635",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Winnie Witch's Superbroom (Europe)",
@@ -24130,6 +24765,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00636",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Winter Events (Europe)",
@@ -24168,6 +24804,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00637",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Winter Olympics (Europe)",
@@ -24206,6 +24843,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00638",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Witness (Europe)",
@@ -24244,6 +24882,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00639",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Wizard and the Princess, The (Europe)",
@@ -24282,6 +24921,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00640",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Wizard of Wor (Europe) (Unl)",
@@ -24320,6 +24960,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00641",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Wolf Pack (Europe)",
@@ -24358,6 +24999,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00642",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "World Cup (Europe)",
@@ -24396,6 +25038,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00643",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "World Cup Carnival (Europe)",
@@ -24434,6 +25077,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00644",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "World Series Baseball +4 (Europe)",
@@ -24472,6 +25116,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00645",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "World Series Baseball C16 (Europe)",
@@ -24510,6 +25155,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00646",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Wu Lung (Europe)",
@@ -24548,6 +25194,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00647",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "XCellor8 (Europe)",
@@ -24586,6 +25233,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00648",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Xadium (Europe)",
@@ -24624,6 +25272,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00649",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Xargon Wars (Europe)",
@@ -24662,6 +25311,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00650",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Xargon's Revenge (Europe)",
@@ -24700,6 +25350,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00651",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Xzap (Europe)",
@@ -24738,6 +25389,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00652",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Yie Ar Kung Fu (Europe)",
@@ -24776,6 +25428,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00653",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Zagon Warrior (Europe)",
@@ -24814,6 +25467,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00654",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Zapp-em (Europe)",
@@ -24852,6 +25506,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00655",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Zodiac (Europe)",
@@ -24890,6 +25545,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00656",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Zolyx (Europe)",
@@ -24928,6 +25584,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00657",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Zone Control (Europe)",
@@ -24966,6 +25623,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00658",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Zork I (Europe)",
@@ -25004,6 +25662,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00659",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Zork II (Europe)",
@@ -25042,6 +25701,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00660",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Zork III (Europe)",
@@ -25080,6 +25740,7 @@
     "gamesdatabase_title_url": ""
   },
   {
+    "gameId": "commodore-plus4-00661",
     "datasetId": "commodore-plus4",
     "console": "Commodore Plus4",
     "english_name": "Zortek and the Microchips (Europe)",

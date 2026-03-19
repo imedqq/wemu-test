@@ -1,5 +1,6 @@
 [
   {
+    "gameId": "virtual-boy-00001",
     "datasetId": "virtual-boy",
     "console": "Virtual Boy",
     "english_name": "3-D Tetris",
@@ -38,6 +39,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-virtual-boy/artwork-title-screen/3-d-tetris"
   },
   {
+    "gameId": "virtual-boy-00002",
     "datasetId": "virtual-boy",
     "console": "Virtual Boy",
     "english_name": "Galactic Pinball",
@@ -76,6 +78,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-virtual-boy/artwork-title-screen/galactic-pinball"
   },
   {
+    "gameId": "virtual-boy-00003",
     "datasetId": "virtual-boy",
     "console": "Virtual Boy",
     "english_name": "Golf",
@@ -114,6 +117,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-virtual-boy/artwork-title-screen/golf"
   },
   {
+    "gameId": "virtual-boy-00004",
     "datasetId": "virtual-boy",
     "console": "Virtual Boy",
     "english_name": "Innsmouth no Yakata",
@@ -152,6 +156,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-virtual-boy/artwork-title-screen/innsmouth-no-yakata"
   },
   {
+    "gameId": "virtual-boy-00005",
     "datasetId": "virtual-boy",
     "console": "Virtual Boy",
     "english_name": "Jack Bros.",
@@ -190,6 +195,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-virtual-boy/artwork-title-screen/jack-bros"
   },
   {
+    "gameId": "virtual-boy-00006",
     "datasetId": "virtual-boy",
     "console": "Virtual Boy",
     "english_name": "Mario Clash",
@@ -228,6 +234,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-virtual-boy/artwork-title-screen/mario-clash"
   },
   {
+    "gameId": "virtual-boy-00007",
     "datasetId": "virtual-boy",
     "console": "Virtual Boy",
     "english_name": "Mario's Tennis",
@@ -266,6 +273,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-virtual-boy/artwork-title-screen/marios-tennis"
   },
   {
+    "gameId": "virtual-boy-00008",
     "datasetId": "virtual-boy",
     "console": "Virtual Boy",
     "english_name": "Nester's Funky Bowling",
@@ -304,6 +312,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-virtual-boy/artwork-title-screen/nesters-funky-bowling"
   },
   {
+    "gameId": "virtual-boy-00009",
     "datasetId": "virtual-boy",
     "console": "Virtual Boy",
     "english_name": "Panic Bomber",
@@ -342,6 +351,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-virtual-boy/artwork-title-screen/panic-bomber"
   },
   {
+    "gameId": "virtual-boy-00010",
     "datasetId": "virtual-boy",
     "console": "Virtual Boy",
     "english_name": "Red Alarm",
@@ -380,6 +390,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-virtual-boy/artwork-title-screen/red-alarm"
   },
   {
+    "gameId": "virtual-boy-00011",
     "datasetId": "virtual-boy",
     "console": "Virtual Boy",
     "english_name": "SD Gundam - Dimension War",
@@ -418,6 +429,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-virtual-boy/artwork-title-screen/sd-gundam-dimension-war"
   },
   {
+    "gameId": "virtual-boy-00012",
     "datasetId": "virtual-boy",
     "console": "Virtual Boy",
     "english_name": "Space Invaders - Virtual Collection",
@@ -456,6 +468,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-virtual-boy/artwork-title-screen/space-invaders-virtual-collection"
   },
   {
+    "gameId": "virtual-boy-00013",
     "datasetId": "virtual-boy",
     "console": "Virtual Boy",
     "english_name": "Teleroboxer",
@@ -494,6 +507,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-virtual-boy/artwork-title-screen/teleroboxer"
   },
   {
+    "gameId": "virtual-boy-00014",
     "datasetId": "virtual-boy",
     "console": "Virtual Boy",
     "english_name": "V-Tetris",
@@ -532,6 +546,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-virtual-boy/artwork-title-screen/v-tetris"
   },
   {
+    "gameId": "virtual-boy-00015",
     "datasetId": "virtual-boy",
     "console": "Virtual Boy",
     "english_name": "Vertical Force",
@@ -570,6 +585,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-virtual-boy/artwork-title-screen/vertical-force"
   },
   {
+    "gameId": "virtual-boy-00016",
     "datasetId": "virtual-boy",
     "console": "Virtual Boy",
     "english_name": "Virtual Bowling",
@@ -608,6 +624,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-virtual-boy/artwork-title-screen/virtual-bowling"
   },
   {
+    "gameId": "virtual-boy-00017",
     "datasetId": "virtual-boy",
     "console": "Virtual Boy",
     "english_name": "Virtual Boy Wario Land",
@@ -646,6 +663,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-virtual-boy/artwork-title-screen/virtual-boy-wario-land"
   },
   {
+    "gameId": "virtual-boy-00018",
     "datasetId": "virtual-boy",
     "console": "Virtual Boy",
     "english_name": "Virtual Lab",
@@ -684,6 +702,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-virtual-boy/artwork-title-screen/virtual-lab"
   },
   {
+    "gameId": "virtual-boy-00019",
     "datasetId": "virtual-boy",
     "console": "Virtual Boy",
     "english_name": "Virtual League Baseball",
@@ -722,6 +741,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-virtual-boy/artwork-title-screen/virtual-league-baseball"
   },
   {
+    "gameId": "virtual-boy-00020",
     "datasetId": "virtual-boy",
     "console": "Virtual Boy",
     "english_name": "Waterworld",

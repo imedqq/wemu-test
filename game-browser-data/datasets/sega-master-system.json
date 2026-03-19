@@ -1,5 +1,6 @@
 [
   {
+    "gameId": "sega-master-system-00001",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Parlour Games",
@@ -38,6 +39,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/parlour-games"
   },
   {
+    "gameId": "sega-master-system-00002",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "R.C. Grand Prix",
@@ -76,6 +78,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/r-c-grand-prix"
   },
   {
+    "gameId": "sega-master-system-00003",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Olympic Gold",
@@ -114,6 +117,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/olympic-gold"
   },
   {
+    "gameId": "sega-master-system-00004",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Summer Games",
@@ -152,6 +156,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/summer-games"
   },
   {
+    "gameId": "sega-master-system-00005",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Winter Olympics - Lillehammer '94",
@@ -190,6 +195,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/winter-olympics-lillehammer-94"
   },
   {
+    "gameId": "sega-master-system-00006",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Action Fighter",
@@ -228,6 +234,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/action-fighter"
   },
   {
+    "gameId": "sega-master-system-00007",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Buggy Run",
@@ -266,6 +273,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/buggy-run"
   },
   {
+    "gameId": "sega-master-system-00008",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "F1",
@@ -304,6 +312,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/f1"
   },
   {
+    "gameId": "sega-master-system-00009",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "GP Rider",
@@ -342,6 +351,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/gp-rider"
   },
   {
+    "gameId": "sega-master-system-00010",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Micro Machines",
@@ -380,6 +390,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/micro-machines"
   },
   {
+    "gameId": "sega-master-system-00011",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Road Rash",
@@ -418,6 +429,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/road-rash"
   },
   {
+    "gameId": "sega-master-system-00012",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Super Monaco GP",
@@ -456,6 +468,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/super-monaco-gp"
   },
   {
+    "gameId": "sega-master-system-00013",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Super Off Road",
@@ -494,6 +507,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/super-off-road"
   },
   {
+    "gameId": "sega-master-system-00014",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "California Games",
@@ -532,6 +546,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/california-games"
   },
   {
+    "gameId": "sega-master-system-00015",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "California Games II",
@@ -570,6 +585,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/california-games-ii"
   },
   {
+    "gameId": "sega-master-system-00016",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Gangster Town",
@@ -608,6 +624,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/gangster-town"
   },
   {
+    "gameId": "sega-master-system-00017",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "World Games",
@@ -646,6 +663,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/world-games"
   },
   {
+    "gameId": "sega-master-system-00018",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Andre Agassi Tennis",
@@ -684,6 +702,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/andre-agassi-tennis"
   },
   {
+    "gameId": "sega-master-system-00019",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Columns",
@@ -722,6 +741,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/columns"
   },
   {
+    "gameId": "sega-master-system-00020",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Dr. Robotnik's Mean Bean Machine",
@@ -760,6 +780,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/dr-robotniks-mean-bean-machine"
   },
   {
+    "gameId": "sega-master-system-00021",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Shanghai",
@@ -798,6 +819,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/shanghai"
   },
   {
+    "gameId": "sega-master-system-00022",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Super Tennis",
@@ -836,6 +858,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/super-tennis"
   },
   {
+    "gameId": "sega-master-system-00023",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Tennis Ace",
@@ -874,6 +897,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/tennis-ace"
   },
   {
+    "gameId": "sega-master-system-00024",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Wimbledon",
@@ -912,6 +936,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/wimbledon"
   },
   {
+    "gameId": "sega-master-system-00025",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Wimbledon II",
@@ -950,6 +975,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/wimbledon-ii"
   },
   {
+    "gameId": "sega-master-system-00026",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Alien Syndrome",
@@ -988,6 +1014,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/alien-syndrome"
   },
   {
+    "gameId": "sega-master-system-00027",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Astro Warrior",
@@ -1026,6 +1053,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/astro-warrior"
   },
   {
+    "gameId": "sega-master-system-00028",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Cloud Master",
@@ -1064,6 +1092,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/cloud-master"
   },
   {
+    "gameId": "sega-master-system-00029",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Double Hawk",
@@ -1102,6 +1131,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/double-hawk"
   },
   {
+    "gameId": "sega-master-system-00030",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Fantasy Zone",
@@ -1140,6 +1170,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/fantasy-zone"
   },
   {
+    "gameId": "sega-master-system-00031",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Gain Ground",
@@ -1178,6 +1209,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/gain-ground"
   },
   {
+    "gameId": "sega-master-system-00032",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Rambo - First Blood Part II",
@@ -1216,6 +1248,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/rambo-first-blood-part-ii"
   },
   {
+    "gameId": "sega-master-system-00033",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Scramble Spirits",
@@ -1254,6 +1287,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/scramble-spirits"
   },
   {
+    "gameId": "sega-master-system-00034",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Super Space Invaders",
@@ -1292,6 +1326,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/super-space-invaders"
   },
   {
+    "gameId": "sega-master-system-00035",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Time Soldiers",
@@ -1330,6 +1365,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/time-soldiers"
   },
   {
+    "gameId": "sega-master-system-00036",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "TransBot",
@@ -1368,6 +1404,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/transbot"
   },
   {
+    "gameId": "sega-master-system-00037",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "George Foreman's KO Boxing",
@@ -1406,6 +1443,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/george-foremans-ko-boxing"
   },
   {
+    "gameId": "sega-master-system-00038",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "James 'Buster' Douglas Knockout Boxing",
@@ -1444,6 +1482,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/james-buster-douglas-knockout-boxing"
   },
   {
+    "gameId": "sega-master-system-00039",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Masters of Combat",
@@ -1482,6 +1521,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/masters-of-combat"
   },
   {
+    "gameId": "sega-master-system-00040",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Mortal Kombat",
@@ -1520,6 +1560,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/mortal-kombat"
   },
   {
+    "gameId": "sega-master-system-00041",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Mortal Kombat II",
@@ -1558,6 +1599,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/mortal-kombat-ii"
   },
   {
+    "gameId": "sega-master-system-00042",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Rocky",
@@ -1596,6 +1638,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/rocky"
   },
   {
+    "gameId": "sega-master-system-00043",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Basketball Nightmare",
@@ -1634,6 +1677,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/basketball-nightmare"
   },
   {
+    "gameId": "sega-master-system-00044",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Great Basketball",
@@ -1672,6 +1716,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/great-basketball"
   },
   {
+    "gameId": "sega-master-system-00045",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Great Football",
@@ -1710,6 +1755,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/great-football"
   },
   {
+    "gameId": "sega-master-system-00046",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Great Ice Hockey",
@@ -1748,6 +1794,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/great-ice-hockey"
   },
   {
+    "gameId": "sega-master-system-00047",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Great Soccer",
@@ -1786,6 +1833,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/great-soccer"
   },
   {
+    "gameId": "sega-master-system-00048",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Great Volleyball",
@@ -1824,6 +1872,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/great-volleyball"
   },
   {
+    "gameId": "sega-master-system-00049",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Joe Montana Football",
@@ -1862,6 +1911,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/joe-montana-football"
   },
   {
+    "gameId": "sega-master-system-00050",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Pro Wrestling",
@@ -1900,6 +1950,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/pro-wrestling"
   },
   {
+    "gameId": "sega-master-system-00051",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Sensible Soccer",
@@ -1938,6 +1989,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/sensible-soccer"
   },
   {
+    "gameId": "sega-master-system-00052",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Slap Shot",
@@ -1976,6 +2028,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/slap-shot"
   },
   {
+    "gameId": "sega-master-system-00053",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Sports Pad Football",
@@ -2014,6 +2067,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/sports-pad-football"
   },
   {
+    "gameId": "sega-master-system-00054",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Super Kick Off",
@@ -2052,6 +2106,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/super-kick-off"
   },
   {
+    "gameId": "sega-master-system-00055",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Tecmo World Cup '93",
@@ -2090,6 +2145,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/tecmo-world-cup-93"
   },
   {
+    "gameId": "sega-master-system-00056",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Ultimate Soccer",
@@ -2128,6 +2184,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/ultimate-soccer"
   },
   {
+    "gameId": "sega-master-system-00057",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "WWF Wrestlemania - Steel Cage Challenge",
@@ -2166,6 +2223,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/wwf-wrestlemania-steel-cage-challenge"
   },
   {
+    "gameId": "sega-master-system-00058",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Walter Payton Football",
@@ -2204,6 +2262,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/walter-payton-football"
   },
   {
+    "gameId": "sega-master-system-00059",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "World Cup Italia '90",
@@ -2242,6 +2301,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/world-cup-italia-90"
   },
   {
+    "gameId": "sega-master-system-00060",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "World Cup USA 94",
@@ -2280,6 +2340,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/world-cup-usa-94"
   },
   {
+    "gameId": "sega-master-system-00061",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Speedball",
@@ -2318,6 +2379,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/speedball"
   },
   {
+    "gameId": "sega-master-system-00062",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Speedball 2",
@@ -2356,6 +2418,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/speedball-2"
   },
   {
+    "gameId": "sega-master-system-00063",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Golfamania",
@@ -2394,6 +2457,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/golfamania"
   },
   {
+    "gameId": "sega-master-system-00064",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Great Golf",
@@ -2432,6 +2496,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/great-golf"
   },
   {
+    "gameId": "sega-master-system-00065",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "PGA Tour Golf",
@@ -2470,6 +2535,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/pga-tour-golf"
   },
   {
+    "gameId": "sega-master-system-00066",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Sega World Tournament Golf",
@@ -2508,6 +2574,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/sega-world-tournament-golf"
   },
   {
+    "gameId": "sega-master-system-00067",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "World Class Leader Board",
@@ -2546,6 +2613,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/world-class-leader-board"
   },
   {
+    "gameId": "sega-master-system-00068",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Great Baseball",
@@ -2584,6 +2652,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/great-baseball"
   },
   {
+    "gameId": "sega-master-system-00069",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Reggie Jackson Baseball",
@@ -2622,6 +2691,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/reggie-jackson-baseball"
   },
   {
+    "gameId": "sega-master-system-00070",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Putt & Putter",
@@ -2660,6 +2730,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/putt-and-putter"
   },
   {
+    "gameId": "sega-master-system-00071",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Monopoly",
@@ -2698,6 +2769,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/monopoly"
   },
   {
+    "gameId": "sega-master-system-00072",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Trivial Pursuit - Genus Edition",
@@ -2736,6 +2808,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/trivial-pursuit-genus-edition"
   },
   {
+    "gameId": "sega-master-system-00073",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Alien 3",
@@ -2774,6 +2847,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/alien-3"
   },
   {
+    "gameId": "sega-master-system-00074",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Asterix",
@@ -2812,6 +2886,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/asterix"
   },
   {
+    "gameId": "sega-master-system-00075",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Asterix and the Secret Mission",
@@ -2850,6 +2925,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/asterix-and-the-secret-mission"
   },
   {
+    "gameId": "sega-master-system-00076",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Black Belt",
@@ -2888,6 +2964,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/black-belt"
   },
   {
+    "gameId": "sega-master-system-00077",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Bubble Bobble",
@@ -2926,6 +3003,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/bubble-bobble"
   },
   {
+    "gameId": "sega-master-system-00078",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Choplifter",
@@ -2964,6 +3042,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/choplifter"
   },
   {
+    "gameId": "sega-master-system-00079",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Double Dragon",
@@ -3002,6 +3081,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/double-dragon"
   },
   {
+    "gameId": "sega-master-system-00080",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Dragon - The Bruce Lee Story",
@@ -3040,6 +3120,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/dragon-the-bruce-lee-story"
   },
   {
+    "gameId": "sega-master-system-00081",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Fantasy Zone - The Maze",
@@ -3078,6 +3159,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/fantasy-zone-the-maze"
   },
   {
+    "gameId": "sega-master-system-00082",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Gauntlet",
@@ -3116,6 +3198,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/gauntlet"
   },
   {
+    "gameId": "sega-master-system-00083",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Ghost House",
@@ -3154,6 +3237,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/ghost-house"
   },
   {
+    "gameId": "sega-master-system-00084",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Incredible Crash Dummies, The",
@@ -3192,6 +3276,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/incredible-crash-dummies-the"
   },
   {
+    "gameId": "sega-master-system-00085",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Kung Fu Kid",
@@ -3230,6 +3315,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/kung-fu-kid"
   },
   {
+    "gameId": "sega-master-system-00086",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Ms. Pac-Man",
@@ -3268,6 +3354,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/ms-pac-man"
   },
   {
+    "gameId": "sega-master-system-00087",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "My Hero",
@@ -3306,6 +3393,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/my-hero"
   },
   {
+    "gameId": "sega-master-system-00088",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Ninja, The",
@@ -3344,6 +3432,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/ninja-the"
   },
   {
+    "gameId": "sega-master-system-00089",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Pit Fighter",
@@ -3382,6 +3471,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/pit-fighter"
   },
   {
+    "gameId": "sega-master-system-00090",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Quartet",
@@ -3420,6 +3510,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/quartet"
   },
   {
+    "gameId": "sega-master-system-00091",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Rampage",
@@ -3458,6 +3549,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/rampage"
   },
   {
+    "gameId": "sega-master-system-00092",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Renegade",
@@ -3496,6 +3588,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/renegade"
   },
   {
+    "gameId": "sega-master-system-00093",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Spy vs. Spy",
@@ -3534,6 +3627,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/spy-vs-spy"
   },
   {
+    "gameId": "sega-master-system-00094",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Super Smash T.V.",
@@ -3572,6 +3666,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/super-smash-t-v"
   },
   {
+    "gameId": "sega-master-system-00095",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Teddy Boy",
@@ -3610,6 +3705,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/teddy-boy"
   },
   {
+    "gameId": "sega-master-system-00096",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Wonder Boy",
@@ -3648,6 +3744,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/wonder-boy"
   },
   {
+    "gameId": "sega-master-system-00097",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Arcade Smash Hits",
@@ -3686,6 +3783,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/arcade-smash-hits"
   },
   {
+    "gameId": "sega-master-system-00098",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Astro Warrior & Pit Pot",
@@ -3724,6 +3822,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/astro-warrior-and-pit-pot"
   },
   {
+    "gameId": "sega-master-system-00099",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Sega Chess",
@@ -3762,6 +3861,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/sega-chess"
   },
   {
+    "gameId": "sega-master-system-00100",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Cosmic Spacehead",
@@ -3800,6 +3900,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/cosmic-spacehead"
   },
   {
+    "gameId": "sega-master-system-00101",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Rampart",
@@ -3838,6 +3939,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/rampart"
   },
   {
+    "gameId": "sega-master-system-00102",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "20 em 1 (Brazil)",
@@ -3876,6 +3978,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/20-em-1-brazil"
   },
   {
+    "gameId": "sega-master-system-00103",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "4 PAK All Action (Australia)",
@@ -3914,6 +4017,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/4-pak-all-action-australia"
   },
   {
+    "gameId": "sega-master-system-00104",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Ace of Aces",
@@ -3952,6 +4056,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/ace-of-aces"
   },
   {
+    "gameId": "sega-master-system-00105",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Addams Family, The",
@@ -3990,6 +4095,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/addams-family-the"
   },
   {
+    "gameId": "sega-master-system-00106",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Aerial Assault",
@@ -4028,6 +4134,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/aerial-assault"
   },
   {
+    "gameId": "sega-master-system-00107",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "After Burner",
@@ -4066,6 +4173,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/after-burner"
   },
   {
+    "gameId": "sega-master-system-00108",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Air Rescue",
@@ -4104,6 +4212,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/air-rescue"
   },
   {
+    "gameId": "sega-master-system-00109",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Aladdin",
@@ -4142,6 +4251,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/aladdin"
   },
   {
+    "gameId": "sega-master-system-00110",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Alex Kidd - High-Tech World",
@@ -4180,6 +4290,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/alex-kidd-high-tech-world"
   },
   {
+    "gameId": "sega-master-system-00111",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Alex Kidd - The Lost Stars",
@@ -4218,6 +4329,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/alex-kidd-the-lost-stars"
   },
   {
+    "gameId": "sega-master-system-00112",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Alex Kidd BMX Trial (Japan)",
@@ -4256,6 +4368,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/alex-kidd-bmx-trial-japan"
   },
   {
+    "gameId": "sega-master-system-00113",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Alex Kidd in Miracle World",
@@ -4294,6 +4407,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/alex-kidd-in-miracle-world"
   },
   {
+    "gameId": "sega-master-system-00114",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Alex Kidd in Shinobi World",
@@ -4332,6 +4446,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/alex-kidd-in-shinobi-world"
   },
   {
+    "gameId": "sega-master-system-00115",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Alf",
@@ -4370,6 +4485,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/alf"
   },
   {
+    "gameId": "sega-master-system-00116",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Alien Storm",
@@ -4408,6 +4524,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/alien-storm"
   },
   {
+    "gameId": "sega-master-system-00117",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Altered Beast",
@@ -4446,6 +4563,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/altered-beast"
   },
   {
+    "gameId": "sega-master-system-00118",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Argos no Juujiken (Japan)",
@@ -4484,6 +4602,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/argos-no-juujiken-japan"
   },
   {
+    "gameId": "sega-master-system-00119",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Ariel - The Little Mermaid (Brazil)",
@@ -4522,6 +4641,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/ariel-the-little-mermaid-brazil"
   },
   {
+    "gameId": "sega-master-system-00120",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Assault City",
@@ -4560,6 +4680,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/assault-city"
   },
   {
+    "gameId": "sega-master-system-00121",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Asterix and the Great Rescue",
@@ -4598,6 +4719,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/asterix-and-the-great-rescue"
   },
   {
+    "gameId": "sega-master-system-00122",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Ayrton Senna's Super Monaco GP II",
@@ -4636,6 +4758,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/ayrton-sennas-super-monaco-gp-ii"
   },
   {
+    "gameId": "sega-master-system-00123",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Aztec Adventure - The Golden Road to Paradise",
@@ -4674,6 +4797,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/aztec-adventure-the-golden-road-to-paradise"
   },
   {
+    "gameId": "sega-master-system-00124",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Back to the Future Part II",
@@ -4712,6 +4836,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/back-to-the-future-part-ii"
   },
   {
+    "gameId": "sega-master-system-00125",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Back to the Future Part III",
@@ -4750,6 +4875,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/back-to-the-future-part-iii"
   },
   {
+    "gameId": "sega-master-system-00126",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Baku Baku Animal (Brazil)",
@@ -4788,6 +4914,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/baku-baku-animal-brazil"
   },
   {
+    "gameId": "sega-master-system-00127",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Bank Panic",
@@ -4826,6 +4953,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/bank-panic"
   },
   {
+    "gameId": "sega-master-system-00128",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Batman Returns",
@@ -4864,6 +4992,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/batman-returns"
   },
   {
+    "gameId": "sega-master-system-00129",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Battle OutRun",
@@ -4902,6 +5031,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/battle-outrun"
   },
   {
+    "gameId": "sega-master-system-00130",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Battlemaniacs (Brazil)",
@@ -4940,6 +5070,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/battlemaniacs-brazil"
   },
   {
+    "gameId": "sega-master-system-00131",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Blade Eagle",
@@ -4978,6 +5109,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/blade-eagle"
   },
   {
+    "gameId": "sega-master-system-00132",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Bomber Raid",
@@ -5016,6 +5148,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/bomber-raid"
   },
   {
+    "gameId": "sega-master-system-00133",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Bonanza Bros.",
@@ -5054,6 +5187,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/bonanza-bros"
   },
   {
+    "gameId": "sega-master-system-00134",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Bonkers Wax Up! (Brazil)",
@@ -5092,6 +5226,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/bonkers-wax-up-brazil"
   },
   {
+    "gameId": "sega-master-system-00135",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Bram Stoker's Dracula",
@@ -5130,6 +5265,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/bram-stokers-dracula"
   },
   {
+    "gameId": "sega-master-system-00136",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Bruce Lee (World) (Unl)",
@@ -5168,6 +5304,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/bruce-lee-world-unl"
   },
   {
+    "gameId": "sega-master-system-00137",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Captain Silver",
@@ -5206,6 +5343,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/captain-silver"
   },
   {
+    "gameId": "sega-master-system-00138",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Casino Games",
@@ -5244,6 +5382,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/casino-games"
   },
   {
+    "gameId": "sega-master-system-00139",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Castelo Ra-Tim-Bum (Brazil)",
@@ -5282,6 +5421,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/castelo-ra-tim-bum-brazil"
   },
   {
+    "gameId": "sega-master-system-00140",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Castle of Illusion Starring Mickey Mouse",
@@ -5320,6 +5460,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/castle-of-illusion-starring-mickey-mouse"
   },
   {
+    "gameId": "sega-master-system-00141",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Champions of Europe",
@@ -5358,6 +5499,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/champions-of-europe"
   },
   {
+    "gameId": "sega-master-system-00142",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Championship Hockey",
@@ -5396,6 +5538,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/championship-hockey"
   },
   {
+    "gameId": "sega-master-system-00143",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Chapolim x Dracula - Um Duelo Assustador (Brazil)",
@@ -5434,6 +5577,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/chapolim-x-dracula-um-duelo-assustador-brazil"
   },
   {
+    "gameId": "sega-master-system-00144",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Cheese Cat-astrophe Starring Speedy Gonzales",
@@ -5472,6 +5616,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/cheese-cat-astrophe-starring-speedy-gonzales"
   },
   {
+    "gameId": "sega-master-system-00145",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Chuck Rock",
@@ -5510,6 +5655,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/chuck-rock"
   },
   {
+    "gameId": "sega-master-system-00146",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Chuck Rock II - Son of Chuck",
@@ -5548,6 +5694,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/chuck-rock-ii-son-of-chuck"
   },
   {
+    "gameId": "sega-master-system-00147",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Comical Machine Gun Joe (Japan)",
@@ -5586,6 +5733,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/comical-machine-gun-joe-japan"
   },
   {
+    "gameId": "sega-master-system-00148",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Cool Spot",
@@ -5624,6 +5772,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/cool-spot"
   },
   {
+    "gameId": "sega-master-system-00149",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Cyber Shinobi, The",
@@ -5662,6 +5811,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/cyber-shinobi-the"
   },
   {
+    "gameId": "sega-master-system-00150",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Cyborg Hunter",
@@ -5700,6 +5850,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/cyborg-hunter"
   },
   {
+    "gameId": "sega-master-system-00151",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Daffy Duck in Hollywood",
@@ -5738,6 +5889,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/daffy-duck-in-hollywood"
   },
   {
+    "gameId": "sega-master-system-00152",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Danan - The Jungle Fighter",
@@ -5776,6 +5928,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/danan-the-jungle-fighter"
   },
   {
+    "gameId": "sega-master-system-00153",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Dead Angle",
@@ -5814,6 +5967,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/dead-angle"
   },
   {
+    "gameId": "sega-master-system-00154",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Deep Duck Trouble Starring Donald Duck",
@@ -5852,6 +6006,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/deep-duck-trouble-starring-donald-duck"
   },
   {
+    "gameId": "sega-master-system-00155",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Desert Speedtrap Starring Road Runner and Wile E. Coyote",
@@ -5890,6 +6045,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/desert-speedtrap-starring-road-runner-and-wile-e-coyote"
   },
   {
+    "gameId": "sega-master-system-00156",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Desert Strike",
@@ -5928,6 +6084,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/desert-strike"
   },
   {
+    "gameId": "sega-master-system-00157",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Dick Tracy",
@@ -5966,6 +6123,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/dick-tracy"
   },
   {
+    "gameId": "sega-master-system-00158",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Dinobasher - Starring Bignose the Caveman (Europe) (Proto)",
@@ -6004,6 +6162,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/dinobasher-starring-bignose-the-caveman-europe-proto"
   },
   {
+    "gameId": "sega-master-system-00159",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Dragon Crystal",
@@ -6042,6 +6201,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/dragon-crystal"
   },
   {
+    "gameId": "sega-master-system-00160",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Dynamite Duke",
@@ -6080,6 +6240,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/dynamite-duke"
   },
   {
+    "gameId": "sega-master-system-00161",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Dynamite Dux",
@@ -6118,6 +6279,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/dynamite-dux"
   },
   {
+    "gameId": "sega-master-system-00162",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Dynamite Headdy (Brazil)",
@@ -6156,6 +6318,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/dynamite-headdy-brazil"
   },
   {
+    "gameId": "sega-master-system-00163",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "E-SWAT - City Under Siege",
@@ -6194,6 +6357,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/e-swat-city-under-siege"
   },
   {
+    "gameId": "sega-master-system-00164",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Earthworm Jim (Brazil)",
@@ -6232,6 +6396,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/earthworm-jim-brazil"
   },
   {
+    "gameId": "sega-master-system-00165",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Ecco - The Tides of Time (Brazil)",
@@ -6270,6 +6435,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/ecco-the-tides-of-time-brazil"
   },
   {
+    "gameId": "sega-master-system-00166",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Ecco the Dolphin",
@@ -6308,6 +6474,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/ecco-the-dolphin"
   },
   {
+    "gameId": "sega-master-system-00167",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Enduro Racer",
@@ -6346,6 +6513,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/enduro-racer"
   },
   {
+    "gameId": "sega-master-system-00168",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "F-16 Fighting Falcon",
@@ -6384,6 +6552,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/f-16-fighting-falcon"
   },
   {
+    "gameId": "sega-master-system-00169",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "FIFA International Soccer (Brazil)",
@@ -6422,6 +6591,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/fifa-international-soccer-brazil"
   },
   {
+    "gameId": "sega-master-system-00170",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Fantastic Dizzy",
@@ -6460,6 +6630,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/fantastic-dizzy"
   },
   {
+    "gameId": "sega-master-system-00171",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Fantasy Zone II - The Tears of Opa-Opa",
@@ -6498,6 +6669,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/fantasy-zone-ii-the-tears-of-opa-opa"
   },
   {
+    "gameId": "sega-master-system-00172",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Ferias Frustradas do Pica Pau (Brazil)",
@@ -6536,6 +6708,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/ferias-frustradas-do-pica-pau-brazil"
   },
   {
+    "gameId": "sega-master-system-00173",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Fire & Forget II",
@@ -6574,6 +6747,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/fire-and-forget-ii"
   },
   {
+    "gameId": "sega-master-system-00174",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Fire & Ice (Brazil)",
@@ -6612,6 +6786,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/fire-and-ice-brazil"
   },
   {
+    "gameId": "sega-master-system-00175",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Flash, The",
@@ -6650,6 +6825,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/flash-the"
   },
   {
+    "gameId": "sega-master-system-00176",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Flintstones, The",
@@ -6688,6 +6864,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/flintstones-the"
   },
   {
+    "gameId": "sega-master-system-00177",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Forgotten Worlds",
@@ -6726,6 +6903,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/forgotten-worlds"
   },
   {
+    "gameId": "sega-master-system-00178",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "G-LOC Air Battle",
@@ -6764,6 +6942,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/g-loc-air-battle"
   },
   {
+    "gameId": "sega-master-system-00179",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Galactic Protector (Japan)",
@@ -6802,6 +6981,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/galactic-protector-japan"
   },
   {
+    "gameId": "sega-master-system-00180",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Galaxy Force",
@@ -6840,6 +7020,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/galaxy-force"
   },
   {
+    "gameId": "sega-master-system-00181",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Gekioko PunPun Maru (Japan) (Unl)",
@@ -6878,6 +7059,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/gekioko-punpun-maru-japan-unl"
   },
   {
+    "gameId": "sega-master-system-00182",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Geraldinho (Brazil)",
@@ -6916,6 +7098,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/geraldinho-brazil"
   },
   {
+    "gameId": "sega-master-system-00183",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Ghostbusters",
@@ -6954,6 +7137,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/ghostbusters"
   },
   {
+    "gameId": "sega-master-system-00184",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Ghouls'n Ghosts",
@@ -6992,6 +7176,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/ghoulsn-ghosts"
   },
   {
+    "gameId": "sega-master-system-00185",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Global Defense",
@@ -7030,6 +7215,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/global-defense"
   },
   {
+    "gameId": "sega-master-system-00186",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Golden Axe",
@@ -7068,6 +7254,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/golden-axe"
   },
   {
+    "gameId": "sega-master-system-00187",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Golden Axe Warrior",
@@ -7106,6 +7293,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/golden-axe-warrior"
   },
   {
+    "gameId": "sega-master-system-00188",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Golvellius",
@@ -7144,6 +7332,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/golvellius"
   },
   {
+    "gameId": "sega-master-system-00189",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Great Baseball",
@@ -7182,6 +7371,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/great-baseball"
   },
   {
+    "gameId": "sega-master-system-00190",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Great Golf",
@@ -7220,6 +7410,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/great-golf"
   },
   {
+    "gameId": "sega-master-system-00191",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Great Soccer",
@@ -7258,6 +7449,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/great-soccer"
   },
   {
+    "gameId": "sega-master-system-00192",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Hang-On",
@@ -7296,6 +7488,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/hang-on"
   },
   {
+    "gameId": "sega-master-system-00193",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Hang-On & Safari Hunt",
@@ -7334,6 +7527,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/hang-on-and-safari-hunt"
   },
   {
+    "gameId": "sega-master-system-00194",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Heroes of the Lance",
@@ -7372,6 +7566,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/heroes-of-the-lance"
   },
   {
+    "gameId": "sega-master-system-00195",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "High School! Kimengumi (Japan) (Translated En)",
@@ -7410,6 +7605,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/high-school-kimengumi-japan-translated-en"
   },
   {
+    "gameId": "sega-master-system-00196",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Hokuto no Ken (Japan)",
@@ -7448,6 +7644,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/hokuto-no-ken-japan"
   },
   {
+    "gameId": "sega-master-system-00197",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Home Alone",
@@ -7486,6 +7683,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/home-alone"
   },
   {
+    "gameId": "sega-master-system-00198",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Hook (Europe) (Proto)",
@@ -7524,6 +7722,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/hook-europe-proto"
   },
   {
+    "gameId": "sega-master-system-00199",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Hoshi wo Sagasite... (Japan) (Translated En)",
@@ -7562,6 +7761,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/hoshi-wo-sagasite-japan-translated-en"
   },
   {
+    "gameId": "sega-master-system-00200",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Impossible Mission",
@@ -7600,6 +7800,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/impossible-mission"
   },
   {
+    "gameId": "sega-master-system-00201",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Incredible Hulk, The",
@@ -7638,6 +7839,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/incredible-hulk-the"
   },
   {
+    "gameId": "sega-master-system-00202",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Indiana Jones and the Last Crusade",
@@ -7676,6 +7878,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/indiana-jones-and-the-last-crusade"
   },
   {
+    "gameId": "sega-master-system-00203",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "James Bond 007 - The Duel",
@@ -7714,6 +7917,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/james-bond-007-the-duel"
   },
   {
+    "gameId": "sega-master-system-00204",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "James Pond 2 - Codename RoboCod",
@@ -7752,6 +7956,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/james-pond-2-codename-robocod"
   },
   {
+    "gameId": "sega-master-system-00205",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Jungle Book, The",
@@ -7790,6 +7995,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/jungle-book-the"
   },
   {
+    "gameId": "sega-master-system-00206",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Jurassic Park",
@@ -7828,6 +8034,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/jurassic-park"
   },
   {
+    "gameId": "sega-master-system-00207",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Kenseiden",
@@ -7866,6 +8073,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/kenseiden"
   },
   {
+    "gameId": "sega-master-system-00208",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "King's Quest - Quest for the Crown",
@@ -7904,6 +8112,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/kings-quest-quest-for-the-crown"
   },
   {
+    "gameId": "sega-master-system-00209",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Klax",
@@ -7942,6 +8151,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/klax"
   },
   {
+    "gameId": "sega-master-system-00210",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Krusty's Fun House",
@@ -7980,6 +8190,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/krustys-fun-house"
   },
   {
+    "gameId": "sega-master-system-00211",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Land of Illusion Starring Mickey Mouse",
@@ -8018,6 +8229,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/land-of-illusion-starring-mickey-mouse"
   },
   {
+    "gameId": "sega-master-system-00212",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Lander 2 (World) (Unl)",
@@ -8056,6 +8268,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/lander-2-world-unl"
   },
   {
+    "gameId": "sega-master-system-00213",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Laser Ghost",
@@ -8094,6 +8307,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/laser-ghost"
   },
   {
+    "gameId": "sega-master-system-00214",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Legend of Illusion Starring Mickey Mouse (Brazil)",
@@ -8132,6 +8346,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/legend-of-illusion-starring-mickey-mouse-brazil"
   },
   {
+    "gameId": "sega-master-system-00215",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Lemmings",
@@ -8170,6 +8385,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/lemmings"
   },
   {
+    "gameId": "sega-master-system-00216",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Lemmings 2 - The Tribes (World) (Proto)",
@@ -8208,6 +8424,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/lemmings-2-the-tribes-world-proto"
   },
   {
+    "gameId": "sega-master-system-00217",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Line of Fire",
@@ -8246,6 +8463,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/line-of-fire"
   },
   {
+    "gameId": "sega-master-system-00218",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Lion King, The",
@@ -8284,6 +8502,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/lion-king-the"
   },
   {
+    "gameId": "sega-master-system-00219",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Lord of the Sword",
@@ -8322,6 +8541,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/lord-of-the-sword"
   },
   {
+    "gameId": "sega-master-system-00220",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Lucky Dime Caper Starring Donald Duck, The",
@@ -8360,6 +8580,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/lucky-dime-caper-starring-donald-duck-the"
   },
   {
+    "gameId": "sega-master-system-00221",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Mahjong Sengoku Jidai (Japan)",
@@ -8398,6 +8619,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/mahjong-sengoku-jidai-japan"
   },
   {
+    "gameId": "sega-master-system-00222",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Marble Madness",
@@ -8436,6 +8658,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/marble-madness"
   },
   {
+    "gameId": "sega-master-system-00223",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Marksman Shooting & Trap Shooting",
@@ -8474,6 +8697,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/marksman-shooting-and-trap-shooting"
   },
   {
+    "gameId": "sega-master-system-00224",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Master of Darkness",
@@ -8512,6 +8736,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/master-of-darkness"
   },
   {
+    "gameId": "sega-master-system-00225",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Maze Hunter 3-D",
@@ -8550,6 +8775,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/maze-hunter-3-d"
   },
   {
+    "gameId": "sega-master-system-00226",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Megumi Rescue (Japan)",
@@ -8588,6 +8814,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/megumi-rescue-japan"
   },
   {
+    "gameId": "sega-master-system-00227",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Mercs",
@@ -8626,6 +8853,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/mercs"
   },
   {
+    "gameId": "sega-master-system-00228",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Michael Jackson's Moonwalker",
@@ -8664,6 +8892,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/michael-jacksons-moonwalker"
   },
   {
+    "gameId": "sega-master-system-00229",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Mick & Mack as the Global Gladiators",
@@ -8702,6 +8931,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/mick-and-mack-as-the-global-gladiators"
   },
   {
+    "gameId": "sega-master-system-00230",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Mickey's Ultimate Challenge (Brazil)",
@@ -8740,6 +8970,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/mickeys-ultimate-challenge-brazil"
   },
   {
+    "gameId": "sega-master-system-00231",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Miracle Warriors - Seal of the Dark Lord",
@@ -8778,6 +9009,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/miracle-warriors-seal-of-the-dark-lord"
   },
   {
+    "gameId": "sega-master-system-00232",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Missile Defense 3-D",
@@ -8816,6 +9048,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/missile-defense-3-d"
   },
   {
+    "gameId": "sega-master-system-00233",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Monica no Castelo do Dragao (Brazil)",
@@ -8854,6 +9087,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/monica-no-castelo-do-dragao-brazil"
   },
   {
+    "gameId": "sega-master-system-00234",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Montezuma's Revenge Featuring Panama Joe",
@@ -8892,6 +9126,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/montezumas-revenge-featuring-panama-joe"
   },
   {
+    "gameId": "sega-master-system-00235",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Mortal Kombat 3 (Brazil)",
@@ -8930,6 +9165,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/mortal-kombat-3-brazil"
   },
   {
+    "gameId": "sega-master-system-00236",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "NBA Jam (Europe) (Proto)",
@@ -8968,6 +9204,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/nba-jam-europe-proto"
   },
   {
+    "gameId": "sega-master-system-00237",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Nekkyuu Koushien (Japan)",
@@ -9006,6 +9243,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/nekkyuu-koushien-japan"
   },
   {
+    "gameId": "sega-master-system-00238",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "New Zealand Story, The",
@@ -9044,6 +9282,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/new-zealand-story-the"
   },
   {
+    "gameId": "sega-master-system-00239",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Ninja Gaiden",
@@ -9082,6 +9321,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/ninja-gaiden"
   },
   {
+    "gameId": "sega-master-system-00240",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Operation Wolf",
@@ -9120,6 +9360,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/operation-wolf"
   },
   {
+    "gameId": "sega-master-system-00241",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Ottifants, The",
@@ -9158,6 +9399,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/ottifants-the"
   },
   {
+    "gameId": "sega-master-system-00242",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "OutRun",
@@ -9196,6 +9438,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/outrun"
   },
   {
+    "gameId": "sega-master-system-00243",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "OutRun 3-D",
@@ -9234,6 +9477,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/outrun-3-d"
   },
   {
+    "gameId": "sega-master-system-00244",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "OutRun Europa",
@@ -9272,6 +9516,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/outrun-europa"
   },
   {
+    "gameId": "sega-master-system-00245",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Pac-Mania",
@@ -9310,6 +9555,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/pac-mania"
   },
   {
+    "gameId": "sega-master-system-00246",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Paperboy",
@@ -9348,6 +9594,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/paperboy"
   },
   {
+    "gameId": "sega-master-system-00247",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Pat Riley Basketball (USA) (Proto)",
@@ -9386,6 +9633,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/pat-riley-basketball-usa-proto"
   },
   {
+    "gameId": "sega-master-system-00248",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Penguin Land",
@@ -9424,6 +9672,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/penguin-land"
   },
   {
+    "gameId": "sega-master-system-00249",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Phantasy Star",
@@ -9462,6 +9711,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/phantasy-star"
   },
   {
+    "gameId": "sega-master-system-00250",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Populous",
@@ -9500,6 +9750,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/populous"
   },
   {
+    "gameId": "sega-master-system-00251",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Poseidon Wars 3-D",
@@ -9538,6 +9789,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/poseidon-wars-3-d"
   },
   {
+    "gameId": "sega-master-system-00252",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Power Strike",
@@ -9576,6 +9828,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/power-strike"
   },
   {
+    "gameId": "sega-master-system-00253",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Power Strike II",
@@ -9614,6 +9867,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/power-strike-ii"
   },
   {
+    "gameId": "sega-master-system-00254",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Predator 2",
@@ -9652,6 +9906,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/predator-2"
   },
   {
+    "gameId": "sega-master-system-00255",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Prince of Persia",
@@ -9690,6 +9945,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/prince-of-persia"
   },
   {
+    "gameId": "sega-master-system-00256",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Pro Yakyuu Pennant Race, The (Japan)",
@@ -9728,6 +9984,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/pro-yakyuu-pennant-race-the-japan"
   },
   {
+    "gameId": "sega-master-system-00257",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Psychic World",
@@ -9766,6 +10023,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/psychic-world"
   },
   {
+    "gameId": "sega-master-system-00258",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Psycho Fox",
@@ -9804,6 +10062,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/psycho-fox"
   },
   {
+    "gameId": "sega-master-system-00259",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Quest for the Shaven Yak Starring Ren Hoek & Stimpy (Brazil)",
@@ -9842,6 +10101,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/quest-for-the-shaven-yak-starring-ren-hoek-and-stimpy-brazil"
   },
   {
+    "gameId": "sega-master-system-00260",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "R-Type",
@@ -9880,6 +10140,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/r-type"
   },
   {
+    "gameId": "sega-master-system-00261",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Rainbow Islands - The Story of Bubble Bobble 2",
@@ -9918,6 +10179,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/rainbow-islands-the-story-of-bubble-bobble-2"
   },
   {
+    "gameId": "sega-master-system-00262",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Rambo III",
@@ -9956,6 +10218,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/rambo-iii"
   },
   {
+    "gameId": "sega-master-system-00263",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Rastan",
@@ -9994,6 +10257,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/rastan"
   },
   {
+    "gameId": "sega-master-system-00264",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Rescue Mission",
@@ -10032,6 +10296,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/rescue-mission"
   },
   {
+    "gameId": "sega-master-system-00265",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "RoboCop 3",
@@ -10070,6 +10335,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/robocop-3"
   },
   {
+    "gameId": "sega-master-system-00266",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "RoboCop versus The Terminator",
@@ -10108,6 +10374,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/robocop-versus-the-terminator"
   },
   {
+    "gameId": "sega-master-system-00267",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Running Battle",
@@ -10146,6 +10413,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/running-battle"
   },
   {
+    "gameId": "sega-master-system-00268",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Sagaia",
@@ -10184,6 +10452,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/sagaia"
   },
   {
+    "gameId": "sega-master-system-00269",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Sapo Xule - O Mestre do Kung Fu (Brazil)",
@@ -10222,6 +10491,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/sapo-xule-o-mestre-do-kung-fu-brazil"
   },
   {
+    "gameId": "sega-master-system-00270",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Sapo Xule - S.O.S Lagoa Poluida (Brazil)",
@@ -10260,6 +10530,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/sapo-xule-s-o-s-lagoa-poluida-brazil"
   },
   {
+    "gameId": "sega-master-system-00271",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Sapo Xule vs. Os Invasores do Brejo (Brazil)",
@@ -10298,6 +10569,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/sapo-xule-vs-os-invasores-do-brejo-brazil"
   },
   {
+    "gameId": "sega-master-system-00272",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Satellite 7 (Japan)",
@@ -10336,6 +10608,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/satellite-7-japan"
   },
   {
+    "gameId": "sega-master-system-00273",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Shadow Dancer - The Secret of Shinobi",
@@ -10374,6 +10647,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/shadow-dancer-the-secret-of-shinobi"
   },
   {
+    "gameId": "sega-master-system-00274",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Shadow of the Beast",
@@ -10412,6 +10686,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/shadow-of-the-beast"
   },
   {
+    "gameId": "sega-master-system-00275",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Shinobi",
@@ -10450,6 +10725,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/shinobi"
   },
   {
+    "gameId": "sega-master-system-00276",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Shooting Gallery",
@@ -10488,6 +10764,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/shooting-gallery"
   },
   {
+    "gameId": "sega-master-system-00277",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Simpsons, The - Bart vs. The Space Mutants",
@@ -10526,6 +10803,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/simpsons-the-bart-vs-the-space-mutants"
   },
   {
+    "gameId": "sega-master-system-00278",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Simpsons, The - Bart vs. The World",
@@ -10564,6 +10842,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/simpsons-the-bart-vs-the-world"
   },
   {
+    "gameId": "sega-master-system-00279",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Sitio do Picapau Amarelo (Brazil)",
@@ -10602,6 +10881,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/sitio-do-picapau-amarelo-brazil"
   },
   {
+    "gameId": "sega-master-system-00280",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Smurfs Travel the World, The (Europe)",
@@ -10640,6 +10920,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/smurfs-travel-the-world-the-europe"
   },
   {
+    "gameId": "sega-master-system-00281",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Smurfs, The",
@@ -10678,6 +10959,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/smurfs-the"
   },
   {
+    "gameId": "sega-master-system-00282",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Snail Maze (Europe)",
@@ -10716,6 +10998,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/snail-maze-europe"
   },
   {
+    "gameId": "sega-master-system-00283",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Solomon no Kagi - Oujo Rihita no Namida (Japan)",
@@ -10754,6 +11037,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/solomon-no-kagi-oujo-rihita-no-namida-japan"
   },
   {
+    "gameId": "sega-master-system-00284",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Sonic Blast (Brazil)",
@@ -10792,6 +11076,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/sonic-blast-brazil"
   },
   {
+    "gameId": "sega-master-system-00285",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Sonic Chaos",
@@ -10830,6 +11115,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/sonic-chaos"
   },
   {
+    "gameId": "sega-master-system-00286",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Sonic Edusoft (USA) (Proto)",
@@ -10868,6 +11154,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/sonic-edusoft-usa-proto"
   },
   {
+    "gameId": "sega-master-system-00287",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Sonic Spinball",
@@ -10906,6 +11193,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/sonic-spinball"
   },
   {
+    "gameId": "sega-master-system-00288",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Sonic The Hedgehog",
@@ -10944,6 +11232,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/sonic-the-hedgehog"
   },
   {
+    "gameId": "sega-master-system-00289",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Sonic The Hedgehog 2",
@@ -10982,6 +11271,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/sonic-the-hedgehog-2"
   },
   {
+    "gameId": "sega-master-system-00290",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Space Gun",
@@ -11020,6 +11310,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/space-gun"
   },
   {
+    "gameId": "sega-master-system-00291",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Space Harrier",
@@ -11058,6 +11349,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/space-harrier"
   },
   {
+    "gameId": "sega-master-system-00292",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Space Harrier 3-D",
@@ -11096,6 +11388,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/space-harrier-3-d"
   },
   {
+    "gameId": "sega-master-system-00293",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Special Criminal Investigation",
@@ -11134,6 +11427,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/special-criminal-investigation"
   },
   {
+    "gameId": "sega-master-system-00294",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "SpellCaster",
@@ -11172,6 +11466,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/spellcaster"
   },
   {
+    "gameId": "sega-master-system-00295",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Spider-Man - Return of the Sinister Six",
@@ -11210,6 +11505,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/spider-man-return-of-the-sinister-six"
   },
   {
+    "gameId": "sega-master-system-00296",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Spider-Man vs. The Kingpin",
@@ -11248,6 +11544,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/spider-man-vs-the-kingpin"
   },
   {
+    "gameId": "sega-master-system-00297",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Star Wars",
@@ -11286,6 +11583,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/star-wars"
   },
   {
+    "gameId": "sega-master-system-00298",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Street Fighter II (Brazil)",
@@ -11324,6 +11622,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/street-fighter-ii-brazil"
   },
   {
+    "gameId": "sega-master-system-00299",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Streets of Rage",
@@ -11362,6 +11661,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/streets-of-rage"
   },
   {
+    "gameId": "sega-master-system-00300",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Streets of Rage II",
@@ -11400,6 +11700,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/streets-of-rage-ii"
   },
   {
+    "gameId": "sega-master-system-00301",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Strider",
@@ -11438,6 +11739,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/strider"
   },
   {
+    "gameId": "sega-master-system-00302",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Strider II",
@@ -11476,6 +11778,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/strider-ii"
   },
   {
+    "gameId": "sega-master-system-00303",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Submarine Attack",
@@ -11514,6 +11817,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/submarine-attack"
   },
   {
+    "gameId": "sega-master-system-00304",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan) (Translated En)",
@@ -11552,6 +11856,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/sukeban-deka-ii-shoujo-tekkamen-densetsu-japan-translated-en"
   },
   {
+    "gameId": "sega-master-system-00305",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Super Racing (Japan)",
@@ -11590,6 +11895,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/super-racing-japan"
   },
   {
+    "gameId": "sega-master-system-00306",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Superman - The Man of Steel",
@@ -11628,6 +11934,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/superman-the-man-of-steel"
   },
   {
+    "gameId": "sega-master-system-00307",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "T2 - The Arcade Game",
@@ -11666,6 +11973,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/t2-the-arcade-game"
   },
   {
+    "gameId": "sega-master-system-00308",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "TV Colosso (Brazil)",
@@ -11704,6 +12012,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/tv-colosso-brazil"
   },
   {
+    "gameId": "sega-master-system-00309",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Taito Chase H.Q.",
@@ -11742,6 +12051,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/taito-chase-h-q"
   },
   {
+    "gameId": "sega-master-system-00310",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Taz in Escape from Mars (Brazil)",
@@ -11780,6 +12090,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/taz-in-escape-from-mars-brazil"
   },
   {
+    "gameId": "sega-master-system-00311",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Taz-Mania",
@@ -11818,6 +12129,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/taz-mania"
   },
   {
+    "gameId": "sega-master-system-00312",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Terminator 2 - Judgment Day",
@@ -11856,6 +12168,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/terminator-2-judgment-day"
   },
   {
+    "gameId": "sega-master-system-00313",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Terminator, The",
@@ -11894,6 +12207,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/terminator-the"
   },
   {
+    "gameId": "sega-master-system-00314",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Thunder Blade",
@@ -11932,6 +12246,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/thunder-blade"
   },
   {
+    "gameId": "sega-master-system-00315",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Tom and Jerry - The Movie",
@@ -11970,6 +12285,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/tom-and-jerry-the-movie"
   },
   {
+    "gameId": "sega-master-system-00316",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Turma da Monica em O Resgate (Brazil)",
@@ -12008,6 +12324,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/turma-da-monica-em-o-resgate-brazil"
   },
   {
+    "gameId": "sega-master-system-00317",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Ultima IV - Quest of the Avatar",
@@ -12046,6 +12363,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/ultima-iv-quest-of-the-avatar"
   },
   {
+    "gameId": "sega-master-system-00318",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Vigilante",
@@ -12084,6 +12402,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/vigilante"
   },
   {
+    "gameId": "sega-master-system-00319",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Virtua Fighter Animation (Brazil)",
@@ -12122,6 +12441,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/virtua-fighter-animation-brazil"
   },
   {
+    "gameId": "sega-master-system-00320",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Wanted",
@@ -12160,6 +12480,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/wanted"
   },
   {
+    "gameId": "sega-master-system-00321",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Where in the World is Carmen Sandiego",
@@ -12198,6 +12519,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/where-in-the-world-is-carmen-sandiego"
   },
   {
+    "gameId": "sega-master-system-00322",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Wolfchild",
@@ -12236,6 +12558,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/wolfchild"
   },
   {
+    "gameId": "sega-master-system-00323",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Wonder Boy III - The Dragon's Trap",
@@ -12274,6 +12597,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/wonder-boy-iii-the-dragons-trap"
   },
   {
+    "gameId": "sega-master-system-00324",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Wonder Boy in Monster Land",
@@ -12312,6 +12636,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/wonder-boy-in-monster-land"
   },
   {
+    "gameId": "sega-master-system-00325",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Wonder Boy in Monster World",
@@ -12350,6 +12675,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/wonder-boy-in-monster-world"
   },
   {
+    "gameId": "sega-master-system-00326",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Woody Pop - Shinjinrui no Block Kuzushi (Japan)",
@@ -12388,6 +12714,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/woody-pop-shinjinrui-no-block-kuzushi-japan"
   },
   {
+    "gameId": "sega-master-system-00327",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "World Grand Prix",
@@ -12426,6 +12753,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/world-grand-prix"
   },
   {
+    "gameId": "sega-master-system-00328",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "X-Men - Mojo World (Brazil)",
@@ -12464,6 +12792,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/x-men-mojo-world-brazil"
   },
   {
+    "gameId": "sega-master-system-00329",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Xenon 2 - Megablast",
@@ -12502,6 +12831,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/xenon-2-megablast"
   },
   {
+    "gameId": "sega-master-system-00330",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Ys - The Vanished Omens",
@@ -12540,6 +12870,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/ys-the-vanished-omens"
   },
   {
+    "gameId": "sega-master-system-00331",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Zaxxon 3-D",
@@ -12578,6 +12909,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/zaxxon-3-d"
   },
   {
+    "gameId": "sega-master-system-00332",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Zillion",
@@ -12616,6 +12948,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/zillion"
   },
   {
+    "gameId": "sega-master-system-00333",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Zillion II - The Tri Formation",
@@ -12654,6 +12987,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-master-system/artwork-title-screen/zillion-ii-the-tri-formation"
   },
   {
+    "gameId": "sega-master-system-00334",
     "datasetId": "sega-master-system",
     "console": "Sega Master System",
     "english_name": "Zool - Ninja of the 'Nth' Dimension",

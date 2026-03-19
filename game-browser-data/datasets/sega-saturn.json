@@ -1,5 +1,6 @@
 [
   {
+    "gameId": "sega-saturn-00001",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Street Racer",
@@ -38,6 +39,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/street-racer"
   },
   {
+    "gameId": "sega-saturn-00002",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Winter Heat",
@@ -76,6 +78,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/winter-heat"
   },
   {
+    "gameId": "sega-saturn-00003",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Mighty Hits",
@@ -114,6 +117,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/mighty-hits"
   },
   {
+    "gameId": "sega-saturn-00004",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Break Point Tennis",
@@ -152,6 +156,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/break-point-tennis"
   },
   {
+    "gameId": "sega-saturn-00005",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Virtual Open Tennis",
@@ -190,6 +195,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/virtual-open-tennis"
   },
   {
+    "gameId": "sega-saturn-00006",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Andretti Racing",
@@ -228,6 +234,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/andretti-racing"
   },
   {
+    "gameId": "sega-saturn-00007",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Crime Wave",
@@ -266,6 +273,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/crime-wave"
   },
   {
+    "gameId": "sega-saturn-00008",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Cyber Speedway",
@@ -304,6 +312,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/cyber-speedway"
   },
   {
+    "gameId": "sega-saturn-00009",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Daytona USA - Championship Circuit Edition",
@@ -342,6 +351,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/daytona-usa-championship-circuit-edition"
   },
   {
+    "gameId": "sega-saturn-00010",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Formula Karts - Special Edition",
@@ -380,6 +390,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/formula-karts-special-edition"
   },
   {
+    "gameId": "sega-saturn-00011",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Hi-Octane - The Track Fights Back!",
@@ -418,6 +429,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/hi-octane-the-track-fights-back"
   },
   {
+    "gameId": "sega-saturn-00012",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "High Velocity - Mountain Racing Challenge",
@@ -456,6 +468,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/high-velocity-mountain-racing-challenge"
   },
   {
+    "gameId": "sega-saturn-00013",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Highway 2000",
@@ -494,6 +507,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/highway-2000"
   },
   {
+    "gameId": "sega-saturn-00014",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Manx TT SuperBike",
@@ -532,6 +546,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/manx-tt-superbike"
   },
   {
+    "gameId": "sega-saturn-00015",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "NASCAR '98",
@@ -570,6 +585,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/nascar-98"
   },
   {
+    "gameId": "sega-saturn-00016",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Need for Speed, The",
@@ -608,6 +624,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/need-for-speed-the"
   },
   {
+    "gameId": "sega-saturn-00017",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Road Rash",
@@ -646,6 +663,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/road-rash"
   },
   {
+    "gameId": "sega-saturn-00018",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Sega Rally Championship",
@@ -684,6 +702,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/sega-rally-championship"
   },
   {
+    "gameId": "sega-saturn-00019",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Sega Touring Car Championship",
@@ -722,6 +741,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/sega-touring-car-championship"
   },
   {
+    "gameId": "sega-saturn-00020",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Sonic R",
@@ -760,6 +780,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/sonic-r"
   },
   {
+    "gameId": "sega-saturn-00021",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "VR Virtua Racing",
@@ -798,6 +819,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/vr-virtua-racing"
   },
   {
+    "gameId": "sega-saturn-00022",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Hyper 3-D Pinball",
@@ -836,6 +858,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/hyper-3-d-pinball"
   },
   {
+    "gameId": "sega-saturn-00023",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Pro Pinball",
@@ -874,6 +897,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/pro-pinball"
   },
   {
+    "gameId": "sega-saturn-00024",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "True Pinball",
@@ -912,6 +936,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/true-pinball"
   },
   {
+    "gameId": "sega-saturn-00025",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Off-World Interceptor Extreme",
@@ -950,6 +975,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/off-world-interceptor-extreme"
   },
   {
+    "gameId": "sega-saturn-00026",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "College Slam",
@@ -988,6 +1014,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/college-slam"
   },
   {
+    "gameId": "sega-saturn-00027",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Decathlete",
@@ -1026,6 +1053,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/decathlete"
   },
   {
+    "gameId": "sega-saturn-00028",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "FIFA - Road to World Cup 98",
@@ -1064,6 +1092,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/fifa-road-to-world-cup-98"
   },
   {
+    "gameId": "sega-saturn-00029",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "FIFA Soccer 96",
@@ -1102,6 +1131,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/fifa-soccer-96"
   },
   {
+    "gameId": "sega-saturn-00030",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "FIFA Soccer 97",
@@ -1140,6 +1170,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/fifa-soccer-97"
   },
   {
+    "gameId": "sega-saturn-00031",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Jonah Lomu Rugby",
@@ -1178,6 +1209,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/jonah-lomu-rugby"
   },
   {
+    "gameId": "sega-saturn-00032",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Madden NFL 97",
@@ -1216,6 +1248,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/madden-nfl-97"
   },
   {
+    "gameId": "sega-saturn-00033",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Madden NFL 98",
@@ -1254,6 +1287,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/madden-nfl-98"
   },
   {
+    "gameId": "sega-saturn-00034",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "NBA Action",
@@ -1292,6 +1326,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/nba-action"
   },
   {
+    "gameId": "sega-saturn-00035",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "NBA Action 98",
@@ -1330,6 +1365,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/nba-action-98"
   },
   {
+    "gameId": "sega-saturn-00036",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "NBA Jam Extreme",
@@ -1368,6 +1404,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/nba-jam-extreme"
   },
   {
+    "gameId": "sega-saturn-00037",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "NBA Live 97",
@@ -1406,6 +1443,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/nba-live-97"
   },
   {
+    "gameId": "sega-saturn-00038",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "NBA Live 98",
@@ -1444,6 +1482,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/nba-live-98"
   },
   {
+    "gameId": "sega-saturn-00039",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "NFL '97",
@@ -1482,6 +1521,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/nfl-97"
   },
   {
+    "gameId": "sega-saturn-00040",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "NFL Quarterback Club '96",
@@ -1520,6 +1560,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/nfl-quarterback-club-96"
   },
   {
+    "gameId": "sega-saturn-00041",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "NFL Quarterback Club '97",
@@ -1558,6 +1599,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/nfl-quarterback-club-97"
   },
   {
+    "gameId": "sega-saturn-00042",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "NHL 97",
@@ -1596,6 +1638,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/nhl-97"
   },
   {
+    "gameId": "sega-saturn-00043",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "NHL 98",
@@ -1634,6 +1677,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/nhl-98"
   },
   {
+    "gameId": "sega-saturn-00044",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "NHL All-Star Hockey",
@@ -1672,6 +1716,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/nhl-all-star-hockey"
   },
   {
+    "gameId": "sega-saturn-00045",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "NHL All-Star Hockey 98",
@@ -1710,6 +1755,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/nhl-all-star-hockey-98"
   },
   {
+    "gameId": "sega-saturn-00046",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "NHL Powerplay '96",
@@ -1748,6 +1794,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/nhl-powerplay-96"
   },
   {
+    "gameId": "sega-saturn-00047",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Olympic Soccer",
@@ -1786,6 +1833,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/olympic-soccer"
   },
   {
+    "gameId": "sega-saturn-00048",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Sega Worldwide Soccer '97",
@@ -1824,6 +1872,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/sega-worldwide-soccer-97"
   },
   {
+    "gameId": "sega-saturn-00049",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Sega Worldwide Soccer '98",
@@ -1862,6 +1911,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/sega-worldwide-soccer-98"
   },
   {
+    "gameId": "sega-saturn-00050",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Slam 'N Jam '96 featuring Magic & Kareem",
@@ -1900,6 +1950,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/slam-n-jam-96-featuring-magic-and-kareem"
   },
   {
+    "gameId": "sega-saturn-00051",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Space Jam",
@@ -1938,6 +1989,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/space-jam"
   },
   {
+    "gameId": "sega-saturn-00052",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Striker '96",
@@ -1976,6 +2028,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/striker-96"
   },
   {
+    "gameId": "sega-saturn-00053",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "UEFA Euro 96 England",
@@ -2014,6 +2067,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/uefa-euro-96-england"
   },
   {
+    "gameId": "sega-saturn-00054",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "WWF In Your House",
@@ -2052,6 +2106,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/wwf-in-your-house"
   },
   {
+    "gameId": "sega-saturn-00055",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "World League Soccer '98",
@@ -2090,6 +2145,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/world-league-soccer-98"
   },
   {
+    "gameId": "sega-saturn-00056",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Worldwide Soccer - Sega International Victory Goal Edition",
@@ -2128,6 +2184,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/worldwide-soccer-sega-international-victory-goal-edition"
   },
   {
+    "gameId": "sega-saturn-00057",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Ten Pin Alley",
@@ -2166,6 +2223,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/ten-pin-alley"
   },
   {
+    "gameId": "sega-saturn-00058",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Blast Chamber",
@@ -2204,6 +2262,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/blast-chamber"
   },
   {
+    "gameId": "sega-saturn-00059",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Crypt Killer",
@@ -2242,6 +2301,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/crypt-killer"
   },
   {
+    "gameId": "sega-saturn-00060",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Virtua Cop",
@@ -2280,6 +2340,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/virtua-cop"
   },
   {
+    "gameId": "sega-saturn-00061",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Virtua Cop 2",
@@ -2318,6 +2379,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/virtua-cop-2"
   },
   {
+    "gameId": "sega-saturn-00062",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Baku Baku",
@@ -2356,6 +2418,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/baku-baku"
   },
   {
+    "gameId": "sega-saturn-00063",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Bust-A-Move 2 - Arcade Edition",
@@ -2394,6 +2457,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/bust-a-move-2-arcade-edition"
   },
   {
+    "gameId": "sega-saturn-00064",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Bust-A-Move 3",
@@ -2432,6 +2496,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/bust-a-move-3"
   },
   {
+    "gameId": "sega-saturn-00065",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Hebereke's Popoitto",
@@ -2470,6 +2535,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/heberekes-popoitto"
   },
   {
+    "gameId": "sega-saturn-00066",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Norse by Norsewest - The Return of The Lost Vikings",
@@ -2508,6 +2574,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/norse-by-norsewest-the-return-of-the-lost-vikings"
   },
   {
+    "gameId": "sega-saturn-00067",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Super Puzzle Fighter II Turbo",
@@ -2546,6 +2613,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/super-puzzle-fighter-ii-turbo"
   },
   {
+    "gameId": "sega-saturn-00068",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Tetris Plus",
@@ -2584,6 +2652,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/tetris-plus"
   },
   {
+    "gameId": "sega-saturn-00069",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "A+M+O+K",
@@ -2622,6 +2691,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/a-m-o-k"
   },
   {
+    "gameId": "sega-saturn-00070",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Area 51",
@@ -2660,6 +2730,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/area-51"
   },
   {
+    "gameId": "sega-saturn-00071",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Chaos Control",
@@ -2698,6 +2769,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/chaos-control"
   },
   {
+    "gameId": "sega-saturn-00072",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Contra - Legacy of War",
@@ -2736,6 +2808,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/contra-legacy-of-war"
   },
   {
+    "gameId": "sega-saturn-00073",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Darius Gaiden",
@@ -2774,6 +2847,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/darius-gaiden"
   },
   {
+    "gameId": "sega-saturn-00074",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Darius II",
@@ -2812,6 +2886,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/darius-ii"
   },
   {
+    "gameId": "sega-saturn-00075",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "DonPachi",
@@ -2850,6 +2925,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/donpachi"
   },
   {
+    "gameId": "sega-saturn-00076",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Galactic Attack",
@@ -2888,6 +2964,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/galactic-attack"
   },
   {
+    "gameId": "sega-saturn-00077",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "In the Hunt",
@@ -2926,6 +3003,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/in-the-hunt"
   },
   {
+    "gameId": "sega-saturn-00078",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Independence Day",
@@ -2964,6 +3042,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/independence-day"
   },
   {
+    "gameId": "sega-saturn-00079",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Maximum Force",
@@ -3002,6 +3081,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/maximum-force"
   },
   {
+    "gameId": "sega-saturn-00080",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Return Fire",
@@ -3040,6 +3120,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/return-fire"
   },
   {
+    "gameId": "sega-saturn-00081",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Revolution X",
@@ -3078,6 +3159,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/revolution-x"
   },
   {
+    "gameId": "sega-saturn-00082",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Scud - The Disposable Assassin",
@@ -3116,6 +3198,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/scud-the-disposable-assassin"
   },
   {
+    "gameId": "sega-saturn-00083",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Space Invaders",
@@ -3154,6 +3237,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/space-invaders"
   },
   {
+    "gameId": "sega-saturn-00084",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Strikers 1945",
@@ -3192,6 +3276,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/strikers-1945"
   },
   {
+    "gameId": "sega-saturn-00085",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Battle Arena Toshinden Remix",
@@ -3230,6 +3315,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/battle-arena-toshinden-remix"
   },
   {
+    "gameId": "sega-saturn-00086",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Battle Arena Toshinden URA",
@@ -3268,6 +3354,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/battle-arena-toshinden-ura"
   },
   {
+    "gameId": "sega-saturn-00087",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Battle Monsters",
@@ -3306,6 +3393,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/battle-monsters"
   },
   {
+    "gameId": "sega-saturn-00088",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Center Ring Boxing",
@@ -3344,6 +3432,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/center-ring-boxing"
   },
   {
+    "gameId": "sega-saturn-00089",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Criticom - The Critical Combat",
@@ -3382,6 +3471,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/criticom-the-critical-combat"
   },
   {
+    "gameId": "sega-saturn-00090",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Dark Legend",
@@ -3420,6 +3510,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/dark-legend"
   },
   {
+    "gameId": "sega-saturn-00091",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Dead or Alive",
@@ -3458,6 +3549,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/dead-or-alive"
   },
   {
+    "gameId": "sega-saturn-00092",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Doom",
@@ -3496,6 +3588,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/doom"
   },
   {
+    "gameId": "sega-saturn-00093",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Dragon Ball Z - The Legend",
@@ -3534,6 +3627,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/dragon-ball-z-the-legend"
   },
   {
+    "gameId": "sega-saturn-00094",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Duke Nukem 3D",
@@ -3572,6 +3666,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/duke-nukem-3d"
   },
   {
+    "gameId": "sega-saturn-00095",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Fighters Megamix",
@@ -3610,6 +3705,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/fighters-megamix"
   },
   {
+    "gameId": "sega-saturn-00096",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Fighting Vipers",
@@ -3648,6 +3744,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/fighting-vipers"
   },
   {
+    "gameId": "sega-saturn-00097",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Galaxy Fight",
@@ -3686,6 +3783,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/galaxy-fight"
   },
   {
+    "gameId": "sega-saturn-00098",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Golden Axe - The Duel",
@@ -3724,6 +3822,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/golden-axe-the-duel"
   },
   {
+    "gameId": "sega-saturn-00099",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "House of the Dead, The",
@@ -3762,6 +3861,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/house-of-the-dead-the"
   },
   {
+    "gameId": "sega-saturn-00100",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Last Bronx",
@@ -3800,6 +3900,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/last-bronx"
   },
   {
+    "gameId": "sega-saturn-00101",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Marvel Super Heroes",
@@ -3838,6 +3939,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/marvel-super-heroes"
   },
   {
+    "gameId": "sega-saturn-00102",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Night Warriors - Darkstalkers' Revenge",
@@ -3876,6 +3978,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/night-warriors-darkstalkers-revenge"
   },
   {
+    "gameId": "sega-saturn-00103",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Pinball Graffiti",
@@ -3914,6 +4017,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/pinball-graffiti"
   },
   {
+    "gameId": "sega-saturn-00104",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Primal Rage",
@@ -3952,6 +4056,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/primal-rage"
   },
   {
+    "gameId": "sega-saturn-00105",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Resurrection - Rise 2",
@@ -3990,6 +4095,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/resurrection-rise-2"
   },
   {
+    "gameId": "sega-saturn-00106",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Street Fighter - The Movie",
@@ -4028,6 +4134,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/street-fighter-the-movie"
   },
   {
+    "gameId": "sega-saturn-00107",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Street Fighter Alpha - Warrior's Dreams",
@@ -4066,6 +4173,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/street-fighter-alpha-warriors-dreams"
   },
   {
+    "gameId": "sega-saturn-00108",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Street Fighter Alpha 2",
@@ -4104,6 +4212,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/street-fighter-alpha-2"
   },
   {
+    "gameId": "sega-saturn-00109",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Street Fighter Collection  Disk 1",
@@ -4142,6 +4251,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/street-fighter-collection-disk-1"
   },
   {
+    "gameId": "sega-saturn-00110",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Street Fighter Collection  Disk 1",
@@ -4180,6 +4290,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/street-fighter-collection-disk-1"
   },
   {
+    "gameId": "sega-saturn-00111",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Vampire Savior",
@@ -4218,6 +4329,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/vampire-savior"
   },
   {
+    "gameId": "sega-saturn-00112",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Virtua Fighter",
@@ -4256,6 +4368,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/virtua-fighter"
   },
   {
+    "gameId": "sega-saturn-00113",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Virtua Fighter 2",
@@ -4294,6 +4407,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/virtua-fighter-2"
   },
   {
+    "gameId": "sega-saturn-00114",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Virtua Fighter Kids",
@@ -4332,6 +4446,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/virtua-fighter-kids"
   },
   {
+    "gameId": "sega-saturn-00115",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Virtua Fighter Remix",
@@ -4370,6 +4485,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/virtua-fighter-remix"
   },
   {
+    "gameId": "sega-saturn-00116",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Virtual-On - Cyber Troopers",
@@ -4408,6 +4524,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/virtual-on-cyber-troopers"
   },
   {
+    "gameId": "sega-saturn-00117",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "X-Men - Children of the Atom",
@@ -4446,6 +4563,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/x-men-children-of-the-atom"
   },
   {
+    "gameId": "sega-saturn-00118",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "NBA Jam Tournament Edition",
@@ -4484,6 +4602,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/nba-jam-tournament-edition"
   },
   {
+    "gameId": "sega-saturn-00119",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "VR Soccer",
@@ -4522,6 +4641,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/vr-soccer"
   },
   {
+    "gameId": "sega-saturn-00120",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "WWF Wrestlemania - The Arcade Game",
@@ -4560,6 +4680,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/wwf-wrestlemania-the-arcade-game"
   },
   {
+    "gameId": "sega-saturn-00121",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "King of Fighters '95, The",
@@ -4598,6 +4719,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/king-of-fighters-95-the"
   },
   {
+    "gameId": "sega-saturn-00122",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Minnesota Fats - Pool Legend",
@@ -4636,6 +4758,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/minnesota-fats-pool-legend"
   },
   {
+    "gameId": "sega-saturn-00123",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Mortal Kombat II",
@@ -4674,6 +4797,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/mortal-kombat-ii"
   },
   {
+    "gameId": "sega-saturn-00124",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Mortal Kombat Trilogy",
@@ -4712,6 +4836,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/mortal-kombat-trilogy"
   },
   {
+    "gameId": "sega-saturn-00125",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Ultimate Mortal Kombat 3",
@@ -4750,6 +4875,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/ultimate-mortal-kombat-3"
   },
   {
+    "gameId": "sega-saturn-00126",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "BattleSport",
@@ -4788,6 +4914,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/battlesport"
   },
   {
+    "gameId": "sega-saturn-00127",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "PGA Tour 97",
@@ -4826,6 +4953,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/pga-tour-97"
   },
   {
+    "gameId": "sega-saturn-00128",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Pebble Beach Golf Links",
@@ -4864,6 +4992,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/pebble-beach-golf-links"
   },
   {
+    "gameId": "sega-saturn-00129",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "VR Golf '97",
@@ -4902,6 +5031,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/vr-golf-97"
   },
   {
+    "gameId": "sega-saturn-00130",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Valora Valley Golf",
@@ -4940,6 +5070,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/valora-valley-golf"
   },
   {
+    "gameId": "sega-saturn-00131",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Virtual Casino",
@@ -4978,6 +5109,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/virtual-casino"
   },
   {
+    "gameId": "sega-saturn-00132",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "3D Baseball",
@@ -5016,6 +5148,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/3d-baseball"
   },
   {
+    "gameId": "sega-saturn-00133",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "All Star Baseball '97 Featuring Frank Thomas",
@@ -5054,6 +5187,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/all-star-baseball-97-featuring-frank-thomas"
   },
   {
+    "gameId": "sega-saturn-00134",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Bases Loaded '96 - Double Header",
@@ -5092,6 +5226,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/bases-loaded-96-double-header"
   },
   {
+    "gameId": "sega-saturn-00135",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Bottom of the 9th",
@@ -5130,6 +5265,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/bottom-of-the-9th"
   },
   {
+    "gameId": "sega-saturn-00136",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Frank Thomas Big Hurt Baseball",
@@ -5168,6 +5304,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/frank-thomas-big-hurt-baseball"
   },
   {
+    "gameId": "sega-saturn-00137",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Grand Slam",
@@ -5206,6 +5343,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/grand-slam"
   },
   {
+    "gameId": "sega-saturn-00138",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "World Series Baseball",
@@ -5244,6 +5382,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/world-series-baseball"
   },
   {
+    "gameId": "sega-saturn-00139",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "World Series Baseball '98",
@@ -5282,6 +5421,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/world-series-baseball-98"
   },
   {
+    "gameId": "sega-saturn-00140",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "World Series Baseball II",
@@ -5320,6 +5460,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/world-series-baseball-ii"
   },
   {
+    "gameId": "sega-saturn-00141",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Virtual Golf",
@@ -5358,6 +5499,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/virtual-golf"
   },
   {
+    "gameId": "sega-saturn-00142",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Three Dirty Dwarves",
@@ -5396,6 +5538,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/three-dirty-dwarves"
   },
   {
+    "gameId": "sega-saturn-00143",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Astal",
@@ -5434,6 +5577,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/astal"
   },
   {
+    "gameId": "sega-saturn-00144",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Batman Forever - The Arcade Game",
@@ -5472,6 +5616,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/batman-forever-the-arcade-game"
   },
   {
+    "gameId": "sega-saturn-00145",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Bubble Bobble - Also featuring Rainbow Islands",
@@ -5510,6 +5655,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/bubble-bobble-also-featuring-rainbow-islands"
   },
   {
+    "gameId": "sega-saturn-00146",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Bug Too!",
@@ -5548,6 +5694,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/bug-too"
   },
   {
+    "gameId": "sega-saturn-00147",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Die Hard Arcade",
@@ -5586,6 +5733,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/die-hard-arcade"
   },
   {
+    "gameId": "sega-saturn-00148",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Grid Runner",
@@ -5624,6 +5772,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/grid-runner"
   },
   {
+    "gameId": "sega-saturn-00149",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Iron Man X-O Manowar in Heavy Metal",
@@ -5662,6 +5811,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/iron-man-x-o-manowar-in-heavy-metal"
   },
   {
+    "gameId": "sega-saturn-00150",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Nights Into Dreams...",
@@ -5700,6 +5850,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/nights-into-dreams"
   },
   {
+    "gameId": "sega-saturn-00151",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Rampage - World Tour",
@@ -5738,6 +5889,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/rampage-world-tour"
   },
   {
+    "gameId": "sega-saturn-00152",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Robo Pit",
@@ -5776,6 +5928,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/robo-pit"
   },
   {
+    "gameId": "sega-saturn-00153",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Saturn Bomber Man",
@@ -5814,6 +5967,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/saturn-bomber-man"
   },
   {
+    "gameId": "sega-saturn-00154",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Trash It",
@@ -5852,6 +6006,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/trash-it"
   },
   {
+    "gameId": "sega-saturn-00155",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Loaded",
@@ -5890,6 +6045,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/loaded"
   },
   {
+    "gameId": "sega-saturn-00156",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Arcade's Greatest Hits - The Atari Collection 1",
@@ -5928,6 +6084,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/arcades-greatest-hits-the-atari-collection-1"
   },
   {
+    "gameId": "sega-saturn-00157",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Arcade's Greatest Hits - Williams",
@@ -5966,6 +6123,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/arcades-greatest-hits-williams"
   },
   {
+    "gameId": "sega-saturn-00158",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Parodius",
@@ -6004,6 +6162,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/parodius"
   },
   {
+    "gameId": "sega-saturn-00159",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Sonic Jam",
@@ -6042,6 +6201,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/sonic-jam"
   },
   {
+    "gameId": "sega-saturn-00160",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Shanghai - Triple Threat",
@@ -6080,6 +6240,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/shanghai-triple-threat"
   },
   {
+    "gameId": "sega-saturn-00161",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Herc's Adventures",
@@ -6118,6 +6279,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/hercs-adventures"
   },
   {
+    "gameId": "sega-saturn-00162",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Guardian Heroes",
@@ -6156,6 +6318,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/guardian-heroes"
   },
   {
+    "gameId": "sega-saturn-00163",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Iron Storm",
@@ -6194,6 +6357,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/iron-storm"
   },
   {
+    "gameId": "sega-saturn-00164",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Romance of the Three Kingdoms IV - Wall Of Fire",
@@ -6232,6 +6396,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/romance-of-the-three-kingdoms-iv-wall-of-fire"
   },
   {
+    "gameId": "sega-saturn-00165",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Worms",
@@ -6270,6 +6435,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/worms"
   },
   {
+    "gameId": "sega-saturn-00166",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Battle Stations",
@@ -6308,6 +6474,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/battle-stations"
   },
   {
+    "gameId": "sega-saturn-00167",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "P.T.O. II - Pacific Theater of Operations",
@@ -6346,6 +6513,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/p-t-o-ii-pacific-theater-of-operations"
   },
   {
+    "gameId": "sega-saturn-00168",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "3D Lemmings",
@@ -6384,6 +6552,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/3d-lemmings"
   },
   {
+    "gameId": "sega-saturn-00169",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Albert Odyssey - Legend of Eldean",
@@ -6422,6 +6591,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/albert-odyssey-legend-of-eldean"
   },
   {
+    "gameId": "sega-saturn-00170",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Alien Trilogy",
@@ -6460,6 +6630,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/alien-trilogy"
   },
   {
+    "gameId": "sega-saturn-00171",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Alone in the Dark - One-Eyed Jack's Revenge",
@@ -6498,6 +6669,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/alone-in-the-dark-one-eyed-jacks-revenge"
   },
   {
+    "gameId": "sega-saturn-00172",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Atlantis - The Lost Tales  Disk 1",
@@ -6536,6 +6708,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/atlantis-the-lost-tales-disk-1"
   },
   {
+    "gameId": "sega-saturn-00173",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Atlantis - The Lost Tales  Disk 1",
@@ -6574,6 +6747,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/atlantis-the-lost-tales-disk-1"
   },
   {
+    "gameId": "sega-saturn-00174",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Black Dawn",
@@ -6612,6 +6786,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/black-dawn"
   },
   {
+    "gameId": "sega-saturn-00175",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Black Fire",
@@ -6650,6 +6825,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/black-fire"
   },
   {
+    "gameId": "sega-saturn-00176",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Blazing Dragons",
@@ -6688,6 +6864,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/blazing-dragons"
   },
   {
+    "gameId": "sega-saturn-00177",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Blazing Heroes",
@@ -6726,6 +6903,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/blazing-heroes"
   },
   {
+    "gameId": "sega-saturn-00178",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Brain Dead 13",
@@ -6764,6 +6942,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/brain-dead-13"
   },
   {
+    "gameId": "sega-saturn-00179",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Bug!",
@@ -6802,6 +6981,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/bug"
   },
   {
+    "gameId": "sega-saturn-00180",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Burning Rangers",
@@ -6840,6 +7020,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/burning-rangers"
   },
   {
+    "gameId": "sega-saturn-00181",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Casper",
@@ -6878,6 +7059,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/casper"
   },
   {
+    "gameId": "sega-saturn-00182",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Christmas NiGHTS",
@@ -6916,6 +7098,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/christmas-nights"
   },
   {
+    "gameId": "sega-saturn-00183",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Clockwork Knight",
@@ -6954,6 +7137,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/clockwork-knight"
   },
   {
+    "gameId": "sega-saturn-00184",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Clockwork Knight 2",
@@ -6992,6 +7176,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/clockwork-knight-2"
   },
   {
+    "gameId": "sega-saturn-00185",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Command & Conquer  Disk 1",
@@ -7030,6 +7215,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/command-and-conquer-disk-1"
   },
   {
+    "gameId": "sega-saturn-00186",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Command & Conquer  Disk 1",
@@ -7068,6 +7254,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/command-and-conquer-disk-1"
   },
   {
+    "gameId": "sega-saturn-00187",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Congo - The Movie - The Lost City Of Zinj",
@@ -7106,6 +7293,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/congo-the-movie-the-lost-city-of-zinj"
   },
   {
+    "gameId": "sega-saturn-00188",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Corpse Killer - Graveyard Edition  Disk 1",
@@ -7144,6 +7332,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/corpse-killer-graveyard-edition-disk-1"
   },
   {
+    "gameId": "sega-saturn-00189",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Corpse Killer - Graveyard Edition  Disk 1",
@@ -7182,6 +7371,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/corpse-killer-graveyard-edition-disk-1"
   },
   {
+    "gameId": "sega-saturn-00190",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Courier Crisis",
@@ -7220,6 +7410,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/courier-crisis"
   },
   {
+    "gameId": "sega-saturn-00191",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Creature Shock  Disk 1",
@@ -7258,6 +7449,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/creature-shock-disk-1"
   },
   {
+    "gameId": "sega-saturn-00192",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Creature Shock  Disk 1",
@@ -7296,6 +7488,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/creature-shock-disk-1"
   },
   {
+    "gameId": "sega-saturn-00193",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Croc - Legend of the Gobbos",
@@ -7334,6 +7527,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/croc-legend-of-the-gobbos"
   },
   {
+    "gameId": "sega-saturn-00194",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Crow, The - City of Angels",
@@ -7372,6 +7566,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/crow-the-city-of-angels"
   },
   {
+    "gameId": "sega-saturn-00195",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Crusader - No Remorse",
@@ -7410,6 +7605,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/crusader-no-remorse"
   },
   {
+    "gameId": "sega-saturn-00196",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Cyberia",
@@ -7448,6 +7644,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/cyberia"
   },
   {
+    "gameId": "sega-saturn-00197",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "D  Disk 1",
@@ -7486,6 +7683,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/d-disk-1"
   },
   {
+    "gameId": "sega-saturn-00198",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "D  Disk 1",
@@ -7524,6 +7722,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/d-disk-1"
   },
   {
+    "gameId": "sega-saturn-00199",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Dark Savior",
@@ -7562,6 +7761,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/dark-savior"
   },
   {
+    "gameId": "sega-saturn-00200",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Darklight Conflict",
@@ -7600,6 +7800,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/darklight-conflict"
   },
   {
+    "gameId": "sega-saturn-00201",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Daytona USA",
@@ -7638,6 +7839,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/daytona-usa"
   },
   {
+    "gameId": "sega-saturn-00202",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Deep Fear  Disk 1",
@@ -7676,6 +7878,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/deep-fear-disk-1"
   },
   {
+    "gameId": "sega-saturn-00203",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Deep Fear  Disk 1",
@@ -7714,6 +7917,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/deep-fear-disk-1"
   },
   {
+    "gameId": "sega-saturn-00204",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Defcon 5",
@@ -7752,6 +7956,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/defcon-5"
   },
   {
+    "gameId": "sega-saturn-00205",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Destruction Derby",
@@ -7790,6 +7995,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/destruction-derby"
   },
   {
+    "gameId": "sega-saturn-00206",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Die Hard Trilogy",
@@ -7828,6 +8034,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/die-hard-trilogy"
   },
   {
+    "gameId": "sega-saturn-00207",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Discworld",
@@ -7866,6 +8073,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/discworld"
   },
   {
+    "gameId": "sega-saturn-00208",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Discworld II - Missing, presumed... !",
@@ -7904,6 +8112,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/discworld-ii-missing-presumed"
   },
   {
+    "gameId": "sega-saturn-00209",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Double Switch  Disk 1",
@@ -7942,6 +8151,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/double-switch-disk-1"
   },
   {
+    "gameId": "sega-saturn-00210",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Double Switch  Disk 1",
@@ -7980,6 +8190,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/double-switch-disk-1"
   },
   {
+    "gameId": "sega-saturn-00211",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Dragon Force",
@@ -8018,6 +8229,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/dragon-force"
   },
   {
+    "gameId": "sega-saturn-00212",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "DragonHeart - Fire & Steel",
@@ -8056,6 +8268,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/dragonheart-fire-and-steel"
   },
   {
+    "gameId": "sega-saturn-00213",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Earthworm Jim 2",
@@ -8094,6 +8307,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/earthworm-jim-2"
   },
   {
+    "gameId": "sega-saturn-00214",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Enemy Zero  Disk 1",
@@ -8132,6 +8346,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/enemy-zero-disk-1"
   },
   {
+    "gameId": "sega-saturn-00215",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Enemy Zero  Disk 1",
@@ -8170,6 +8385,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/enemy-zero-disk-1"
   },
   {
+    "gameId": "sega-saturn-00216",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Enemy Zero  Disk 1",
@@ -8208,6 +8424,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/enemy-zero-disk-1"
   },
   {
+    "gameId": "sega-saturn-00217",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Enemy Zero  Disk 1",
@@ -8246,6 +8463,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/enemy-zero-disk-1"
   },
   {
+    "gameId": "sega-saturn-00218",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "F1 Challenge",
@@ -8284,6 +8502,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/f1-challenge"
   },
   {
+    "gameId": "sega-saturn-00219",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Frankenstein - Through the Eyes of the Monster",
@@ -8322,6 +8541,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/frankenstein-through-the-eyes-of-the-monster"
   },
   {
+    "gameId": "sega-saturn-00220",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Gex",
@@ -8360,6 +8580,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/gex"
   },
   {
+    "gameId": "sega-saturn-00221",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Ghen War",
@@ -8398,6 +8619,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/ghen-war"
   },
   {
+    "gameId": "sega-saturn-00222",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Gungriffon",
@@ -8436,6 +8658,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/gungriffon"
   },
   {
+    "gameId": "sega-saturn-00223",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Hang-On GP",
@@ -8474,6 +8697,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/hang-on-gp"
   },
   {
+    "gameId": "sega-saturn-00224",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Heir of Zendor - The Legend and The Land",
@@ -8512,6 +8736,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/heir-of-zendor-the-legend-and-the-land"
   },
   {
+    "gameId": "sega-saturn-00225",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Hexen - Beyond Heretic",
@@ -8550,6 +8775,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/hexen-beyond-heretic"
   },
   {
+    "gameId": "sega-saturn-00226",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Horde, The",
@@ -8588,6 +8814,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/horde-the"
   },
   {
+    "gameId": "sega-saturn-00227",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Impact Racing",
@@ -8626,6 +8853,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/impact-racing"
   },
   {
+    "gameId": "sega-saturn-00228",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Incredible Hulk, The - The Pantheon Saga",
@@ -8664,6 +8892,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/incredible-hulk-the-the-pantheon-saga"
   },
   {
+    "gameId": "sega-saturn-00229",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Jewels Of The Oracle",
@@ -8702,6 +8931,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/jewels-of-the-oracle"
   },
   {
+    "gameId": "sega-saturn-00230",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Johnny Bazookatone",
@@ -8740,6 +8970,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/johnny-bazookatone"
   },
   {
+    "gameId": "sega-saturn-00231",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Keio Flying Squadron 2",
@@ -8778,6 +9009,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/keio-flying-squadron-2"
   },
   {
+    "gameId": "sega-saturn-00232",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Krazy Ivan",
@@ -8816,6 +9048,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/krazy-ivan"
   },
   {
+    "gameId": "sega-saturn-00233",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Last Gladiators - Digital Pinball",
@@ -8854,6 +9087,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/last-gladiators-digital-pinball"
   },
   {
+    "gameId": "sega-saturn-00234",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Legend of Oasis, The",
@@ -8892,6 +9126,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/legend-of-oasis-the"
   },
   {
+    "gameId": "sega-saturn-00235",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Lost World, The - Jurassic Park",
@@ -8930,6 +9165,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/lost-world-the-jurassic-park"
   },
   {
+    "gameId": "sega-saturn-00236",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Lunacy  Disk 1",
@@ -8968,6 +9204,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/lunacy-disk-1"
   },
   {
+    "gameId": "sega-saturn-00237",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Lunacy  Disk 1",
@@ -9006,6 +9243,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/lunacy-disk-1"
   },
   {
+    "gameId": "sega-saturn-00238",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Machine Head",
@@ -9044,6 +9282,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/machine-head"
   },
   {
+    "gameId": "sega-saturn-00239",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Magic Carpet",
@@ -9082,6 +9321,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/magic-carpet"
   },
   {
+    "gameId": "sega-saturn-00240",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Magic Knight Rayearth",
@@ -9120,6 +9360,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/magic-knight-rayearth"
   },
   {
+    "gameId": "sega-saturn-00241",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Mansion of Hidden Souls, The",
@@ -9158,6 +9399,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/mansion-of-hidden-souls-the"
   },
   {
+    "gameId": "sega-saturn-00242",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Mass Destruction",
@@ -9196,6 +9438,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/mass-destruction"
   },
   {
+    "gameId": "sega-saturn-00243",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "MechWarrior 2 - 31st Century Combat",
@@ -9234,6 +9477,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/mechwarrior-2-31st-century-combat"
   },
   {
+    "gameId": "sega-saturn-00244",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Mega Man 8 - Anniversary Collector's Edition",
@@ -9272,6 +9516,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/mega-man-8-anniversary-collectors-edition"
   },
   {
+    "gameId": "sega-saturn-00245",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Megaman X3",
@@ -9310,6 +9555,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/megaman-x3"
   },
   {
+    "gameId": "sega-saturn-00246",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Megaman X4",
@@ -9348,6 +9594,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/megaman-x4"
   },
   {
+    "gameId": "sega-saturn-00247",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Mr. Bones  Disk 1",
@@ -9386,6 +9633,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/mr-bones-disk-1"
   },
   {
+    "gameId": "sega-saturn-00248",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Mr. Bones  Disk 1",
@@ -9424,6 +9672,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/mr-bones-disk-1"
   },
   {
+    "gameId": "sega-saturn-00249",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Myst",
@@ -9462,6 +9711,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/myst"
   },
   {
+    "gameId": "sega-saturn-00250",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Pandemonium!",
@@ -9500,6 +9750,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/pandemonium"
   },
   {
+    "gameId": "sega-saturn-00251",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Panzer Dragoon",
@@ -9538,6 +9789,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/panzer-dragoon"
   },
   {
+    "gameId": "sega-saturn-00252",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Panzer Dragoon II - Zwei",
@@ -9576,6 +9828,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/panzer-dragoon-ii-zwei"
   },
   {
+    "gameId": "sega-saturn-00253",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Panzer Dragoon Saga  Disk 1",
@@ -9614,6 +9867,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/panzer-dragoon-saga-disk-1"
   },
   {
+    "gameId": "sega-saturn-00254",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Panzer Dragoon Saga  Disk 1",
@@ -9652,6 +9906,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/panzer-dragoon-saga-disk-1"
   },
   {
+    "gameId": "sega-saturn-00255",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Panzer Dragoon Saga  Disk 1",
@@ -9690,6 +9945,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/panzer-dragoon-saga-disk-1"
   },
   {
+    "gameId": "sega-saturn-00256",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Panzer Dragoon Saga  Disk 1",
@@ -9728,6 +9984,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/panzer-dragoon-saga-disk-1"
   },
   {
+    "gameId": "sega-saturn-00257",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "PowerSlave",
@@ -9766,6 +10023,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/powerslave"
   },
   {
+    "gameId": "sega-saturn-00258",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Quake",
@@ -9804,6 +10062,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/quake"
   },
   {
+    "gameId": "sega-saturn-00259",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Quarterback Attack with Mike Ditka",
@@ -9842,6 +10101,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/quarterback-attack-with-mike-ditka"
   },
   {
+    "gameId": "sega-saturn-00260",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Radiant Silvergun",
@@ -9880,6 +10140,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/radiant-silvergun"
   },
   {
+    "gameId": "sega-saturn-00261",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Rayman",
@@ -9918,6 +10179,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/rayman"
   },
   {
+    "gameId": "sega-saturn-00262",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Resident Evil",
@@ -9956,6 +10218,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/resident-evil"
   },
   {
+    "gameId": "sega-saturn-00263",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Riven - The Sequel to Myst  Disk 1",
@@ -9994,6 +10257,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/riven-the-sequel-to-myst-disk-1"
   },
   {
+    "gameId": "sega-saturn-00264",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Riven - The Sequel to Myst  Disk 1",
@@ -10032,6 +10296,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/riven-the-sequel-to-myst-disk-1"
   },
   {
+    "gameId": "sega-saturn-00265",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Riven - The Sequel to Myst  Disk 1",
@@ -10070,6 +10335,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/riven-the-sequel-to-myst-disk-1"
   },
   {
+    "gameId": "sega-saturn-00266",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Riven - The Sequel to Myst  Disk 1",
@@ -10108,6 +10374,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/riven-the-sequel-to-myst-disk-1"
   },
   {
+    "gameId": "sega-saturn-00267",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Robotica",
@@ -10146,6 +10413,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/robotica"
   },
   {
+    "gameId": "sega-saturn-00268",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Scorcher",
@@ -10184,6 +10452,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/scorcher"
   },
   {
+    "gameId": "sega-saturn-00269",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Sea Bass Fishing",
@@ -10222,6 +10491,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/sea-bass-fishing"
   },
   {
+    "gameId": "sega-saturn-00270",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Sega Ages",
@@ -10260,6 +10530,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/sega-ages"
   },
   {
+    "gameId": "sega-saturn-00271",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Shellshock",
@@ -10298,6 +10569,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/shellshock"
   },
   {
+    "gameId": "sega-saturn-00272",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Shining Force III",
@@ -10336,6 +10608,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/shining-force-iii"
   },
   {
+    "gameId": "sega-saturn-00273",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Shining Wisdom",
@@ -10374,6 +10647,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/shining-wisdom"
   },
   {
+    "gameId": "sega-saturn-00274",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Shining the Holy Ark",
@@ -10412,6 +10686,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/shining-the-holy-ark"
   },
   {
+    "gameId": "sega-saturn-00275",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Shinobi Legions",
@@ -10450,6 +10725,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/shinobi-legions"
   },
   {
+    "gameId": "sega-saturn-00276",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Shockwave Assault",
@@ -10488,6 +10764,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/shockwave-assault"
   },
   {
+    "gameId": "sega-saturn-00277",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "SimCity 2000",
@@ -10526,6 +10803,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/simcity-2000"
   },
   {
+    "gameId": "sega-saturn-00278",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Skeleton Warriors",
@@ -10564,6 +10842,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/skeleton-warriors"
   },
   {
+    "gameId": "sega-saturn-00279",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Sky Target",
@@ -10602,6 +10881,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/sky-target"
   },
   {
+    "gameId": "sega-saturn-00280",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Solar Eclipse",
@@ -10640,6 +10920,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/solar-eclipse"
   },
   {
+    "gameId": "sega-saturn-00281",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Sonic 3D Blast",
@@ -10678,6 +10959,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/sonic-3d-blast"
   },
   {
+    "gameId": "sega-saturn-00282",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Soviet Strike",
@@ -10716,6 +10998,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/soviet-strike"
   },
   {
+    "gameId": "sega-saturn-00283",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Space Hulk - Vengeance of the Blood Angels",
@@ -10754,6 +11037,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/space-hulk-vengeance-of-the-blood-angels"
   },
   {
+    "gameId": "sega-saturn-00284",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Spot Goes to Hollywood",
@@ -10792,6 +11076,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/spot-goes-to-hollywood"
   },
   {
+    "gameId": "sega-saturn-00285",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Star Fighter",
@@ -10830,6 +11115,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/star-fighter"
   },
   {
+    "gameId": "sega-saturn-00286",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Steep Slope Sliders",
@@ -10868,6 +11154,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/steep-slope-sliders"
   },
   {
+    "gameId": "sega-saturn-00287",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Swagman",
@@ -10906,6 +11193,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/swagman"
   },
   {
+    "gameId": "sega-saturn-00288",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "TNN Motor Sports - Hardcore 4X4",
@@ -10944,6 +11232,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/tnn-motor-sports-hardcore-4x4"
   },
   {
+    "gameId": "sega-saturn-00289",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Tempest 2000",
@@ -10982,6 +11271,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/tempest-2000"
   },
   {
+    "gameId": "sega-saturn-00290",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Theme Park",
@@ -11020,6 +11310,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/theme-park"
   },
   {
+    "gameId": "sega-saturn-00291",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Thunder Force V",
@@ -11058,6 +11349,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/thunder-force-v"
   },
   {
+    "gameId": "sega-saturn-00292",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Thunderstrike 2",
@@ -11096,6 +11388,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/thunderstrike-2"
   },
   {
+    "gameId": "sega-saturn-00293",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Tomb Raider",
@@ -11134,6 +11427,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/tomb-raider"
   },
   {
+    "gameId": "sega-saturn-00294",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Tunnel B1",
@@ -11172,6 +11466,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/tunnel-b1"
   },
   {
+    "gameId": "sega-saturn-00295",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Virtual Hydlide",
@@ -11210,6 +11505,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/virtual-hydlide"
   },
   {
+    "gameId": "sega-saturn-00296",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "WarCraft II - The Dark Saga",
@@ -11248,6 +11544,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/warcraft-ii-the-dark-saga"
   },
   {
+    "gameId": "sega-saturn-00297",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Whizz",
@@ -11286,6 +11583,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/whizz"
   },
   {
+    "gameId": "sega-saturn-00298",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Wing Arms",
@@ -11324,6 +11622,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/wing-arms"
   },
   {
+    "gameId": "sega-saturn-00299",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Winning Post",
@@ -11362,6 +11661,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/winning-post"
   },
   {
+    "gameId": "sega-saturn-00300",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "WipEout",
@@ -11400,6 +11700,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/wipeout"
   },
   {
+    "gameId": "sega-saturn-00301",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "WipEout 2097",
@@ -11438,6 +11739,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/wipeout-2097"
   },
   {
+    "gameId": "sega-saturn-00302",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "World Cup Golf - Professional Edition",
@@ -11476,6 +11778,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-saturn/artwork-title-screen/world-cup-golf-professional-edition"
   },
   {
+    "gameId": "sega-saturn-00303",
     "datasetId": "sega-saturn",
     "console": "Sega Saturn",
     "english_name": "Z",

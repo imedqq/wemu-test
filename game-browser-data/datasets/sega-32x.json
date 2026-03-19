@@ -1,5 +1,6 @@
 [
   {
+    "gameId": "sega-32x-00001",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "BC Racers",
@@ -38,6 +39,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-32x/artwork-title-screen/bc-racers"
   },
   {
+    "gameId": "sega-32x-00002",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "Motocross Championship",
@@ -76,6 +78,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-32x/artwork-title-screen/motocross-championship"
   },
   {
+    "gameId": "sega-32x-00003",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "Virtua Racing Deluxe",
@@ -114,6 +117,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-32x/artwork-title-screen/virtua-racing-deluxe"
   },
   {
+    "gameId": "sega-32x-00004",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "Toughman Contest",
@@ -152,6 +156,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-32x/artwork-title-screen/toughman-contest"
   },
   {
+    "gameId": "sega-32x-00005",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "FIFA Soccer 96",
@@ -190,6 +195,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-32x/artwork-title-screen/fifa-soccer-96"
   },
   {
+    "gameId": "sega-32x-00006",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "NBA Jam Tournament Edition",
@@ -228,6 +234,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-32x/artwork-title-screen/nba-jam-tournament-edition"
   },
   {
+    "gameId": "sega-32x-00007",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "NFL Quarterback Club",
@@ -266,6 +273,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-32x/artwork-title-screen/nfl-quarterback-club"
   },
   {
+    "gameId": "sega-32x-00008",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "WWF Raw",
@@ -304,6 +312,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-32x/artwork-title-screen/wwf-raw"
   },
   {
+    "gameId": "sega-32x-00009",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "Kolibri",
@@ -342,6 +351,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-32x/artwork-title-screen/kolibri"
   },
   {
+    "gameId": "sega-32x-00010",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "Shadow Squadron",
@@ -380,6 +390,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-32x/artwork-title-screen/shadow-squadron"
   },
   {
+    "gameId": "sega-32x-00011",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "Zaxxon's Motherbase 2000",
@@ -418,6 +429,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-32x/artwork-title-screen/zaxxons-motherbase-2000"
   },
   {
+    "gameId": "sega-32x-00012",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "Brutal: Above the Claw",
@@ -456,6 +468,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-32x/artwork-title-screen/brutal-above-the-claw"
   },
   {
+    "gameId": "sega-32x-00013",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "Cosmic Carnage",
@@ -494,6 +507,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-32x/artwork-title-screen/cosmic-carnage"
   },
   {
+    "gameId": "sega-32x-00014",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "Primal Rage",
@@ -532,6 +546,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-32x/artwork-title-screen/primal-rage"
   },
   {
+    "gameId": "sega-32x-00015",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "Virtua Fighter",
@@ -570,6 +585,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-32x/artwork-title-screen/virtua-fighter"
   },
   {
+    "gameId": "sega-32x-00016",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "WWF WrestleMania: The Arcade Game",
@@ -608,6 +624,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-32x/artwork-title-screen/wwf-wrestlemania-the-arcade-game"
   },
   {
+    "gameId": "sega-32x-00017",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "Mortal Kombat II",
@@ -646,6 +663,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-32x/artwork-title-screen/mortal-kombat-ii"
   },
   {
+    "gameId": "sega-32x-00018",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "Golf Magazine presents 36 Great Holes",
@@ -684,6 +702,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-32x/artwork-title-screen/golf-magazine-presents-36-great-holes"
   },
   {
+    "gameId": "sega-32x-00019",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "RBI Baseball '95",
@@ -722,6 +741,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-32x/artwork-title-screen/rbi-baseball-95"
   },
   {
+    "gameId": "sega-32x-00020",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "World Series Baseball starring Deion Sanders",
@@ -760,6 +780,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-32x/artwork-title-screen/world-series-baseball-starring-deion-sanders"
   },
   {
+    "gameId": "sega-32x-00021",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "Knuckles' Chaotix",
@@ -798,6 +819,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-32x/artwork-title-screen/knuckles-chaotix"
   },
   {
+    "gameId": "sega-32x-00022",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "Star Wars Arcade",
@@ -836,6 +858,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-32x/artwork-title-screen/star-wars-arcade"
   },
   {
+    "gameId": "sega-32x-00023",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "T-Mek",
@@ -874,6 +897,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-32x/artwork-title-screen/t-mek"
   },
   {
+    "gameId": "sega-32x-00024",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "Star Trek: Starfleet Academy",
@@ -912,6 +936,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-32x/artwork-title-screen/star-trek-starfleet-academy"
   },
   {
+    "gameId": "sega-32x-00025",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "After Burner",
@@ -950,6 +975,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-32x/artwork-title-screen/after-burner"
   },
   {
+    "gameId": "sega-32x-00026",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "Blackthorne",
@@ -988,6 +1014,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-32x/artwork-title-screen/blackthorne"
   },
   {
+    "gameId": "sega-32x-00027",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "DOOM",
@@ -1026,6 +1053,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-32x/artwork-title-screen/doom"
   },
   {
+    "gameId": "sega-32x-00028",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "DarXide",
@@ -1064,6 +1092,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-32x/artwork-title-screen/darxide"
   },
   {
+    "gameId": "sega-32x-00029",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "Metal Head",
@@ -1102,6 +1131,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-32x/artwork-title-screen/metal-head"
   },
   {
+    "gameId": "sega-32x-00030",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "Pitfall: The Mayan Adventure",
@@ -1140,6 +1170,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-32x/artwork-title-screen/pitfall-the-mayan-adventure"
   },
   {
+    "gameId": "sega-32x-00031",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "Space Harrier",
@@ -1178,6 +1209,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-32x/artwork-title-screen/space-harrier"
   },
   {
+    "gameId": "sega-32x-00032",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "Tempo",
@@ -1216,6 +1248,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-32x/artwork-title-screen/tempo"
   },
   {
+    "gameId": "sega-32x-00033",
     "datasetId": "sega-32x",
     "console": "Sega 32X",
     "english_name": "The Amazing Spider-Man: Web of Fire",

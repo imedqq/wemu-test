@@ -1,5 +1,6 @@
 [
   {
+    "gameId": "atari-7800-00001",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Barnyard Blaster",
@@ -38,6 +39,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/barnyard-blaster"
   },
   {
+    "gameId": "atari-7800-00002",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Dark Chambers",
@@ -76,6 +78,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/dark-chambers"
   },
   {
+    "gameId": "atari-7800-00003",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Dig Dug",
@@ -114,6 +117,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/dig-dug"
   },
   {
+    "gameId": "atari-7800-00004",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Ms. Pac-Man",
@@ -152,6 +156,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/ms-pac-man"
   },
   {
+    "gameId": "atari-7800-00005",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Sentinel (Europe)",
@@ -190,6 +195,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/sentinel-europe"
   },
   {
+    "gameId": "atari-7800-00006",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Summer Games",
@@ -228,6 +234,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/summer-games"
   },
   {
+    "gameId": "atari-7800-00007",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Winter Games",
@@ -266,6 +273,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/winter-games"
   },
   {
+    "gameId": "atari-7800-00008",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Asteroids",
@@ -304,6 +312,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/asteroids"
   },
   {
+    "gameId": "atari-7800-00009",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Centipede",
@@ -342,6 +351,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/centipede"
   },
   {
+    "gameId": "atari-7800-00010",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Commando",
@@ -380,6 +390,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/commando"
   },
   {
+    "gameId": "atari-7800-00011",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Galaga",
@@ -418,6 +429,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/galaga"
   },
   {
+    "gameId": "atari-7800-00012",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Ikari Warriors",
@@ -456,6 +468,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/ikari-warriors"
   },
   {
+    "gameId": "atari-7800-00013",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Planet Smashers",
@@ -494,6 +507,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/planet-smashers"
   },
   {
+    "gameId": "atari-7800-00014",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Robotron - 2084",
@@ -532,6 +546,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/robotron-2084"
   },
   {
+    "gameId": "atari-7800-00015",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Xevious",
@@ -570,6 +585,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/xevious"
   },
   {
+    "gameId": "atari-7800-00016",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Fight Night",
@@ -608,6 +624,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/fight-night"
   },
   {
+    "gameId": "atari-7800-00017",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Food Fight",
@@ -646,6 +663,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/food-fight"
   },
   {
+    "gameId": "atari-7800-00018",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Kung-Fu Master",
@@ -684,6 +702,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/kung-fu-master"
   },
   {
+    "gameId": "atari-7800-00019",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Basketbrawl",
@@ -722,6 +741,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/basketbrawl"
   },
   {
+    "gameId": "atari-7800-00020",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Hat Trick",
@@ -760,6 +780,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/hat-trick"
   },
   {
+    "gameId": "atari-7800-00021",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Mat Mania Challenge",
@@ -798,6 +819,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/mat-mania-challenge"
   },
   {
+    "gameId": "atari-7800-00022",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "One-on-One Basketball",
@@ -836,6 +858,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/one-on-one-basketball"
   },
   {
+    "gameId": "atari-7800-00023",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Title Match Pro Wrestling",
@@ -874,6 +897,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/title-match-pro-wrestling"
   },
   {
+    "gameId": "atari-7800-00024",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Touchdown Football",
@@ -912,6 +936,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/touchdown-football"
   },
   {
+    "gameId": "atari-7800-00025",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Ballblazer",
@@ -950,6 +975,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/ballblazer"
   },
   {
+    "gameId": "atari-7800-00026",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Pete Rose Baseball",
@@ -988,6 +1014,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/pete-rose-baseball"
   },
   {
+    "gameId": "atari-7800-00027",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "RealSports Baseball",
@@ -1026,6 +1053,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/realsports-baseball"
   },
   {
+    "gameId": "atari-7800-00028",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Mean 18 Ultimate Golf",
@@ -1064,6 +1092,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/mean-18-ultimate-golf"
   },
   {
+    "gameId": "atari-7800-00029",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Donkey Kong",
@@ -1102,6 +1131,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/donkey-kong"
   },
   {
+    "gameId": "atari-7800-00030",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Donkey Kong Junior",
@@ -1140,6 +1170,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/donkey-kong-junior"
   },
   {
+    "gameId": "atari-7800-00031",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Double Dragon",
@@ -1178,6 +1209,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/double-dragon"
   },
   {
+    "gameId": "atari-7800-00032",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Joust",
@@ -1216,6 +1248,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/joust"
   },
   {
+    "gameId": "atari-7800-00033",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Mario Bros.",
@@ -1254,6 +1287,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/mario-bros"
   },
   {
+    "gameId": "atari-7800-00034",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Rampage",
@@ -1292,6 +1326,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/rampage"
   },
   {
+    "gameId": "atari-7800-00035",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Tower Toppler",
@@ -1330,6 +1365,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/tower-toppler"
   },
   {
+    "gameId": "atari-7800-00036",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Xenophobe",
@@ -1368,6 +1404,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/xenophobe"
   },
   {
+    "gameId": "atari-7800-00037",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "32 in 1",
@@ -1406,6 +1443,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/32-in-1"
   },
   {
+    "gameId": "atari-7800-00038",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Ace of Aces",
@@ -1444,6 +1482,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/ace-of-aces"
   },
   {
+    "gameId": "atari-7800-00039",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Alien Brigade",
@@ -1482,6 +1521,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/alien-brigade"
   },
   {
+    "gameId": "atari-7800-00040",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Choplifter!",
@@ -1520,6 +1560,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/choplifter"
   },
   {
+    "gameId": "atari-7800-00041",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Crack'ed",
@@ -1558,6 +1599,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/cracked"
   },
   {
+    "gameId": "atari-7800-00042",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Crossbow",
@@ -1596,6 +1638,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/crossbow"
   },
   {
+    "gameId": "atari-7800-00043",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Desert Falcon",
@@ -1634,6 +1677,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/desert-falcon"
   },
   {
+    "gameId": "atari-7800-00044",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "F-18 Hornet",
@@ -1672,6 +1716,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/f-18-hornet"
   },
   {
+    "gameId": "atari-7800-00045",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Fatal Run",
@@ -1710,6 +1755,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/fatal-run"
   },
   {
+    "gameId": "atari-7800-00046",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Impossible Mission",
@@ -1748,6 +1794,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/impossible-mission"
   },
   {
+    "gameId": "atari-7800-00047",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Jinks",
@@ -1786,6 +1833,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/jinks"
   },
   {
+    "gameId": "atari-7800-00048",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Karateka",
@@ -1824,6 +1872,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/karateka"
   },
   {
+    "gameId": "atari-7800-00049",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Meltdown",
@@ -1862,6 +1911,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/meltdown"
   },
   {
+    "gameId": "atari-7800-00050",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Midnight Mutants",
@@ -1900,6 +1950,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/midnight-mutants"
   },
   {
+    "gameId": "atari-7800-00051",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Motor Psycho",
@@ -1938,6 +1989,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/motor-psycho"
   },
   {
+    "gameId": "atari-7800-00052",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Ninja Golf",
@@ -1976,6 +2028,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/ninja-golf"
   },
   {
+    "gameId": "atari-7800-00053",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Pole Position II",
@@ -2014,6 +2067,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/pole-position-ii"
   },
   {
+    "gameId": "atari-7800-00054",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Scrapyard Dog",
@@ -2052,6 +2106,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/scrapyard-dog"
   },
   {
+    "gameId": "atari-7800-00055",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Super Huey UH-1X",
@@ -2090,6 +2145,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/super-huey-uh-1x"
   },
   {
+    "gameId": "atari-7800-00056",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Super Skateboardin\\'",
@@ -2128,6 +2184,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/super-skateboardin"
   },
   {
+    "gameId": "atari-7800-00057",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Tank Command",
@@ -2166,6 +2223,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/tank-command"
   },
   {
+    "gameId": "atari-7800-00058",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Tomcat - The F-14 Fighter Simulator",
@@ -2204,6 +2262,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-7800/artwork-title-screen/tomcat-the-f-14-fighter-simulator"
   },
   {
+    "gameId": "atari-7800-00059",
     "datasetId": "atari-7800",
     "console": "Atari 7800",
     "english_name": "Water Ski",

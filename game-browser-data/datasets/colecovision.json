@@ -1,5 +1,6 @@
 [
   {
+    "gameId": "colecovision-00001",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Skiing",
@@ -38,6 +39,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/skiing"
   },
   {
+    "gameId": "colecovision-00002",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Beamrider",
@@ -76,6 +78,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/beamrider"
   },
   {
+    "gameId": "colecovision-00003",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Spy Hunter",
@@ -114,6 +117,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/spy-hunter"
   },
   {
+    "gameId": "colecovision-00004",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Decathlon",
@@ -152,6 +156,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/decathlon"
   },
   {
+    "gameId": "colecovision-00005",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Brain Strainers",
@@ -190,6 +195,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/brain-strainers"
   },
   {
+    "gameId": "colecovision-00006",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Buck Rogers - Planet Of Zoom",
@@ -228,6 +234,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/buck-rogers-planet-of-zoom"
   },
   {
+    "gameId": "colecovision-00007",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Centipede",
@@ -266,6 +273,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/centipede"
   },
   {
+    "gameId": "colecovision-00008",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Cosmic Avenger",
@@ -304,6 +312,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/cosmic-avenger"
   },
   {
+    "gameId": "colecovision-00009",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Defender",
@@ -342,6 +351,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/defender"
   },
   {
+    "gameId": "colecovision-00010",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Galaxian",
@@ -380,6 +390,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/galaxian"
   },
   {
+    "gameId": "colecovision-00011",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Gorf",
@@ -418,6 +429,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/gorf"
   },
   {
+    "gameId": "colecovision-00012",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "River Raid",
@@ -456,6 +468,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/river-raid"
   },
   {
+    "gameId": "colecovision-00013",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Venture",
@@ -494,6 +507,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/venture"
   },
   {
+    "gameId": "colecovision-00014",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Zaxxon",
@@ -532,6 +546,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/zaxxon"
   },
   {
+    "gameId": "colecovision-00015",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Ken Uston's Blackjack-Poker",
@@ -570,6 +585,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/ken-ustons-blackjack-poker"
   },
   {
+    "gameId": "colecovision-00016",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Rocky Super-Action Boxing",
@@ -608,6 +624,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/rocky-super-action-boxing"
   },
   {
+    "gameId": "colecovision-00017",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Super Action Football",
@@ -646,6 +663,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/super-action-football"
   },
   {
+    "gameId": "colecovision-00018",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Super Action Soccer",
@@ -684,6 +702,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/super-action-soccer"
   },
   {
+    "gameId": "colecovision-00019",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Super Action Baseball",
@@ -722,6 +741,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/super-action-baseball"
   },
   {
+    "gameId": "colecovision-00020",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Alphabet Zoo",
@@ -760,6 +780,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/alphabet-zoo"
   },
   {
+    "gameId": "colecovision-00021",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "BC's Quest for Tires II - Grog's Revenge",
@@ -798,6 +819,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/bcs-quest-for-tires-ii-grogs-revenge"
   },
   {
+    "gameId": "colecovision-00022",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Boulder Dash",
@@ -836,6 +858,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/boulder-dash"
   },
   {
+    "gameId": "colecovision-00023",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Bump 'N' Jump",
@@ -874,6 +897,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/bump-n-jump"
   },
   {
+    "gameId": "colecovision-00024",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "BurgerTime",
@@ -912,6 +936,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/burgertime"
   },
   {
+    "gameId": "colecovision-00025",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Cabbage Patch Kids - Adventures in the Park",
@@ -950,6 +975,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/cabbage-patch-kids-adventures-in-the-park"
   },
   {
+    "gameId": "colecovision-00026",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Campaign '84",
@@ -988,6 +1014,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/campaign-84"
   },
   {
+    "gameId": "colecovision-00027",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Carnival",
@@ -1026,6 +1053,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/carnival"
   },
   {
+    "gameId": "colecovision-00028",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Choplifter",
@@ -1064,6 +1092,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/choplifter"
   },
   {
+    "gameId": "colecovision-00029",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Chuck Norris - Super Kicks",
@@ -1102,6 +1131,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/chuck-norris-super-kicks"
   },
   {
+    "gameId": "colecovision-00030",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Congo Bongo",
@@ -1140,6 +1170,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/congo-bongo"
   },
   {
+    "gameId": "colecovision-00031",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Cosmic Crisis",
@@ -1178,6 +1209,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/cosmic-crisis"
   },
   {
+    "gameId": "colecovision-00032",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Dance Fantasy",
@@ -1216,6 +1248,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/dance-fantasy"
   },
   {
+    "gameId": "colecovision-00033",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Donkey Kong",
@@ -1254,6 +1287,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/donkey-kong"
   },
   {
+    "gameId": "colecovision-00034",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Donkey Kong Jr",
@@ -1292,6 +1326,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/donkey-kong-jr"
   },
   {
+    "gameId": "colecovision-00035",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "DragonFire",
@@ -1330,6 +1365,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/dragonfire"
   },
   {
+    "gameId": "colecovision-00036",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Dukes of Hazzard, The",
@@ -1368,6 +1404,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/dukes-of-hazzard-the"
   },
   {
+    "gameId": "colecovision-00037",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Fortune Builder",
@@ -1406,6 +1443,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/fortune-builder"
   },
   {
+    "gameId": "colecovision-00038",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Frantic Freddy",
@@ -1444,6 +1482,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/frantic-freddy"
   },
   {
+    "gameId": "colecovision-00039",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Frenzy!",
@@ -1482,6 +1521,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/frenzy"
   },
   {
+    "gameId": "colecovision-00040",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Frogger",
@@ -1520,6 +1560,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/frogger"
   },
   {
+    "gameId": "colecovision-00041",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Frontline",
@@ -1558,6 +1599,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/frontline"
   },
   {
+    "gameId": "colecovision-00042",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Gyruss",
@@ -1596,6 +1638,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/gyruss"
   },
   {
+    "gameId": "colecovision-00043",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "H.E.R.O",
@@ -1634,6 +1677,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/h-e-r-o"
   },
   {
+    "gameId": "colecovision-00044",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Heist, The",
@@ -1672,6 +1716,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/heist-the"
   },
   {
+    "gameId": "colecovision-00045",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Illusions",
@@ -1710,6 +1755,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/illusions"
   },
   {
+    "gameId": "colecovision-00046",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "James Bond",
@@ -1748,6 +1794,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/james-bond"
   },
   {
+    "gameId": "colecovision-00047",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Juke Box",
@@ -1786,6 +1833,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/juke-box"
   },
   {
+    "gameId": "colecovision-00048",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Jungle Hunt",
@@ -1824,6 +1872,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/jungle-hunt"
   },
   {
+    "gameId": "colecovision-00049",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Keystone Kapers",
@@ -1862,6 +1911,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/keystone-kapers"
   },
   {
+    "gameId": "colecovision-00050",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Lady Bug",
@@ -1900,6 +1950,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/lady-bug"
   },
   {
+    "gameId": "colecovision-00051",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Linking Logic",
@@ -1938,6 +1989,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/linking-logic"
   },
   {
+    "gameId": "colecovision-00052",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Logic Levels",
@@ -1976,6 +2028,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/logic-levels"
   },
   {
+    "gameId": "colecovision-00053",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Looping",
@@ -2014,6 +2067,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/looping"
   },
   {
+    "gameId": "colecovision-00054",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "M.A.S.H",
@@ -2052,6 +2106,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/m-a-s-h"
   },
   {
+    "gameId": "colecovision-00055",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Meteoric Shower",
@@ -2090,6 +2145,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/meteoric-shower"
   },
   {
+    "gameId": "colecovision-00056",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Miner 2049er",
@@ -2128,6 +2184,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/miner-2049er"
   },
   {
+    "gameId": "colecovision-00057",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Monkey Academy",
@@ -2166,6 +2223,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/monkey-academy"
   },
   {
+    "gameId": "colecovision-00058",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Mousetrap",
@@ -2204,6 +2262,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/mousetrap"
   },
   {
+    "gameId": "colecovision-00059",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Mr. Do!",
@@ -2242,6 +2301,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/mr-do"
   },
   {
+    "gameId": "colecovision-00060",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Omega Race",
@@ -2280,6 +2340,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/omega-race"
   },
   {
+    "gameId": "colecovision-00061",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "One on One",
@@ -2318,6 +2379,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/one-on-one"
   },
   {
+    "gameId": "colecovision-00062",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Pepper II",
@@ -2356,6 +2418,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/pepper-ii"
   },
   {
+    "gameId": "colecovision-00063",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Popeye",
@@ -2394,6 +2457,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/popeye"
   },
   {
+    "gameId": "colecovision-00064",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Q-bert",
@@ -2432,6 +2496,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/q-bert"
   },
   {
+    "gameId": "colecovision-00065",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Q-bert II",
@@ -2470,6 +2535,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/q-bert-ii"
   },
   {
+    "gameId": "colecovision-00066",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Robin Hood",
@@ -2508,6 +2574,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/robin-hood"
   },
   {
+    "gameId": "colecovision-00067",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Roc 'N Rope",
@@ -2546,6 +2613,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/roc-n-rope"
   },
   {
+    "gameId": "colecovision-00068",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Rock 'N' Bolt",
@@ -2584,6 +2652,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/rock-n-bolt"
   },
   {
+    "gameId": "colecovision-00069",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Sammy Lightfoot",
@@ -2622,6 +2691,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/sammy-lightfoot"
   },
   {
+    "gameId": "colecovision-00070",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Sector Alpha",
@@ -2660,6 +2730,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/sector-alpha"
   },
   {
+    "gameId": "colecovision-00071",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Sewer Sam",
@@ -2698,6 +2769,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/sewer-sam"
   },
   {
+    "gameId": "colecovision-00072",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Sir Lancelot",
@@ -2736,6 +2808,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/sir-lancelot"
   },
   {
+    "gameId": "colecovision-00073",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Slurpy",
@@ -2774,6 +2847,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/slurpy"
   },
   {
+    "gameId": "colecovision-00074",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Smurf Paint 'n Play Workshop",
@@ -2812,6 +2886,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/smurf-paint-n-play-workshop"
   },
   {
+    "gameId": "colecovision-00075",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Smurf Rescue",
@@ -2850,6 +2925,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/smurf-rescue"
   },
   {
+    "gameId": "colecovision-00076",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Space Fury",
@@ -2888,6 +2964,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/space-fury"
   },
   {
+    "gameId": "colecovision-00077",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Space Panic",
@@ -2926,6 +3003,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/space-panic"
   },
   {
+    "gameId": "colecovision-00078",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Spectron",
@@ -2964,6 +3042,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/spectron"
   },
   {
+    "gameId": "colecovision-00079",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Star Trek",
@@ -3002,6 +3081,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/star-trek"
   },
   {
+    "gameId": "colecovision-00080",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Strike It!",
@@ -3040,6 +3120,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/strike-it"
   },
   {
+    "gameId": "colecovision-00081",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Subroc",
@@ -3078,6 +3159,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/subroc"
   },
   {
+    "gameId": "colecovision-00082",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Super Cross Force",
@@ -3116,6 +3198,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/super-cross-force"
   },
   {
+    "gameId": "colecovision-00083",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Tank Wars",
@@ -3154,6 +3237,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/tank-wars"
   },
   {
+    "gameId": "colecovision-00084",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Tapper",
@@ -3192,6 +3276,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/tapper"
   },
   {
+    "gameId": "colecovision-00085",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Turbo",
@@ -3230,6 +3315,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/turbo"
   },
   {
+    "gameId": "colecovision-00086",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Tutankham",
@@ -3268,6 +3354,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/tutankham"
   },
   {
+    "gameId": "colecovision-00087",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Up 'N Down",
@@ -3306,6 +3393,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/up-n-down"
   },
   {
+    "gameId": "colecovision-00088",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Wizard of Id's Wizmath",
@@ -3344,6 +3432,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/wizard-of-ids-wizmath"
   },
   {
+    "gameId": "colecovision-00089",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Word Feud",
@@ -3382,6 +3471,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/word-feud"
   },
   {
+    "gameId": "colecovision-00090",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Zenji",
@@ -3420,6 +3510,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/zenji"
   },
   {
+    "gameId": "colecovision-00091",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Jumpman Junior",
@@ -3458,6 +3549,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/jumpman-junior"
   },
   {
+    "gameId": "colecovision-00092",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Pitstop",
@@ -3496,6 +3588,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/pitstop"
   },
   {
+    "gameId": "colecovision-00093",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Artillery Duel",
@@ -3534,6 +3627,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/artillery-duel"
   },
   {
+    "gameId": "colecovision-00094",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "2010 - The Graphic Action Game",
@@ -3572,6 +3666,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/2010-the-graphic-action-game"
   },
   {
+    "gameId": "colecovision-00095",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Alcazar - The Forgotten Fortress",
@@ -3610,6 +3705,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/alcazar-the-forgotten-fortress"
   },
   {
+    "gameId": "colecovision-00096",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Amazing Bumpman",
@@ -3648,6 +3744,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/amazing-bumpman"
   },
   {
+    "gameId": "colecovision-00097",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Antarctic Adventure",
@@ -3686,6 +3783,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/antarctic-adventure"
   },
   {
+    "gameId": "colecovision-00098",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Aquattack",
@@ -3724,6 +3822,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/aquattack"
   },
   {
+    "gameId": "colecovision-00099",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "BC's Quest for Tires",
@@ -3762,6 +3861,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/bcs-quest-for-tires"
   },
   {
+    "gameId": "colecovision-00100",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Blockade Runner",
@@ -3800,6 +3900,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/blockade-runner"
   },
   {
+    "gameId": "colecovision-00101",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Cabbage Patch Kids Picture Show",
@@ -3838,6 +3939,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/cabbage-patch-kids-picture-show"
   },
   {
+    "gameId": "colecovision-00102",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Dam Busters, The",
@@ -3876,6 +3978,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/dam-busters-the"
   },
   {
+    "gameId": "colecovision-00103",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Destructor",
@@ -3914,6 +4017,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/destructor"
   },
   {
+    "gameId": "colecovision-00104",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Dr. Seuss's Fix-Up The Mix-Up Puzzler",
@@ -3952,6 +4056,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/dr-seusss-fix-up-the-mix-up-puzzler"
   },
   {
+    "gameId": "colecovision-00105",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Evolution",
@@ -3990,6 +4095,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/evolution"
   },
   {
+    "gameId": "colecovision-00106",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Facemaker",
@@ -4028,6 +4134,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/facemaker"
   },
   {
+    "gameId": "colecovision-00107",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Fathom",
@@ -4066,6 +4173,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/fathom"
   },
   {
+    "gameId": "colecovision-00108",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Flipper Slipper",
@@ -4104,6 +4212,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/flipper-slipper"
   },
   {
+    "gameId": "colecovision-00109",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Fraction Fever",
@@ -4142,6 +4251,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/fraction-fever"
   },
   {
+    "gameId": "colecovision-00110",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Frogger II - ThreeDeep!",
@@ -4180,6 +4290,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/frogger-ii-threedeep"
   },
   {
+    "gameId": "colecovision-00111",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "From Out Of The Jungle - Tarzan",
@@ -4218,6 +4329,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/from-out-of-the-jungle-tarzan"
   },
   {
+    "gameId": "colecovision-00112",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Gateway to Apshai",
@@ -4256,6 +4368,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/gateway-to-apshai"
   },
   {
+    "gameId": "colecovision-00113",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Gust Buster",
@@ -4294,6 +4407,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/gust-buster"
   },
   {
+    "gameId": "colecovision-00114",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Its Only Rock 'N' Roll",
@@ -4332,6 +4446,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/its-only-rock-n-roll"
   },
   {
+    "gameId": "colecovision-00115",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Learning With Leeper",
@@ -4370,6 +4485,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/learning-with-leeper"
   },
   {
+    "gameId": "colecovision-00116",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Memory Manor",
@@ -4408,6 +4524,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/memory-manor"
   },
   {
+    "gameId": "colecovision-00117",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Montezuma's Revenge",
@@ -4446,6 +4563,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/montezumas-revenge"
   },
   {
+    "gameId": "colecovision-00118",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Moonsweeper",
@@ -4484,6 +4602,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/moonsweeper"
   },
   {
+    "gameId": "colecovision-00119",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Motocross Racer",
@@ -4522,6 +4641,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/motocross-racer"
   },
   {
+    "gameId": "colecovision-00120",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Mountain King",
@@ -4560,6 +4680,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/mountain-king"
   },
   {
+    "gameId": "colecovision-00121",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Mr Do!'s Castle",
@@ -4598,6 +4719,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/mr-do-s-castle"
   },
   {
+    "gameId": "colecovision-00122",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Nova Blast",
@@ -4636,6 +4758,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/nova-blast"
   },
   {
+    "gameId": "colecovision-00123",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Oil's Well",
@@ -4674,6 +4797,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/oils-well"
   },
   {
+    "gameId": "colecovision-00124",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Pitfall II - Lost Caverns",
@@ -4712,6 +4836,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/pitfall-ii-lost-caverns"
   },
   {
+    "gameId": "colecovision-00125",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Pitfall!",
@@ -4750,6 +4875,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/pitfall"
   },
   {
+    "gameId": "colecovision-00126",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Quest for Quintana Roo",
@@ -4788,6 +4914,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/quest-for-quintana-roo"
   },
   {
+    "gameId": "colecovision-00127",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Rolloverture",
@@ -4826,6 +4953,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/rolloverture"
   },
   {
+    "gameId": "colecovision-00128",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Slither",
@@ -4864,6 +4992,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/slither"
   },
   {
+    "gameId": "colecovision-00129",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Squish 'Em Sam!",
@@ -4902,6 +5031,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/squish-em-sam"
   },
   {
+    "gameId": "colecovision-00130",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Star Wars",
@@ -4940,6 +5070,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/star-wars"
   },
   {
+    "gameId": "colecovision-00131",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Super Cobra",
@@ -4978,6 +5109,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/super-cobra"
   },
   {
+    "gameId": "colecovision-00132",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Telly Turtle",
@@ -5016,6 +5148,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/telly-turtle"
   },
   {
+    "gameId": "colecovision-00133",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Threshold",
@@ -5054,6 +5187,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/threshold"
   },
   {
+    "gameId": "colecovision-00134",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Time Pilot",
@@ -5092,6 +5226,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/time-pilot"
   },
   {
+    "gameId": "colecovision-00135",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Tomarc the Barbarian",
@@ -5130,6 +5265,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/tomarc-the-barbarian"
   },
   {
+    "gameId": "colecovision-00136",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Tournament Tennis",
@@ -5168,6 +5304,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/tournament-tennis"
   },
   {
+    "gameId": "colecovision-00137",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Victory",
@@ -5206,6 +5343,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/victory"
   },
   {
+    "gameId": "colecovision-00138",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "War Games",
@@ -5244,6 +5382,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/war-games"
   },
   {
+    "gameId": "colecovision-00139",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "War Room",
@@ -5282,6 +5421,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/coleco-vision/artwork-title-screen/war-room"
   },
   {
+    "gameId": "colecovision-00140",
     "datasetId": "colecovision",
     "console": "ColecoVision",
     "english_name": "Wing War",

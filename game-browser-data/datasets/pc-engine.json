@@ -1,5 +1,6 @@
 [
   {
+    "gameId": "pc-engine-00001",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "F1 Circus",
@@ -38,6 +39,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/f1-circus"
   },
   {
+    "gameId": "pc-engine-00002",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Moto Roader",
@@ -76,6 +78,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/moto-roader"
   },
   {
+    "gameId": "pc-engine-00003",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Moto Roader II",
@@ -114,6 +117,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/moto-roader-ii"
   },
   {
+    "gameId": "pc-engine-00004",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "World Jockey",
@@ -152,6 +156,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/world-jockey"
   },
   {
+    "gameId": "pc-engine-00005",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "F1 Triple Battle",
@@ -190,6 +195,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/f1-triple-battle"
   },
   {
+    "gameId": "pc-engine-00006",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Battle Lode Runner",
@@ -228,6 +234,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/battle-lode-runner"
   },
   {
+    "gameId": "pc-engine-00007",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Final Match Tennis",
@@ -266,6 +273,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/final-match-tennis"
   },
   {
+    "gameId": "pc-engine-00008",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Power Tennis",
@@ -304,6 +312,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/power-tennis"
   },
   {
+    "gameId": "pc-engine-00009",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Pro Tennis World Court",
@@ -342,6 +351,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/pro-tennis-world-court"
   },
   {
+    "gameId": "pc-engine-00010",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Final Lap Twin",
@@ -380,6 +390,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/final-lap-twin"
   },
   {
+    "gameId": "pc-engine-00011",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Racing Damashii",
@@ -418,6 +429,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/racing-damashii"
   },
   {
+    "gameId": "pc-engine-00012",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Zero 4 Champ",
@@ -456,6 +468,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/zero-4-champ"
   },
   {
+    "gameId": "pc-engine-00013",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Champion Wrestler",
@@ -494,6 +507,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/champion-wrestler"
   },
   {
+    "gameId": "pc-engine-00014",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Fire Pro Wrestling - Combination Tag",
@@ -532,6 +546,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/fire-pro-wrestling-combination-tag"
   },
   {
+    "gameId": "pc-engine-00015",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Formation Soccer - Human Cup '90",
@@ -570,6 +585,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/formation-soccer-human-cup-90"
   },
   {
+    "gameId": "pc-engine-00016",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Formation Soccer - On J-League",
@@ -608,6 +624,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/formation-soccer-on-j-league"
   },
   {
+    "gameId": "pc-engine-00017",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Hit the Ice - VHL the Official Video Hockey League",
@@ -646,6 +663,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/hit-the-ice-vhl-the-official-video-hockey-league"
   },
   {
+    "gameId": "pc-engine-00018",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "J-League Greatest Eleven",
@@ -684,6 +702,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/j-league-greatest-eleven"
   },
   {
+    "gameId": "pc-engine-00019",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "J-League Greatest Eleven",
@@ -722,6 +741,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/j-league-greatest-eleven"
   },
   {
+    "gameId": "pc-engine-00020",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "TV Sports Basketball",
@@ -760,6 +780,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/tv-sports-basketball"
   },
   {
+    "gameId": "pc-engine-00021",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "TV Sports Football",
@@ -798,6 +819,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/tv-sports-football"
   },
   {
+    "gameId": "pc-engine-00022",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "TV Sports Hockey",
@@ -836,6 +858,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/tv-sports-hockey"
   },
   {
+    "gameId": "pc-engine-00023",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "World Beach Volley",
@@ -874,6 +897,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/world-beach-volley"
   },
   {
+    "gameId": "pc-engine-00024",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Break In",
@@ -912,6 +936,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/break-in"
   },
   {
+    "gameId": "pc-engine-00025",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Appare Gateball",
@@ -950,6 +975,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/appare-gateball"
   },
   {
+    "gameId": "pc-engine-00026",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Power Sports",
@@ -988,6 +1014,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/power-sports"
   },
   {
+    "gameId": "pc-engine-00027",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Be Ball",
@@ -1026,6 +1053,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/be-ball"
   },
   {
+    "gameId": "pc-engine-00028",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Columns",
@@ -1064,6 +1092,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/columns"
   },
   {
+    "gameId": "pc-engine-00029",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Ryuukyu",
@@ -1102,6 +1131,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/ryuukyu"
   },
   {
+    "gameId": "pc-engine-00030",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Spin Pair",
@@ -1140,6 +1170,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/spin-pair"
   },
   {
+    "gameId": "pc-engine-00031",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "1943 Kai",
@@ -1178,6 +1209,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/1943-kai"
   },
   {
+    "gameId": "pc-engine-00032",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Aero Blasters",
@@ -1216,6 +1248,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/aero-blasters"
   },
   {
+    "gameId": "pc-engine-00033",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Burning Angels",
@@ -1254,6 +1287,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/burning-angels"
   },
   {
+    "gameId": "pc-engine-00034",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Detana!! TwinBee",
@@ -1292,6 +1326,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/detana-twinbee"
   },
   {
+    "gameId": "pc-engine-00035",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Fantasy Zone",
@@ -1330,6 +1365,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/fantasy-zone"
   },
   {
+    "gameId": "pc-engine-00036",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Gradius",
@@ -1368,6 +1404,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/gradius"
   },
   {
+    "gameId": "pc-engine-00037",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Operation Wolf",
@@ -1406,6 +1443,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/operation-wolf"
   },
   {
+    "gameId": "pc-engine-00038",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Ordyne",
@@ -1444,6 +1482,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/ordyne"
   },
   {
+    "gameId": "pc-engine-00039",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Paranoia",
@@ -1482,6 +1521,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/paranoia"
   },
   {
+    "gameId": "pc-engine-00040",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Parodius da! - Shinwa Kara Owarai he",
@@ -1520,6 +1560,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/parodius-da-shinwa-kara-owarai-he"
   },
   {
+    "gameId": "pc-engine-00041",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Salamander",
@@ -1558,6 +1599,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/salamander"
   },
   {
+    "gameId": "pc-engine-00042",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Toilet Kids",
@@ -1596,6 +1638,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/toilet-kids"
   },
   {
+    "gameId": "pc-engine-00043",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Toy Shop Boys",
@@ -1634,6 +1677,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/toy-shop-boys"
   },
   {
+    "gameId": "pc-engine-00044",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "King of Casino",
@@ -1672,6 +1716,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/king-of-casino"
   },
   {
+    "gameId": "pc-engine-00045",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Devil Crash - Naxat Pinball",
@@ -1710,6 +1755,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/devil-crash-naxat-pinball"
   },
   {
+    "gameId": "pc-engine-00046",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Fire Pro Wrestling 2 - 2nd Bout",
@@ -1748,6 +1794,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/fire-pro-wrestling-2-2nd-bout"
   },
   {
+    "gameId": "pc-engine-00047",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Fire Pro Wrestling 3 - Legend Bout",
@@ -1786,6 +1833,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/fire-pro-wrestling-3-legend-bout"
   },
   {
+    "gameId": "pc-engine-00048",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Monster Pro Wrestling",
@@ -1824,6 +1872,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/monster-pro-wrestling"
   },
   {
+    "gameId": "pc-engine-00049",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Monster Puroresu",
@@ -1862,6 +1911,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/monster-puroresu"
   },
   {
+    "gameId": "pc-engine-00050",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Power Eleven",
@@ -1900,6 +1950,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/power-eleven"
   },
   {
+    "gameId": "pc-engine-00051",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Power League '93",
@@ -1938,6 +1989,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/power-league-93"
   },
   {
+    "gameId": "pc-engine-00052",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Power League III",
@@ -1976,6 +2028,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/power-league-iii"
   },
   {
+    "gameId": "pc-engine-00053",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Power League IV",
@@ -2014,6 +2067,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/power-league-iv"
   },
   {
+    "gameId": "pc-engine-00054",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Power League V",
@@ -2052,6 +2106,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/power-league-v"
   },
   {
+    "gameId": "pc-engine-00055",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Pro Yakyuu World Stadium '91",
@@ -2090,6 +2145,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/pro-yakyuu-world-stadium-91"
   },
   {
+    "gameId": "pc-engine-00056",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Super Volleyball",
@@ -2128,6 +2184,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/super-volleyball"
   },
   {
+    "gameId": "pc-engine-00057",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Tsuppari Oozumou - Heisei Ban",
@@ -2166,6 +2223,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/tsuppari-oozumou-heisei-ban"
   },
   {
+    "gameId": "pc-engine-00058",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "USA Pro Basketball",
@@ -2204,6 +2262,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/usa-pro-basketball"
   },
   {
+    "gameId": "pc-engine-00059",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Ballistix",
@@ -2242,6 +2301,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/ballistix"
   },
   {
+    "gameId": "pc-engine-00060",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Cyber Dodge",
@@ -2280,6 +2340,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/cyber-dodge"
   },
   {
+    "gameId": "pc-engine-00061",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Fighting Run",
@@ -2318,6 +2379,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/fighting-run"
   },
   {
+    "gameId": "pc-engine-00062",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Honoo no Toukyuuji Dodge Danpei",
@@ -2356,6 +2418,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/honoo-no-toukyuuji-dodge-danpei"
   },
   {
+    "gameId": "pc-engine-00063",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "KickBall",
@@ -2394,6 +2457,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/kickball"
   },
   {
+    "gameId": "pc-engine-00064",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Nekketsu Koukou Dodgeball Bu - PC Bangai Hen",
@@ -2432,6 +2496,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/nekketsu-koukou-dodgeball-bu-pc-bangai-hen"
   },
   {
+    "gameId": "pc-engine-00065",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Ganbare! Golf Boys",
@@ -2470,6 +2535,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/ganbare-golf-boys"
   },
   {
+    "gameId": "pc-engine-00066",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Jack Nicklaus' Greatest 18 Holes of Major Championship Golf",
@@ -2508,6 +2574,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/jack-nicklaus-greatest-18-holes-of-major-championship-golf"
   },
   {
+    "gameId": "pc-engine-00067",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Naxat Open",
@@ -2546,6 +2613,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/naxat-open"
   },
   {
+    "gameId": "pc-engine-00068",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Winning Shot",
@@ -2584,6 +2652,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/winning-shot"
   },
   {
+    "gameId": "pc-engine-00069",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Power Golf",
@@ -2622,6 +2691,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/power-golf"
   },
   {
+    "gameId": "pc-engine-00070",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Kore ga Pro Yakyuu '89",
@@ -2660,6 +2730,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/kore-ga-pro-yakyuu-89"
   },
   {
+    "gameId": "pc-engine-00071",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Kore ga Pro Yakyuu '90",
@@ -2698,6 +2769,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/kore-ga-pro-yakyuu-90"
   },
   {
+    "gameId": "pc-engine-00072",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Naxat Stadium",
@@ -2736,6 +2808,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/naxat-stadium"
   },
   {
+    "gameId": "pc-engine-00073",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Power League",
@@ -2774,6 +2847,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/power-league"
   },
   {
+    "gameId": "pc-engine-00074",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Power League II",
@@ -2812,6 +2886,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/power-league-ii"
   },
   {
+    "gameId": "pc-engine-00075",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Pro Yakyuu World Stadium",
@@ -2850,6 +2925,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/pro-yakyuu-world-stadium"
   },
   {
+    "gameId": "pc-engine-00076",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Super Momotarou Dentetsu",
@@ -2888,6 +2964,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/super-momotarou-dentetsu"
   },
   {
+    "gameId": "pc-engine-00077",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Super Momotarou Dentetsu II",
@@ -2926,6 +3003,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/super-momotarou-dentetsu-ii"
   },
   {
+    "gameId": "pc-engine-00078",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Yuu Yuu Jinsei - Victory Life",
@@ -2964,6 +3042,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/yuu-yuu-jinsei-victory-life"
   },
   {
+    "gameId": "pc-engine-00079",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "21 Emon - Mezase Hotel Ou!!",
@@ -3002,6 +3081,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/21-emon-mezase-hotel-ou"
   },
   {
+    "gameId": "pc-engine-00080",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Cadash",
@@ -3040,6 +3120,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/cadash"
   },
   {
+    "gameId": "pc-engine-00081",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Don Doko Don!",
@@ -3078,6 +3159,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/don-doko-don"
   },
   {
+    "gameId": "pc-engine-00082",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Hanii on the Road",
@@ -3116,6 +3198,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/hanii-on-the-road"
   },
   {
+    "gameId": "pc-engine-00083",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Kaizou Choujin Shubibinman",
@@ -3154,6 +3237,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/kaizou-choujin-shubibinman"
   },
   {
+    "gameId": "pc-engine-00084",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Kaizou Choujin Shubibinman 2 - Aratanaru Teki",
@@ -3192,6 +3276,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/kaizou-choujin-shubibinman-2-aratanaru-teki"
   },
   {
+    "gameId": "pc-engine-00085",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Legend of Hero Tonma",
@@ -3230,6 +3315,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/legend-of-hero-tonma"
   },
   {
+    "gameId": "pc-engine-00086",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "PC Genjin 3 - Pithecanthropus Computerurus",
@@ -3268,6 +3354,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/pc-genjin-3-pithecanthropus-computerurus"
   },
   {
+    "gameId": "pc-engine-00087",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Pac-Land",
@@ -3306,6 +3393,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/pac-land"
   },
   {
+    "gameId": "pc-engine-00088",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Parasol Stars - The Story of Bubble Bobble III",
@@ -3344,6 +3432,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/parasol-stars-the-story-of-bubble-bobble-iii"
   },
   {
+    "gameId": "pc-engine-00089",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Bomberman",
@@ -3382,6 +3471,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/bomberman"
   },
   {
+    "gameId": "pc-engine-00090",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Bomberman '93",
@@ -3420,6 +3510,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/bomberman-93"
   },
   {
+    "gameId": "pc-engine-00091",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Bomberman '94",
@@ -3458,6 +3549,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/bomberman-94"
   },
   {
+    "gameId": "pc-engine-00092",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Bomberman - Users Battle",
@@ -3496,6 +3588,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/bomberman-users-battle"
   },
   {
+    "gameId": "pc-engine-00093",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Dungeon Explorer",
@@ -3534,6 +3627,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/dungeon-explorer"
   },
   {
+    "gameId": "pc-engine-00094",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Shougi Shodan Icchokusen",
@@ -3572,6 +3666,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/shougi-shodan-icchokusen"
   },
   {
+    "gameId": "pc-engine-00095",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Shougi Shoshinsha Muyou",
@@ -3610,6 +3705,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/shougi-shoshinsha-muyou"
   },
   {
+    "gameId": "pc-engine-00096",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Street Fighter II' - Champion Edition",
@@ -3648,6 +3744,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/street-fighter-ii-champion-edition"
   },
   {
+    "gameId": "pc-engine-00097",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Strip Fighter II",
@@ -3686,6 +3783,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/strip-fighter-ii"
   },
   {
+    "gameId": "pc-engine-00098",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Double Dungeons - W",
@@ -3724,6 +3822,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/double-dungeons-w"
   },
   {
+    "gameId": "pc-engine-00099",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Nectaris",
@@ -3762,6 +3861,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/nectaris"
   },
   {
+    "gameId": "pc-engine-00100",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "AV Poker",
@@ -3800,6 +3900,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/av-poker"
   },
   {
+    "gameId": "pc-engine-00101",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "AV Poker World Gambler",
@@ -3838,6 +3939,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/av-poker-world-gambler"
   },
   {
+    "gameId": "pc-engine-00102",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Adventure Island",
@@ -3876,6 +3978,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/adventure-island"
   },
   {
+    "gameId": "pc-engine-00103",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "After Burner II",
@@ -3914,6 +4017,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/after-burner-ii"
   },
   {
+    "gameId": "pc-engine-00104",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Alien Crush",
@@ -3952,6 +4056,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/alien-crush"
   },
   {
+    "gameId": "pc-engine-00105",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Ankoku Densetsu",
@@ -3990,6 +4095,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/ankoku-densetsu"
   },
   {
+    "gameId": "pc-engine-00106",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Aoi Blink",
@@ -4028,6 +4134,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/aoi-blink"
   },
   {
+    "gameId": "pc-engine-00107",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Armed Formation F",
@@ -4066,6 +4173,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/armed-formation-f"
   },
   {
+    "gameId": "pc-engine-00108",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Artist Tool",
@@ -4104,6 +4212,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/artist-tool"
   },
   {
+    "gameId": "pc-engine-00109",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Atomic Robo-Kid Special",
@@ -4142,6 +4251,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/atomic-robo-kid-special"
   },
   {
+    "gameId": "pc-engine-00110",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Bari Bari Densetsu",
@@ -4180,6 +4290,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/bari-bari-densetsu"
   },
   {
+    "gameId": "pc-engine-00111",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Barunba",
@@ -4218,6 +4329,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/barunba"
   },
   {
+    "gameId": "pc-engine-00112",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Batman",
@@ -4256,6 +4368,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/batman"
   },
   {
+    "gameId": "pc-engine-00113",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Benkei Gaiden",
@@ -4294,6 +4407,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/benkei-gaiden"
   },
   {
+    "gameId": "pc-engine-00114",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Bikkuriman World",
@@ -4332,6 +4446,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/bikkuriman-world"
   },
   {
+    "gameId": "pc-engine-00115",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Blodia",
@@ -4370,6 +4485,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/blodia"
   },
   {
+    "gameId": "pc-engine-00116",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Body Conquest II",
@@ -4408,6 +4524,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/body-conquest-ii"
   },
   {
+    "gameId": "pc-engine-00117",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Bouken Danshaku Don - The Lost Sunheart",
@@ -4446,6 +4563,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/bouken-danshaku-don-the-lost-sunheart"
   },
   {
+    "gameId": "pc-engine-00118",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Bubblegum Crash! - Knight Sabers 2034",
@@ -4484,6 +4602,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/bubblegum-crash-knight-sabers-2034"
   },
   {
+    "gameId": "pc-engine-00119",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Bull Fight - Ring no Haja",
@@ -4522,6 +4641,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/bull-fight-ring-no-haja"
   },
   {
+    "gameId": "pc-engine-00120",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Busou Keiji - Cyber Cross",
@@ -4560,6 +4680,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/busou-keiji-cyber-cross"
   },
   {
+    "gameId": "pc-engine-00121",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Chibi Maruko Chan - Quiz de Piihyara",
@@ -4598,6 +4719,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/chibi-maruko-chan-quiz-de-piihyara"
   },
   {
+    "gameId": "pc-engine-00122",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Chikudenya Toubei - Kubikiri Yakata Yori",
@@ -4636,6 +4758,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/chikudenya-toubei-kubikiri-yakata-yori"
   },
   {
+    "gameId": "pc-engine-00123",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Chouzetsu Rinjin - Bravoman",
@@ -4674,6 +4797,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/chouzetsu-rinjin-bravoman"
   },
   {
+    "gameId": "pc-engine-00124",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Circus Lido",
@@ -4712,6 +4836,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/circus-lido"
   },
   {
+    "gameId": "pc-engine-00125",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "City Hunter",
@@ -4750,6 +4875,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/city-hunter"
   },
   {
+    "gameId": "pc-engine-00126",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Coryoon - Child of Dragon",
@@ -4788,6 +4914,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/coryoon-child-of-dragon"
   },
   {
+    "gameId": "pc-engine-00127",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Cross Wiber - Cyber Combat Police",
@@ -4826,6 +4953,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/cross-wiber-cyber-combat-police"
   },
   {
+    "gameId": "pc-engine-00128",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Cyber Core",
@@ -4864,6 +4992,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/cyber-core"
   },
   {
+    "gameId": "pc-engine-00129",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Cyber Knight",
@@ -4902,6 +5031,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/cyber-knight"
   },
   {
+    "gameId": "pc-engine-00130",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Dai Senpu",
@@ -4940,6 +5070,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/dai-senpu"
   },
   {
+    "gameId": "pc-engine-00131",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Daichi Kun Crisis - Do Natural",
@@ -4978,6 +5109,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/daichi-kun-crisis-do-natural"
   },
   {
+    "gameId": "pc-engine-00132",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Darius Alpha",
@@ -5016,6 +5148,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/darius-alpha"
   },
   {
+    "gameId": "pc-engine-00133",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Darius Plus",
@@ -5054,6 +5187,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/darius-plus"
   },
   {
+    "gameId": "pc-engine-00134",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Dead Moon",
@@ -5092,6 +5226,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/dead-moon"
   },
   {
+    "gameId": "pc-engine-00135",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Deep Blue - Kaitei Shinwa",
@@ -5130,6 +5265,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/deep-blue-kaitei-shinwa"
   },
   {
+    "gameId": "pc-engine-00136",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Die Hard",
@@ -5168,6 +5304,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/die-hard"
   },
   {
+    "gameId": "pc-engine-00137",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Digital Champ",
@@ -5206,6 +5343,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/digital-champ"
   },
   {
+    "gameId": "pc-engine-00138",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Doraemon - Meikyuu Dai Sakusen",
@@ -5244,6 +5382,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/doraemon-meikyuu-dai-sakusen"
   },
   {
+    "gameId": "pc-engine-00139",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Doraemon - Nobita no Dorabian Night",
@@ -5282,6 +5421,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/doraemon-nobita-no-dorabian-night"
   },
   {
+    "gameId": "pc-engine-00140",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Download",
@@ -5320,6 +5460,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/download"
   },
   {
+    "gameId": "pc-engine-00141",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Dragon Egg!",
@@ -5358,6 +5499,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/dragon-egg"
   },
   {
+    "gameId": "pc-engine-00142",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Dragon Saber - After Story of Dragon Spirit",
@@ -5396,6 +5538,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/dragon-saber-after-story-of-dragon-spirit"
   },
   {
+    "gameId": "pc-engine-00143",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Dragon Spirit",
@@ -5434,6 +5577,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/dragon-spirit"
   },
   {
+    "gameId": "pc-engine-00144",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Drop Rock Hora Hora",
@@ -5472,6 +5616,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/drop-rock-hora-hora"
   },
   {
+    "gameId": "pc-engine-00145",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Energy",
@@ -5510,6 +5655,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/energy"
   },
   {
+    "gameId": "pc-engine-00146",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "F-1 Dream",
@@ -5548,6 +5694,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/f-1-dream"
   },
   {
+    "gameId": "pc-engine-00147",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "F-1 Pilot - You're King of Kings",
@@ -5586,6 +5733,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/f-1-pilot-youre-king-of-kings"
   },
   {
+    "gameId": "pc-engine-00148",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "F1 Circus '91 - World Championship",
@@ -5624,6 +5772,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/f1-circus-91-world-championship"
   },
   {
+    "gameId": "pc-engine-00149",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "F1 Circus '92 - The Speed of Sound",
@@ -5662,6 +5811,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/f1-circus-92-the-speed-of-sound"
   },
   {
+    "gameId": "pc-engine-00150",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Final Blaster",
@@ -5700,6 +5850,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/final-blaster"
   },
   {
+    "gameId": "pc-engine-00151",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Final Soldier",
@@ -5738,6 +5889,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/final-soldier"
   },
   {
+    "gameId": "pc-engine-00152",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Fushigi no Yume no Alice",
@@ -5776,6 +5928,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/fushigi-no-yume-no-alice"
   },
   {
+    "gameId": "pc-engine-00153",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Gaia no Monshou",
@@ -5814,6 +5967,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/gaia-no-monshou"
   },
   {
+    "gameId": "pc-engine-00154",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Galaga '88",
@@ -5852,6 +6006,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/galaga-88"
   },
   {
+    "gameId": "pc-engine-00155",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Gekisha Boy",
@@ -5890,6 +6045,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/gekisha-boy"
   },
   {
+    "gameId": "pc-engine-00156",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Genji Tsuushin Agedama",
@@ -5928,6 +6084,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/genji-tsuushin-agedama"
   },
   {
+    "gameId": "pc-engine-00157",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Genpei Toumaden",
@@ -5966,6 +6123,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/genpei-toumaden"
   },
   {
+    "gameId": "pc-engine-00158",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Genpei Toumaden Ni no Maki",
@@ -6004,6 +6162,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/genpei-toumaden-ni-no-maki"
   },
   {
+    "gameId": "pc-engine-00159",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Gokuraku! Chuuka Taisen",
@@ -6042,6 +6201,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/gokuraku-chuuka-taisen"
   },
   {
+    "gameId": "pc-engine-00160",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Gomola Speed",
@@ -6080,6 +6240,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/gomola-speed"
   },
   {
+    "gameId": "pc-engine-00161",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Gunhed",
@@ -6118,6 +6279,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/gunhed"
   },
   {
+    "gameId": "pc-engine-00162",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Hana Taaka Daka!",
@@ -6156,6 +6318,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/hana-taaka-daka"
   },
   {
+    "gameId": "pc-engine-00163",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Hanii in the Sky",
@@ -6194,6 +6357,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/hanii-in-the-sky"
   },
   {
+    "gameId": "pc-engine-00164",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Hatris",
@@ -6232,6 +6396,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/hatris"
   },
   {
+    "gameId": "pc-engine-00165",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Heavy Unit",
@@ -6270,6 +6435,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/heavy-unit"
   },
   {
+    "gameId": "pc-engine-00166",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Hisou Kihei - Xserd",
@@ -6308,6 +6474,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/hisou-kihei-xserd"
   },
   {
+    "gameId": "pc-engine-00167",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Idol Hanafuda Fan Club",
@@ -6346,6 +6513,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/idol-hanafuda-fan-club"
   },
   {
+    "gameId": "pc-engine-00168",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Image Fight",
@@ -6384,6 +6552,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/image-fight"
   },
   {
+    "gameId": "pc-engine-00169",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Jackie Chan",
@@ -6422,6 +6591,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/jackie-chan"
   },
   {
+    "gameId": "pc-engine-00170",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Jigoku Meguri",
@@ -6460,6 +6630,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/jigoku-meguri"
   },
   {
+    "gameId": "pc-engine-00171",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Jinmu Denshou",
@@ -6498,6 +6669,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/jinmu-denshou"
   },
   {
+    "gameId": "pc-engine-00172",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Juuouki",
@@ -6536,6 +6708,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/juuouki"
   },
   {
+    "gameId": "pc-engine-00173",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Kato Chan & Ken Chan",
@@ -6574,6 +6747,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/kato-chan-and-ken-chan"
   },
   {
+    "gameId": "pc-engine-00174",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Kattobi! Takuhai Kun",
@@ -6612,6 +6786,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/kattobi-takuhai-kun"
   },
   {
+    "gameId": "pc-engine-00175",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Kiki Kaikai",
@@ -6650,6 +6825,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/kiki-kaikai"
   },
   {
+    "gameId": "pc-engine-00176",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Klax",
@@ -6688,6 +6864,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/klax"
   },
   {
+    "gameId": "pc-engine-00177",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Knight Rider Special",
@@ -6726,6 +6903,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/knight-rider-special"
   },
   {
+    "gameId": "pc-engine-00178",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Kung Fu, The",
@@ -6764,6 +6942,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/kung-fu-the"
   },
   {
+    "gameId": "pc-engine-00179",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Kyuukyoku Mahjong - Idol Graphics",
@@ -6802,6 +6981,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/kyuukyoku-mahjong-idol-graphics"
   },
   {
+    "gameId": "pc-engine-00180",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Kyuukyoku Mahjong II",
@@ -6840,6 +7020,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/kyuukyoku-mahjong-ii"
   },
   {
+    "gameId": "pc-engine-00181",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Kyuukyoku Tiger",
@@ -6878,6 +7059,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/kyuukyoku-tiger"
   },
   {
+    "gameId": "pc-engine-00182",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Lady Sword",
@@ -6916,6 +7098,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/lady-sword"
   },
   {
+    "gameId": "pc-engine-00183",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Lode Runner - Lost Labyrinth",
@@ -6954,6 +7137,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/lode-runner-lost-labyrinth"
   },
   {
+    "gameId": "pc-engine-00184",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Maerchen Maze",
@@ -6992,6 +7176,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/maerchen-maze"
   },
   {
+    "gameId": "pc-engine-00185",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Magical Chase",
@@ -7030,6 +7215,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/magical-chase"
   },
   {
+    "gameId": "pc-engine-00186",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Mahjong Gakuen - Touma Soushirou Toujou",
@@ -7068,6 +7254,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/mahjong-gakuen-touma-soushirou-toujou"
   },
   {
+    "gameId": "pc-engine-00187",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Mahjong Gakuen Mild - Touma Soushirou Toujou",
@@ -7106,6 +7293,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/mahjong-gakuen-mild-touma-soushirou-toujou"
   },
   {
+    "gameId": "pc-engine-00188",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Mahjong Gokuu Special",
@@ -7144,6 +7332,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/mahjong-gokuu-special"
   },
   {
+    "gameId": "pc-engine-00189",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Mahjong Haou Den - Kaiser's Quest",
@@ -7182,6 +7371,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/mahjong-haou-den-kaisers-quest"
   },
   {
+    "gameId": "pc-engine-00190",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Mahjong Shikyaku Retsuden - Mahjong Wars",
@@ -7220,6 +7410,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/mahjong-shikyaku-retsuden-mahjong-wars"
   },
   {
+    "gameId": "pc-engine-00191",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Maison Ikkoku",
@@ -7258,6 +7449,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/maison-ikkoku"
   },
   {
+    "gameId": "pc-engine-00192",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Majin Eiyuu Den Wataru",
@@ -7296,6 +7488,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/majin-eiyuu-den-wataru"
   },
   {
+    "gameId": "pc-engine-00193",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Makai Hakken Den Shada",
@@ -7334,6 +7527,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/makai-hakken-den-shada"
   },
   {
+    "gameId": "pc-engine-00194",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Makai Prince Dorabocchan",
@@ -7372,6 +7566,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/makai-prince-dorabocchan"
   },
   {
+    "gameId": "pc-engine-00195",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Makyou Densetsu",
@@ -7410,6 +7605,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/makyou-densetsu"
   },
   {
+    "gameId": "pc-engine-00196",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Maniac Pro-Wrestling - Ashita e no Tatakai",
@@ -7448,6 +7644,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/maniac-pro-wrestling-ashita-e-no-tatakai"
   },
   {
+    "gameId": "pc-engine-00197",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Maniac Puroresu - Asu heno Tatakai",
@@ -7486,6 +7683,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/maniac-puroresu-asu-heno-tatakai"
   },
   {
+    "gameId": "pc-engine-00198",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Marchen Maze",
@@ -7524,6 +7722,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/marchen-maze"
   },
   {
+    "gameId": "pc-engine-00199",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Mesopotamia",
@@ -7562,6 +7761,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/mesopotamia"
   },
   {
+    "gameId": "pc-engine-00200",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Metal Stoker",
@@ -7600,6 +7800,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/metal-stoker"
   },
   {
+    "gameId": "pc-engine-00201",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Momotarou Densetsu Gaiden Dai 1 Shuu",
@@ -7638,6 +7839,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/momotarou-densetsu-gaiden-dai-1-shuu"
   },
   {
+    "gameId": "pc-engine-00202",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Momotarou Densetsu II",
@@ -7676,6 +7878,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/momotarou-densetsu-ii"
   },
   {
+    "gameId": "pc-engine-00203",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Momotarou Densetsu Turbo",
@@ -7714,6 +7917,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/momotarou-densetsu-turbo"
   },
   {
+    "gameId": "pc-engine-00204",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Momotarou Katsugeki",
@@ -7752,6 +7956,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/momotarou-katsugeki"
   },
   {
+    "gameId": "pc-engine-00205",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Morita Shougi PC",
@@ -7790,6 +7995,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/morita-shougi-pc"
   },
   {
+    "gameId": "pc-engine-00206",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Mr. Heli no Daibouken",
@@ -7828,6 +8034,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/mr-heli-no-daibouken"
   },
   {
+    "gameId": "pc-engine-00207",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "NHK Taiga Drama - Taiheiki",
@@ -7866,6 +8073,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/nhk-taiga-drama-taiheiki"
   },
   {
+    "gameId": "pc-engine-00208",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Narazumono Sentai Butai - Bloody Wolf",
@@ -7904,6 +8112,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/narazumono-sentai-butai-bloody-wolf"
   },
   {
+    "gameId": "pc-engine-00209",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Nazo no Mascarade",
@@ -7942,6 +8151,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/nazo-no-mascarade"
   },
   {
+    "gameId": "pc-engine-00210",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Necromancer",
@@ -7980,6 +8190,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/necromancer"
   },
   {
+    "gameId": "pc-engine-00211",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Necros no Yousai",
@@ -8018,6 +8229,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/necros-no-yousai"
   },
   {
+    "gameId": "pc-engine-00212",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Nekketsu Koukou Dodgeball Bu - Soccer PC Hen",
@@ -8056,6 +8268,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/nekketsu-koukou-dodgeball-bu-soccer-pc-hen"
   },
   {
+    "gameId": "pc-engine-00213",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Neutopia",
@@ -8094,6 +8307,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/neutopia"
   },
   {
+    "gameId": "pc-engine-00214",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Neutopia II",
@@ -8132,6 +8346,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/neutopia-ii"
   },
   {
+    "gameId": "pc-engine-00215",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "New Zealand Story, The",
@@ -8170,6 +8385,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/new-zealand-story-the"
   },
   {
+    "gameId": "pc-engine-00216",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Niko Niko Pun",
@@ -8208,6 +8424,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/niko-niko-pun"
   },
   {
+    "gameId": "pc-engine-00217",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Ninja Ryuuken Den",
@@ -8246,6 +8463,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/ninja-ryuuken-den"
   },
   {
+    "gameId": "pc-engine-00218",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Ninja Warriors, The",
@@ -8284,6 +8502,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/ninja-warriors-the"
   },
   {
+    "gameId": "pc-engine-00219",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Obocchama Kun",
@@ -8322,6 +8541,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/obocchama-kun"
   },
   {
+    "gameId": "pc-engine-00220",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Out Live",
@@ -8360,6 +8580,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/out-live"
   },
   {
+    "gameId": "pc-engine-00221",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Out Run",
@@ -8398,6 +8619,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/out-run"
   },
   {
+    "gameId": "pc-engine-00222",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Override",
@@ -8436,6 +8658,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/override"
   },
   {
+    "gameId": "pc-engine-00223",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "P-47 - The Freedom Fighter",
@@ -8474,6 +8697,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/p-47-the-freedom-fighter"
   },
   {
+    "gameId": "pc-engine-00224",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "PC Denjin - Punkic Cyborgs",
@@ -8512,6 +8736,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/pc-denjin-punkic-cyborgs"
   },
   {
+    "gameId": "pc-engine-00225",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "PC Genjin - Pithecanthropus Computerurus",
@@ -8550,6 +8775,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/pc-genjin-pithecanthropus-computerurus"
   },
   {
+    "gameId": "pc-engine-00226",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "PC Genjin 2 - Pithecanthropus Computerurus",
@@ -8588,6 +8814,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/pc-genjin-2-pithecanthropus-computerurus"
   },
   {
+    "gameId": "pc-engine-00227",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "PC Pachi-Slot",
@@ -8626,6 +8853,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/pc-pachi-slot"
   },
   {
+    "gameId": "pc-engine-00228",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Pachio Kun - Juuban Shoubu",
@@ -8664,6 +8892,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/pachio-kun-juuban-shoubu"
   },
   {
+    "gameId": "pc-engine-00229",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Populous",
@@ -8702,6 +8931,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/populous"
   },
   {
+    "gameId": "pc-engine-00230",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Power Drift",
@@ -8740,6 +8970,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/power-drift"
   },
   {
+    "gameId": "pc-engine-00231",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Power Gate",
@@ -8778,6 +9009,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/power-gate"
   },
   {
+    "gameId": "pc-engine-00232",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Psycho Chaser",
@@ -8816,6 +9048,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/psycho-chaser"
   },
   {
+    "gameId": "pc-engine-00233",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Puzzle Boy",
@@ -8854,6 +9087,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/puzzle-boy"
   },
   {
+    "gameId": "pc-engine-00234",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Puzznic",
@@ -8892,6 +9126,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/puzznic"
   },
   {
+    "gameId": "pc-engine-00235",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Quiz Toukou Shashin",
@@ -8930,6 +9165,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/quiz-toukou-shashin"
   },
   {
+    "gameId": "pc-engine-00236",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "R-Type Part-1",
@@ -8968,6 +9204,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/r-type-part-1"
   },
   {
+    "gameId": "pc-engine-00237",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "R-Type Part-2",
@@ -9006,6 +9243,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/r-type-part-2"
   },
   {
+    "gameId": "pc-engine-00238",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Rabio Lepus Special",
@@ -9044,6 +9282,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/rabio-lepus-special"
   },
   {
+    "gameId": "pc-engine-00239",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Raiden",
@@ -9082,6 +9321,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/raiden"
   },
   {
+    "gameId": "pc-engine-00240",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Rastan Saga II",
@@ -9120,6 +9360,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/rastan-saga-ii"
   },
   {
+    "gameId": "pc-engine-00241",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Rock-On",
@@ -9158,6 +9399,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/rock-on"
   },
   {
+    "gameId": "pc-engine-00242",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Sadakichi 7 Series - Hideyoshi no Ougon",
@@ -9196,6 +9438,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/sadakichi-7-series-hideyoshi-no-ougon"
   },
   {
+    "gameId": "pc-engine-00243",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Saigo no Nindou - Ninja Spirit",
@@ -9234,6 +9477,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/saigo-no-nindou-ninja-spirit"
   },
   {
+    "gameId": "pc-engine-00244",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Sekigahara",
@@ -9272,6 +9516,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/sekigahara"
   },
   {
+    "gameId": "pc-engine-00245",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Sengoku Mahjong",
@@ -9310,6 +9555,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/sengoku-mahjong"
   },
   {
+    "gameId": "pc-engine-00246",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Shanghai",
@@ -9348,6 +9594,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/shanghai"
   },
   {
+    "gameId": "pc-engine-00247",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Shinobi",
@@ -9386,6 +9633,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/shinobi"
   },
   {
+    "gameId": "pc-engine-00248",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Shiryou Sensen",
@@ -9424,6 +9672,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/shiryou-sensen"
   },
   {
+    "gameId": "pc-engine-00249",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "SideArms - Hyper Dyne",
@@ -9462,6 +9711,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/sidearms-hyper-dyne"
   },
   {
+    "gameId": "pc-engine-00250",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Silent Debuggers",
@@ -9500,6 +9750,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/silent-debuggers"
   },
   {
+    "gameId": "pc-engine-00251",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Sindibad Chitei no Dai Makyuu",
@@ -9538,6 +9789,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/sindibad-chitei-no-dai-makyuu"
   },
   {
+    "gameId": "pc-engine-00252",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Skweek",
@@ -9576,6 +9828,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/skweek"
   },
   {
+    "gameId": "pc-engine-00253",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Soldier Blade",
@@ -9614,6 +9867,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/soldier-blade"
   },
   {
+    "gameId": "pc-engine-00254",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Son Son II",
@@ -9652,6 +9906,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/son-son-ii"
   },
   {
+    "gameId": "pc-engine-00255",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Soukoban World",
@@ -9690,6 +9945,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/soukoban-world"
   },
   {
+    "gameId": "pc-engine-00256",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Space Harrier",
@@ -9728,6 +9984,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/space-harrier"
   },
   {
+    "gameId": "pc-engine-00257",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Space Invaders - Fukkatsu no Hi",
@@ -9766,6 +10023,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/space-invaders-fukkatsu-no-hi"
   },
   {
+    "gameId": "pc-engine-00258",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Special Criminal Investigation",
@@ -9804,6 +10062,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/special-criminal-investigation"
   },
   {
+    "gameId": "pc-engine-00259",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Spiral Wave",
@@ -9842,6 +10101,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/spiral-wave"
   },
   {
+    "gameId": "pc-engine-00260",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Splatterhouse",
@@ -9880,6 +10140,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/splatterhouse"
   },
   {
+    "gameId": "pc-engine-00261",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Stratego",
@@ -9918,6 +10179,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/stratego"
   },
   {
+    "gameId": "pc-engine-00262",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Super Metal Crusher",
@@ -9956,6 +10218,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/super-metal-crusher"
   },
   {
+    "gameId": "pc-engine-00263",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Super Star Soldier",
@@ -9994,6 +10257,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/super-star-soldier"
   },
   {
+    "gameId": "pc-engine-00264",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Susanoo Densetsu",
@@ -10032,6 +10296,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/susanoo-densetsu"
   },
   {
+    "gameId": "pc-engine-00265",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Taito Chase H.Q.",
@@ -10070,6 +10335,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/taito-chase-h-q"
   },
   {
+    "gameId": "pc-engine-00266",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Takahashi Meijin no Shin Boukenjima",
@@ -10108,6 +10374,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/takahashi-meijin-no-shin-boukenjima"
   },
   {
+    "gameId": "pc-engine-00267",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Takeda Shingen",
@@ -10146,6 +10413,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/takeda-shingen"
   },
   {
+    "gameId": "pc-engine-00268",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Tatsujin",
@@ -10184,6 +10452,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/tatsujin"
   },
   {
+    "gameId": "pc-engine-00269",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Tatsunoko Fighter",
@@ -10222,6 +10491,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/tatsunoko-fighter"
   },
   {
+    "gameId": "pc-engine-00270",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Tenseiryuu - Saint Dragon",
@@ -10260,6 +10530,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/tenseiryuu-saint-dragon"
   },
   {
+    "gameId": "pc-engine-00271",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Terra Cresta II - Mandoraa no Gyakushuu",
@@ -10298,6 +10569,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/terra-cresta-ii-mandoraa-no-gyakushuu"
   },
   {
+    "gameId": "pc-engine-00272",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Thunder Blade",
@@ -10336,6 +10608,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/thunder-blade"
   },
   {
+    "gameId": "pc-engine-00273",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Time Cruise II",
@@ -10374,6 +10647,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/time-cruise-ii"
   },
   {
+    "gameId": "pc-engine-00274",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Titan",
@@ -10412,6 +10686,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/titan"
   },
   {
+    "gameId": "pc-engine-00275",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Tora heno Michi",
@@ -10450,6 +10725,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/tora-heno-michi"
   },
   {
+    "gameId": "pc-engine-00276",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Toshi Tensou Keikaku - Eternal City",
@@ -10488,6 +10764,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/toshi-tensou-keikaku-eternal-city"
   },
   {
+    "gameId": "pc-engine-00277",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Tower of Druaga, The",
@@ -10526,6 +10803,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/tower-of-druaga-the"
   },
   {
+    "gameId": "pc-engine-00278",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Tricky",
@@ -10564,6 +10842,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/tricky"
   },
   {
+    "gameId": "pc-engine-00279",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Tsuru Teruhito no Jissen Kabushiki Bai Bai Game",
@@ -10602,6 +10881,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/tsuru-teruhito-no-jissen-kabushiki-bai-bai-game"
   },
   {
+    "gameId": "pc-engine-00280",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Valkyrie no Densetsu",
@@ -10640,6 +10920,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/valkyrie-no-densetsu"
   },
   {
+    "gameId": "pc-engine-00281",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Veigues - Tactical Gladiator",
@@ -10678,6 +10959,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/veigues-tactical-gladiator"
   },
   {
+    "gameId": "pc-engine-00282",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Victory Run",
@@ -10716,6 +10998,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/victory-run"
   },
   {
+    "gameId": "pc-engine-00283",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Vigilante",
@@ -10754,6 +11037,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/vigilante"
   },
   {
+    "gameId": "pc-engine-00284",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Violent Soldier",
@@ -10792,6 +11076,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/violent-soldier"
   },
   {
+    "gameId": "pc-engine-00285",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Volfied",
@@ -10830,6 +11115,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/volfied"
   },
   {
+    "gameId": "pc-engine-00286",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "W-Ring - The Double Rings",
@@ -10868,6 +11154,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/w-ring-the-double-rings"
   },
   {
+    "gameId": "pc-engine-00287",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Wai Wai Mahjong - Yukaina Janyuu Tachi",
@@ -10906,6 +11193,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/wai-wai-mahjong-yukaina-janyuu-tachi"
   },
   {
+    "gameId": "pc-engine-00288",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Walkuere no Densetsu",
@@ -10944,6 +11232,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/walkuere-no-densetsu"
   },
   {
+    "gameId": "pc-engine-00289",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Wallaby!! - Usagi no Kuni no Kangaroo Race",
@@ -10982,6 +11271,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/wallaby-usagi-no-kuni-no-kangaroo-race"
   },
   {
+    "gameId": "pc-engine-00290",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Wonder Momo",
@@ -11020,6 +11310,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/wonder-momo"
   },
   {
+    "gameId": "pc-engine-00291",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "World Circuit",
@@ -11058,6 +11349,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/world-circuit"
   },
   {
+    "gameId": "pc-engine-00292",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Xevious - Fardraut Densetsu",
@@ -11096,6 +11388,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/xevious-fardraut-densetsu"
   },
   {
+    "gameId": "pc-engine-00293",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Youkai Douchuuki",
@@ -11134,6 +11427,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nec-pc-engine/artwork-title-screen/youkai-douchuuki"
   },
   {
+    "gameId": "pc-engine-00294",
     "datasetId": "pc-engine",
     "console": "PC Engine",
     "english_name": "Zipang",

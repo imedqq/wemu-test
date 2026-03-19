@@ -1,5 +1,6 @@
 [
   {
+    "gameId": "atari-jaguar-00001",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Air Cars",
@@ -38,6 +39,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/air-cars"
   },
   {
+    "gameId": "atari-jaguar-00002",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Power Drive Rally",
@@ -76,6 +78,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/power-drive-rally"
   },
   {
+    "gameId": "atari-jaguar-00003",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Battle Sphere Gold",
@@ -114,6 +117,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/battle-sphere-gold"
   },
   {
+    "gameId": "atari-jaguar-00004",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Total Carnage",
@@ -152,6 +156,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/total-carnage"
   },
   {
+    "gameId": "atari-jaguar-00005",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Atari Karts",
@@ -190,6 +195,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/atari-karts"
   },
   {
+    "gameId": "atari-jaguar-00006",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Club Drive",
@@ -228,6 +234,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/club-drive"
   },
   {
+    "gameId": "atari-jaguar-00007",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "I-War",
@@ -266,6 +273,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/i-war"
   },
   {
+    "gameId": "atari-jaguar-00008",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Super Burnout",
@@ -304,6 +312,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/super-burnout"
   },
   {
+    "gameId": "atari-jaguar-00009",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "SuperCross 3D",
@@ -342,6 +351,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/supercross-3d"
   },
   {
+    "gameId": "atari-jaguar-00010",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Val d'Isere Skiing and Snowboarding",
@@ -380,6 +390,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/val-disere-skiing-and-snowboarding"
   },
   {
+    "gameId": "atari-jaguar-00011",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Pinball Fantasies",
@@ -418,6 +429,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/pinball-fantasies"
   },
   {
+    "gameId": "atari-jaguar-00012",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Ruiner Pinball",
@@ -456,6 +468,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/ruiner-pinball"
   },
   {
+    "gameId": "atari-jaguar-00013",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "NBA Jam T.E.",
@@ -494,6 +507,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/nba-jam-t-e"
   },
   {
+    "gameId": "atari-jaguar-00014",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Sensible Soccer - International Edition",
@@ -532,6 +546,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/sensible-soccer-international-edition"
   },
   {
+    "gameId": "atari-jaguar-00015",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "White Men Can't Jump",
@@ -570,6 +585,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/white-men-cant-jump"
   },
   {
+    "gameId": "atari-jaguar-00016",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Defender 2000",
@@ -608,6 +624,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/defender-2000"
   },
   {
+    "gameId": "atari-jaguar-00017",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Doom",
@@ -646,6 +663,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/doom"
   },
   {
+    "gameId": "atari-jaguar-00018",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Hover Strike",
@@ -684,6 +702,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/hover-strike"
   },
   {
+    "gameId": "atari-jaguar-00019",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Protector - Special Edition",
@@ -722,6 +741,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/protector-special-edition"
   },
   {
+    "gameId": "atari-jaguar-00020",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Raiden",
@@ -760,6 +780,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/raiden"
   },
   {
+    "gameId": "atari-jaguar-00021",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Tempest 2000",
@@ -798,6 +819,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/tempest-2000"
   },
   {
+    "gameId": "atari-jaguar-00022",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Fight for Life",
@@ -836,6 +858,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/fight-for-life"
   },
   {
+    "gameId": "atari-jaguar-00023",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Brutal Sports Football",
@@ -874,6 +897,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/brutal-sports-football"
   },
   {
+    "gameId": "atari-jaguar-00024",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Fever Pitch Soccer",
@@ -912,6 +936,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/fever-pitch-soccer"
   },
   {
+    "gameId": "atari-jaguar-00025",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Troy Aikman NFL Football",
@@ -950,6 +975,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/troy-aikman-nfl-football"
   },
   {
+    "gameId": "atari-jaguar-00026",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Kasumi Ninja",
@@ -988,6 +1014,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/kasumi-ninja"
   },
   {
+    "gameId": "atari-jaguar-00027",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Ultra Vortek",
@@ -1026,6 +1053,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/ultra-vortek"
   },
   {
+    "gameId": "atari-jaguar-00028",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Bubsy in Fractured Furry Tales",
@@ -1064,6 +1092,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/bubsy-in-fractured-furry-tales"
   },
   {
+    "gameId": "atari-jaguar-00029",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Double Dragon V - The Shadow Falls",
@@ -1102,6 +1131,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/double-dragon-v-the-shadow-falls"
   },
   {
+    "gameId": "atari-jaguar-00030",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Dragon - The Bruce Lee Story",
@@ -1140,6 +1170,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/dragon-the-bruce-lee-story"
   },
   {
+    "gameId": "atari-jaguar-00031",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Zool 2",
@@ -1178,6 +1209,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/zool-2"
   },
   {
+    "gameId": "atari-jaguar-00032",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Worms",
@@ -1216,6 +1248,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/worms"
   },
   {
+    "gameId": "atari-jaguar-00033",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Alien vs Predator",
@@ -1254,6 +1287,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/alien-vs-predator"
   },
   {
+    "gameId": "atari-jaguar-00034",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Attack of the Mutant Penguins",
@@ -1292,6 +1326,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/attack-of-the-mutant-penguins"
   },
   {
+    "gameId": "atari-jaguar-00035",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Cannon Fodder",
@@ -1330,6 +1365,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/cannon-fodder"
   },
   {
+    "gameId": "atari-jaguar-00036",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Checkered Flag",
@@ -1368,6 +1404,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/checkered-flag"
   },
   {
+    "gameId": "atari-jaguar-00037",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Cybermorph",
@@ -1406,6 +1443,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/cybermorph"
   },
   {
+    "gameId": "atari-jaguar-00038",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Evolution - Dino Dudes",
@@ -1444,6 +1482,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/evolution-dino-dudes"
   },
   {
+    "gameId": "atari-jaguar-00039",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Flashback - The Quest for Identity",
@@ -1482,6 +1521,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/flashback-the-quest-for-identity"
   },
   {
+    "gameId": "atari-jaguar-00040",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Flip Out!",
@@ -1520,6 +1560,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/flip-out"
   },
   {
+    "gameId": "atari-jaguar-00041",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Hyper Force",
@@ -1558,6 +1599,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/hyper-force"
   },
   {
+    "gameId": "atari-jaguar-00042",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Iron Soldier",
@@ -1596,6 +1638,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/iron-soldier"
   },
   {
+    "gameId": "atari-jaguar-00043",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Missile Command 3D",
@@ -1634,6 +1677,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/missile-command-3d"
   },
   {
+    "gameId": "atari-jaguar-00044",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Pitfall - The Mayan Adventure",
@@ -1672,6 +1716,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/pitfall-the-mayan-adventure"
   },
   {
+    "gameId": "atari-jaguar-00045",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Rayman",
@@ -1710,6 +1755,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/rayman"
   },
   {
+    "gameId": "atari-jaguar-00046",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Skyhammer",
@@ -1748,6 +1794,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/skyhammer"
   },
   {
+    "gameId": "atari-jaguar-00047",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Soccer Kid",
@@ -1786,6 +1833,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/soccer-kid"
   },
   {
+    "gameId": "atari-jaguar-00048",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Syndicate",
@@ -1824,6 +1872,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/syndicate"
   },
   {
+    "gameId": "atari-jaguar-00049",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Theme Park",
@@ -1862,6 +1911,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/theme-park"
   },
   {
+    "gameId": "atari-jaguar-00050",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Towers II",
@@ -1900,6 +1950,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/towers-ii"
   },
   {
+    "gameId": "atari-jaguar-00051",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Trevor McFur in the Crescent Galaxy",
@@ -1938,6 +1989,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/trevor-mcfur-in-the-crescent-galaxy"
   },
   {
+    "gameId": "atari-jaguar-00052",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Wolfenstein 3D",
@@ -1976,6 +2028,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/wolfenstein-3d"
   },
   {
+    "gameId": "atari-jaguar-00053",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Zero 5",
@@ -2014,6 +2067,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-jaguar/artwork-title-screen/zero-5"
   },
   {
+    "gameId": "atari-jaguar-00054",
     "datasetId": "atari-jaguar",
     "console": "Atari Jaguar",
     "english_name": "Zoop!",

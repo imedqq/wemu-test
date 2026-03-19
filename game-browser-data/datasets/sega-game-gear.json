@@ -1,5 +1,6 @@
 [
   {
+    "gameId": "sega-game-gear-00001",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "R.C. Grand Prix",
@@ -38,6 +39,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/r-c-grand-prix"
   },
   {
+    "gameId": "sega-game-gear-00002",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Olympic Gold",
@@ -76,6 +78,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/olympic-gold"
   },
   {
+    "gameId": "sega-game-gear-00003",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Crayon Shin-chan - Taiketsu! Kantam Panic!!",
@@ -114,6 +117,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/crayon-shin-chan-taiketsu-kantam-panic"
   },
   {
+    "gameId": "sega-game-gear-00004",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Doraemon - Waku Waku Pocket Paradise",
@@ -152,6 +156,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/doraemon-waku-waku-pocket-paradise"
   },
   {
+    "gameId": "sega-game-gear-00005",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Pete Sampras Tennis",
@@ -190,6 +195,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/pete-sampras-tennis"
   },
   {
+    "gameId": "sega-game-gear-00006",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Ayrton Senna's Super Monaco GP II",
@@ -228,6 +234,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/ayrton-sennas-super-monaco-gp-ii"
   },
   {
+    "gameId": "sega-game-gear-00007",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "F1",
@@ -266,6 +273,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/f1"
   },
   {
+    "gameId": "sega-game-gear-00008",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "F1 - World Championship Edition",
@@ -304,6 +312,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/f1-world-championship-edition"
   },
   {
+    "gameId": "sega-game-gear-00009",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "GP Rider",
@@ -342,6 +351,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/gp-rider"
   },
   {
+    "gameId": "sega-game-gear-00010",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Micro Machines",
@@ -380,6 +390,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/micro-machines"
   },
   {
+    "gameId": "sega-game-gear-00011",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Micro Machines 2 - Turbo Tournament",
@@ -418,6 +429,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/micro-machines-2-turbo-tournament"
   },
   {
+    "gameId": "sega-game-gear-00012",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Out Run",
@@ -456,6 +468,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/out-run"
   },
   {
+    "gameId": "sega-game-gear-00013",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Road Rash",
@@ -494,6 +507,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/road-rash"
   },
   {
+    "gameId": "sega-game-gear-00014",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Sonic Drift",
@@ -532,6 +546,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/sonic-drift"
   },
   {
+    "gameId": "sega-game-gear-00015",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Sonic Drift 2",
@@ -570,6 +585,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/sonic-drift-2"
   },
   {
+    "gameId": "sega-game-gear-00016",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Super Monaco GP",
@@ -608,6 +624,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/super-monaco-gp"
   },
   {
+    "gameId": "sega-game-gear-00017",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Super Off Road",
@@ -646,6 +663,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/super-off-road"
   },
   {
+    "gameId": "sega-game-gear-00018",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Pinball Dreams",
@@ -684,6 +702,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/pinball-dreams"
   },
   {
+    "gameId": "sega-game-gear-00019",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Jeopardy!",
@@ -722,6 +741,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/jeopardy"
   },
   {
+    "gameId": "sega-game-gear-00020",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Jeopardy! - Sports Edition",
@@ -760,6 +780,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/jeopardy-sports-edition"
   },
   {
+    "gameId": "sega-game-gear-00021",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "NBA Jam Tournament Edition",
@@ -798,6 +819,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/nba-jam-tournament-edition"
   },
   {
+    "gameId": "sega-game-gear-00022",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Sports Trivia",
@@ -836,6 +858,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/sports-trivia"
   },
   {
+    "gameId": "sega-game-gear-00023",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Sports Trivia - Championship Edition",
@@ -874,6 +897,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/sports-trivia-championship-edition"
   },
   {
+    "gameId": "sega-game-gear-00024",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "WWF Raw",
@@ -912,6 +936,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/wwf-raw"
   },
   {
+    "gameId": "sega-game-gear-00025",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Wheel of Fortune",
@@ -950,6 +975,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/wheel-of-fortune"
   },
   {
+    "gameId": "sega-game-gear-00026",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Winter Olympics - Lillehammer '94",
@@ -988,6 +1014,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/winter-olympics-lillehammer-94"
   },
   {
+    "gameId": "sega-game-gear-00027",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "World Cup USA 94",
@@ -1026,6 +1053,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/world-cup-usa-94"
   },
   {
+    "gameId": "sega-game-gear-00028",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Baku Baku Animal",
@@ -1064,6 +1092,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/baku-baku-animal"
   },
   {
+    "gameId": "sega-game-gear-00029",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Bust-A-Move",
@@ -1102,6 +1131,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/bust-a-move"
   },
   {
+    "gameId": "sega-game-gear-00030",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Chessmaster, The",
@@ -1140,6 +1170,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/chessmaster-the"
   },
   {
+    "gameId": "sega-game-gear-00031",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Columns",
@@ -1178,6 +1209,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/columns"
   },
   {
+    "gameId": "sega-game-gear-00032",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Dr. Robotnik's Mean Bean Machine",
@@ -1216,6 +1248,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/dr-robotniks-mean-bean-machine"
   },
   {
+    "gameId": "sega-game-gear-00033",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Ichidant~R GG",
@@ -1254,6 +1287,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/ichidant-r-gg"
   },
   {
+    "gameId": "sega-game-gear-00034",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Lemmings",
@@ -1292,6 +1326,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/lemmings"
   },
   {
+    "gameId": "sega-game-gear-00035",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Pac-Attack",
@@ -1330,6 +1365,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/pac-attack"
   },
   {
+    "gameId": "sega-game-gear-00036",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Puyo Puyo",
@@ -1368,6 +1404,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/puyo-puyo"
   },
   {
+    "gameId": "sega-game-gear-00037",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Puyo Puyo 2",
@@ -1406,6 +1443,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/puyo-puyo-2"
   },
   {
+    "gameId": "sega-game-gear-00038",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Shanghai II",
@@ -1444,6 +1482,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/shanghai-ii"
   },
   {
+    "gameId": "sega-game-gear-00039",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Wimbledon",
@@ -1482,6 +1521,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/wimbledon"
   },
   {
+    "gameId": "sega-game-gear-00040",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Aerial Assault",
@@ -1520,6 +1560,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/aerial-assault"
   },
   {
+    "gameId": "sega-game-gear-00041",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Dropzone",
@@ -1558,6 +1599,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/dropzone"
   },
   {
+    "gameId": "sega-game-gear-00042",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "G-LOC Air Battle",
@@ -1596,6 +1638,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/g-loc-air-battle"
   },
   {
+    "gameId": "sega-game-gear-00043",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Pop Breaker",
@@ -1634,6 +1677,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/pop-breaker"
   },
   {
+    "gameId": "sega-game-gear-00044",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Super Space Invaders",
@@ -1672,6 +1716,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/super-space-invaders"
   },
   {
+    "gameId": "sega-game-gear-00045",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Poker Faced Paul's Blackjack",
@@ -1710,6 +1755,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/poker-faced-pauls-blackjack"
   },
   {
+    "gameId": "sega-game-gear-00046",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Poker Faced Paul's Gin",
@@ -1748,6 +1794,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/poker-faced-pauls-gin"
   },
   {
+    "gameId": "sega-game-gear-00047",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Poker Faced Paul's Poker",
@@ -1786,6 +1833,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/poker-faced-pauls-poker"
   },
   {
+    "gameId": "sega-game-gear-00048",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Poker Faced Paul's Solitaire",
@@ -1824,6 +1872,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/poker-faced-pauls-solitaire"
   },
   {
+    "gameId": "sega-game-gear-00049",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Buster Fight",
@@ -1862,6 +1911,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/buster-fight"
   },
   {
+    "gameId": "sega-game-gear-00050",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Fatal Fury Special",
@@ -1900,6 +1950,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/fatal-fury-special"
   },
   {
+    "gameId": "sega-game-gear-00051",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Jang Pung II",
@@ -1938,6 +1989,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/jang-pung-ii"
   },
   {
+    "gameId": "sega-game-gear-00052",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Mighty Morphin Power Rangers - The Movie",
@@ -1976,6 +2028,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/mighty-morphin-power-rangers-the-movie"
   },
   {
+    "gameId": "sega-game-gear-00053",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Primal Rage",
@@ -2014,6 +2067,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/primal-rage"
   },
   {
+    "gameId": "sega-game-gear-00054",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Riddick Bowe Boxing",
@@ -2052,6 +2106,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/riddick-bowe-boxing"
   },
   {
+    "gameId": "sega-game-gear-00055",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Rise of the Robots",
@@ -2090,6 +2145,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/rise-of-the-robots"
   },
   {
+    "gameId": "sega-game-gear-00056",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Shaq Fu",
@@ -2128,6 +2184,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/shaq-fu"
   },
   {
+    "gameId": "sega-game-gear-00057",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Virtua Fighter Animation",
@@ -2166,6 +2223,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/virtua-fighter-animation"
   },
   {
+    "gameId": "sega-game-gear-00058",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Wizard Pinball",
@@ -2204,6 +2262,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/wizard-pinball"
   },
   {
+    "gameId": "sega-game-gear-00059",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Dunk Kids",
@@ -2242,6 +2301,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/dunk-kids"
   },
   {
+    "gameId": "sega-game-gear-00060",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "FIFA International Soccer",
@@ -2280,6 +2340,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/fifa-international-soccer"
   },
   {
+    "gameId": "sega-game-gear-00061",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "From TV Animation - Slam Dunk - Shouri e no Starting 5",
@@ -2318,6 +2379,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/from-tv-animation-slam-dunk-shouri-e-no-starting-5"
   },
   {
+    "gameId": "sega-game-gear-00062",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "J-League GG Pro Striker '94",
@@ -2356,6 +2418,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/j-league-gg-pro-striker-94"
   },
   {
+    "gameId": "sega-game-gear-00063",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "J-League Soccer - Dream Eleven",
@@ -2394,6 +2457,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/j-league-soccer-dream-eleven"
   },
   {
+    "gameId": "sega-game-gear-00064",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Joe Montana's Football",
@@ -2432,6 +2496,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/joe-montanas-football"
   },
   {
+    "gameId": "sega-game-gear-00065",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "NBA Action",
@@ -2470,6 +2535,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/nba-action"
   },
   {
+    "gameId": "sega-game-gear-00066",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "NFL '95",
@@ -2508,6 +2574,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/nfl-95"
   },
   {
+    "gameId": "sega-game-gear-00067",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Popeye no Beach Volleyball",
@@ -2546,6 +2613,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/popeye-no-beach-volleyball"
   },
   {
+    "gameId": "sega-game-gear-00068",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Striker",
@@ -2584,6 +2652,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/striker"
   },
   {
+    "gameId": "sega-game-gear-00069",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Tengen World Cup Soccer",
@@ -2622,6 +2691,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/tengen-world-cup-soccer"
   },
   {
+    "gameId": "sega-game-gear-00070",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Ultimate Soccer",
@@ -2660,6 +2730,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/ultimate-soccer"
   },
   {
+    "gameId": "sega-game-gear-00071",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "WWF Wrestlemania Steel Cage Challenge",
@@ -2698,6 +2769,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/wwf-wrestlemania-steel-cage-challenge"
   },
   {
+    "gameId": "sega-game-gear-00072",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "World Series Baseball '95",
@@ -2736,6 +2808,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/world-series-baseball-95"
   },
   {
+    "gameId": "sega-game-gear-00073",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Mortal Kombat",
@@ -2774,6 +2847,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/mortal-kombat"
   },
   {
+    "gameId": "sega-game-gear-00074",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Mortal Kombat 3",
@@ -2812,6 +2886,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/mortal-kombat-3"
   },
   {
+    "gameId": "sega-game-gear-00075",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Mortal Kombat II",
@@ -2850,6 +2925,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/mortal-kombat-ii"
   },
   {
+    "gameId": "sega-game-gear-00076",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Side Pocket",
@@ -2888,6 +2964,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/side-pocket"
   },
   {
+    "gameId": "sega-game-gear-00077",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Faceball 2000",
@@ -2926,6 +3003,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/faceball-2000"
   },
   {
+    "gameId": "sega-game-gear-00078",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Ernie Els Golf",
@@ -2964,6 +3042,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/ernie-els-golf"
   },
   {
+    "gameId": "sega-game-gear-00079",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "PGA Tour 96",
@@ -3002,6 +3081,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/pga-tour-96"
   },
   {
+    "gameId": "sega-game-gear-00080",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "PGA Tour Golf",
@@ -3040,6 +3120,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/pga-tour-golf"
   },
   {
+    "gameId": "sega-game-gear-00081",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "PGA Tour Golf II",
@@ -3078,6 +3159,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/pga-tour-golf-ii"
   },
   {
+    "gameId": "sega-game-gear-00082",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Super Golf",
@@ -3116,6 +3198,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/super-golf"
   },
   {
+    "gameId": "sega-game-gear-00083",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Solitaire Poker",
@@ -3154,6 +3237,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/solitaire-poker"
   },
   {
+    "gameId": "sega-game-gear-00084",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Batter Up",
@@ -3192,6 +3276,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/batter-up"
   },
   {
+    "gameId": "sega-game-gear-00085",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Clutch Hitter",
@@ -3230,6 +3315,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/clutch-hitter"
   },
   {
+    "gameId": "sega-game-gear-00086",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Majors Pro Baseball, The",
@@ -3268,6 +3354,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/majors-pro-baseball-the"
   },
   {
+    "gameId": "sega-game-gear-00087",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "R.B.I. Baseball '94",
@@ -3306,6 +3393,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/r-b-i-baseball-94"
   },
   {
+    "gameId": "sega-game-gear-00088",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "World Series Baseball",
@@ -3344,6 +3432,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/world-series-baseball"
   },
   {
+    "gameId": "sega-game-gear-00089",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Putt & Putter",
@@ -3382,6 +3471,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/putt-and-putter"
   },
   {
+    "gameId": "sega-game-gear-00090",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Scratch Golf",
@@ -3420,6 +3510,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/scratch-golf"
   },
   {
+    "gameId": "sega-game-gear-00091",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Addams Family, The",
@@ -3458,6 +3549,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/addams-family-the"
   },
   {
+    "gameId": "sega-game-gear-00092",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Berlin no Kabe",
@@ -3496,6 +3588,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/berlin-no-kabe"
   },
   {
+    "gameId": "sega-game-gear-00093",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Buster Ball",
@@ -3534,6 +3627,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/buster-ball"
   },
   {
+    "gameId": "sega-game-gear-00094",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Chicago Syndicate",
@@ -3572,6 +3666,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/chicago-syndicate"
   },
   {
+    "gameId": "sega-game-gear-00095",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Choplifter III",
@@ -3610,6 +3705,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/choplifter-iii"
   },
   {
+    "gameId": "sega-game-gear-00096",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Coca-Cola Kid",
@@ -3648,6 +3744,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/coca-cola-kid"
   },
   {
+    "gameId": "sega-game-gear-00097",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Frogger",
@@ -3686,6 +3783,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/frogger"
   },
   {
+    "gameId": "sega-game-gear-00098",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Mappy",
@@ -3724,6 +3822,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/mappy"
   },
   {
+    "gameId": "sega-game-gear-00099",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Mighty Morphin Power Rangers",
@@ -3762,6 +3861,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/mighty-morphin-power-rangers"
   },
   {
+    "gameId": "sega-game-gear-00100",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Ms. Pac-Man",
@@ -3800,6 +3900,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/ms-pac-man"
   },
   {
+    "gameId": "sega-game-gear-00101",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Pac-Man",
@@ -3838,6 +3939,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/pac-man"
   },
   {
+    "gameId": "sega-game-gear-00102",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "S.S. Lucifer - Man Overboard!",
@@ -3876,6 +3978,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/s-s-lucifer-man-overboard"
   },
   {
+    "gameId": "sega-game-gear-00103",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "SD Gundam - Winner's History",
@@ -3914,6 +4017,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/sd-gundam-winners-history"
   },
   {
+    "gameId": "sega-game-gear-00104",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Stargate",
@@ -3952,6 +4056,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/stargate"
   },
   {
+    "gameId": "sega-game-gear-00105",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Streets of Rage",
@@ -3990,6 +4095,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/streets-of-rage"
   },
   {
+    "gameId": "sega-game-gear-00106",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Streets of Rage II",
@@ -4028,6 +4134,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/streets-of-rage-ii"
   },
   {
+    "gameId": "sega-game-gear-00107",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Wolfchild",
@@ -4066,6 +4173,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/wolfchild"
   },
   {
+    "gameId": "sega-game-gear-00108",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Yu Yu Hakusho 2 - Gekitou! Nanakyou no Tatakai",
@@ -4104,6 +4212,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/yu-yu-hakusho-2-gekitou-nanakyou-no-tatakai"
   },
   {
+    "gameId": "sega-game-gear-00109",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Hyokkori Hyoutan-Jima - Hyoutan-Jima no Daikoukai",
@@ -4142,6 +4251,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/hyokkori-hyoutan-jima-hyoutan-jima-no-daikoukai"
   },
   {
+    "gameId": "sega-game-gear-00110",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Power Drive",
@@ -4180,6 +4290,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/power-drive"
   },
   {
+    "gameId": "sega-game-gear-00111",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "World Class Leader Board",
@@ -4218,6 +4329,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/world-class-leader-board"
   },
   {
+    "gameId": "sega-game-gear-00112",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "5 in 1 Funpak",
@@ -4256,6 +4368,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/5-in-1-funpak"
   },
   {
+    "gameId": "sega-game-gear-00113",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Beavis and Butt-head",
@@ -4294,6 +4407,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/beavis-and-butt-head"
   },
   {
+    "gameId": "sega-game-gear-00114",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Gambler Jiko Chuushinha",
@@ -4332,6 +4446,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/gambler-jiko-chuushinha"
   },
   {
+    "gameId": "sega-game-gear-00115",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Pocket Jansou",
@@ -4370,6 +4485,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/pocket-jansou"
   },
   {
+    "gameId": "sega-game-gear-00116",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Taisen Mahjong HaoPai",
@@ -4408,6 +4524,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/taisen-mahjong-haopai"
   },
   {
+    "gameId": "sega-game-gear-00117",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Taisen Mahjong HaoPai 2",
@@ -4446,6 +4563,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/taisen-mahjong-haopai-2"
   },
   {
+    "gameId": "sega-game-gear-00118",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Arcade Classics",
@@ -4484,6 +4602,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/arcade-classics"
   },
   {
+    "gameId": "sega-game-gear-00119",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Head Buster",
@@ -4522,6 +4641,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/head-buster"
   },
   {
+    "gameId": "sega-game-gear-00120",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Aa Harimanada",
@@ -4560,6 +4680,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/aa-harimanada"
   },
   {
+    "gameId": "sega-game-gear-00121",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Adventures of Batman & Robin, The",
@@ -4598,6 +4719,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/adventures-of-batman-and-robin-the"
   },
   {
+    "gameId": "sega-game-gear-00122",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Aladdin",
@@ -4636,6 +4758,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/aladdin"
   },
   {
+    "gameId": "sega-game-gear-00123",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Alien 3",
@@ -4674,6 +4797,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/alien-3"
   },
   {
+    "gameId": "sega-game-gear-00124",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Alien Syndrome",
@@ -4712,6 +4836,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/alien-syndrome"
   },
   {
+    "gameId": "sega-game-gear-00125",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Andre Agassi Tennis",
@@ -4750,6 +4875,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/andre-agassi-tennis"
   },
   {
+    "gameId": "sega-game-gear-00126",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Arch Rivals",
@@ -4788,6 +4914,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/arch-rivals"
   },
   {
+    "gameId": "sega-game-gear-00127",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Arena",
@@ -4826,6 +4953,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/arena"
   },
   {
+    "gameId": "sega-game-gear-00128",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Ariel the Little Mermaid",
@@ -4864,6 +4992,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/ariel-the-little-mermaid"
   },
   {
+    "gameId": "sega-game-gear-00129",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Asterix and the Great Rescue",
@@ -4902,6 +5031,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/asterix-and-the-great-rescue"
   },
   {
+    "gameId": "sega-game-gear-00130",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Asterix and the Secret Mission",
@@ -4940,6 +5070,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/asterix-and-the-secret-mission"
   },
   {
+    "gameId": "sega-game-gear-00131",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Ax Battler - A Legend of Golden Axe",
@@ -4978,6 +5109,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/ax-battler-a-legend-of-golden-axe"
   },
   {
+    "gameId": "sega-game-gear-00132",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Barbie Super Model",
@@ -5016,6 +5148,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/barbie-super-model"
   },
   {
+    "gameId": "sega-game-gear-00133",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Bartman Meets Radioactive Man",
@@ -5054,6 +5187,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/bartman-meets-radioactive-man"
   },
   {
+    "gameId": "sega-game-gear-00134",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Batman Forever",
@@ -5092,6 +5226,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/batman-forever"
   },
   {
+    "gameId": "sega-game-gear-00135",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Batman Returns",
@@ -5130,6 +5265,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/batman-returns"
   },
   {
+    "gameId": "sega-game-gear-00136",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Battleship",
@@ -5168,6 +5304,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/battleship"
   },
   {
+    "gameId": "sega-game-gear-00137",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Battletoads",
@@ -5206,6 +5343,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/battletoads"
   },
   {
+    "gameId": "sega-game-gear-00138",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Berenstain Bears' Camping Adventure, The",
@@ -5244,6 +5382,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/berenstain-bears-camping-adventure-the"
   },
   {
+    "gameId": "sega-game-gear-00139",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Bishoujo Senshi Sailor Moon S",
@@ -5282,6 +5421,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/bishoujo-senshi-sailor-moon-s"
   },
   {
+    "gameId": "sega-game-gear-00140",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Bonkers Wax Up!",
@@ -5320,6 +5460,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/bonkers-wax-up"
   },
   {
+    "gameId": "sega-game-gear-00141",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Bram Stoker's Dracula",
@@ -5358,6 +5499,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/bram-stokers-dracula"
   },
   {
+    "gameId": "sega-game-gear-00142",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Bubble Bobble",
@@ -5396,6 +5538,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/bubble-bobble"
   },
   {
+    "gameId": "sega-game-gear-00143",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Bugs Bunny in Double Trouble",
@@ -5434,6 +5577,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/bugs-bunny-in-double-trouble"
   },
   {
+    "gameId": "sega-game-gear-00144",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "CJ Elephant Fugitive",
@@ -5472,6 +5616,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/cj-elephant-fugitive"
   },
   {
+    "gameId": "sega-game-gear-00145",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Caesars Palace",
@@ -5510,6 +5655,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/caesars-palace"
   },
   {
+    "gameId": "sega-game-gear-00146",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Captain America and the Avengers",
@@ -5548,6 +5694,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/captain-america-and-the-avengers"
   },
   {
+    "gameId": "sega-game-gear-00147",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Casino Funpak",
@@ -5586,6 +5733,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/casino-funpak"
   },
   {
+    "gameId": "sega-game-gear-00148",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Castle of Illusion Starring Mickey Mouse",
@@ -5624,6 +5772,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/castle-of-illusion-starring-mickey-mouse"
   },
   {
+    "gameId": "sega-game-gear-00149",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Chakan",
@@ -5662,6 +5811,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/chakan"
   },
   {
+    "gameId": "sega-game-gear-00150",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Championship Hockey",
@@ -5700,6 +5850,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/championship-hockey"
   },
   {
+    "gameId": "sega-game-gear-00151",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Chase H.Q.",
@@ -5738,6 +5889,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/chase-h-q"
   },
   {
+    "gameId": "sega-game-gear-00152",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Cheese Cat-Astrophe - Starring Speedy Gonzales",
@@ -5776,6 +5928,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/cheese-cat-astrophe-starring-speedy-gonzales"
   },
   {
+    "gameId": "sega-game-gear-00153",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Chuck Rock",
@@ -5814,6 +5967,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/chuck-rock"
   },
   {
+    "gameId": "sega-game-gear-00154",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Chuck Rock II - Son of Chuck",
@@ -5852,6 +6006,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/chuck-rock-ii-son-of-chuck"
   },
   {
+    "gameId": "sega-game-gear-00155",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Cliffhanger",
@@ -5890,6 +6045,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/cliffhanger"
   },
   {
+    "gameId": "sega-game-gear-00156",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Cool Spot",
@@ -5928,6 +6084,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/cool-spot"
   },
   {
+    "gameId": "sega-game-gear-00157",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Cosmic Spacehead",
@@ -5966,6 +6123,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/cosmic-spacehead"
   },
   {
+    "gameId": "sega-game-gear-00158",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Crazy Faces",
@@ -6004,6 +6162,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/crazy-faces"
   },
   {
+    "gameId": "sega-game-gear-00159",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Crystal Warriors",
@@ -6042,6 +6201,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/crystal-warriors"
   },
   {
+    "gameId": "sega-game-gear-00160",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Cutthroat Island",
@@ -6080,6 +6240,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/cutthroat-island"
   },
   {
+    "gameId": "sega-game-gear-00161",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Daffy Duck in Hollywood",
@@ -6118,6 +6279,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/daffy-duck-in-hollywood"
   },
   {
+    "gameId": "sega-game-gear-00162",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Deep Duck Trouble Starring Donald Duck",
@@ -6156,6 +6318,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/deep-duck-trouble-starring-donald-duck"
   },
   {
+    "gameId": "sega-game-gear-00163",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Defenders of Oasis",
@@ -6194,6 +6357,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/defenders-of-oasis"
   },
   {
+    "gameId": "sega-game-gear-00164",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Desert Speedtrap",
@@ -6232,6 +6396,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/desert-speedtrap"
   },
   {
+    "gameId": "sega-game-gear-00165",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Desert Strike - Return to the Gulf",
@@ -6270,6 +6435,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/desert-strike-return-to-the-gulf"
   },
   {
+    "gameId": "sega-game-gear-00166",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Devilish",
@@ -6308,6 +6474,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/devilish"
   },
   {
+    "gameId": "sega-game-gear-00167",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Donald no Magical World",
@@ -6346,6 +6513,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/donald-no-magical-world"
   },
   {
+    "gameId": "sega-game-gear-00168",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Doraemon - Noranosuke no Yabou",
@@ -6384,6 +6552,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/doraemon-noranosuke-no-yabou"
   },
   {
+    "gameId": "sega-game-gear-00169",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Double Dragon",
@@ -6422,6 +6591,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/double-dragon"
   },
   {
+    "gameId": "sega-game-gear-00170",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Dragon - The Bruce Lee Story",
@@ -6460,6 +6630,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/dragon-the-bruce-lee-story"
   },
   {
+    "gameId": "sega-game-gear-00171",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Dragon Crystal",
@@ -6498,6 +6669,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/dragon-crystal"
   },
   {
+    "gameId": "sega-game-gear-00172",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Dynamite Headdy",
@@ -6536,6 +6708,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/dynamite-headdy"
   },
   {
+    "gameId": "sega-game-gear-00173",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Earthworm Jim",
@@ -6574,6 +6747,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/earthworm-jim"
   },
   {
+    "gameId": "sega-game-gear-00174",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Ecco II - The Tides of Time",
@@ -6612,6 +6786,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/ecco-ii-the-tides-of-time"
   },
   {
+    "gameId": "sega-game-gear-00175",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Ecco the Dolphin",
@@ -6650,6 +6825,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/ecco-the-dolphin"
   },
   {
+    "gameId": "sega-game-gear-00176",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Evander Holyfield Boxing",
@@ -6688,6 +6864,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/evander-holyfield-boxing"
   },
   {
+    "gameId": "sega-game-gear-00177",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Excellent Dizzy Collection, The",
@@ -6726,6 +6903,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/excellent-dizzy-collection-the"
   },
   {
+    "gameId": "sega-game-gear-00178",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "F-15 Strike Eagle",
@@ -6764,6 +6942,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/f-15-strike-eagle"
   },
   {
+    "gameId": "sega-game-gear-00179",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "FIFA Soccer 96",
@@ -6802,6 +6981,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/fifa-soccer-96"
   },
   {
+    "gameId": "sega-game-gear-00180",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Factory Panic",
@@ -6840,6 +7020,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/factory-panic"
   },
   {
+    "gameId": "sega-game-gear-00181",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Fantastic Dizzy",
@@ -6878,6 +7059,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/fantastic-dizzy"
   },
   {
+    "gameId": "sega-game-gear-00182",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Fantasy Zone",
@@ -6916,6 +7098,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/fantasy-zone"
   },
   {
+    "gameId": "sega-game-gear-00183",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Foreman for Real",
@@ -6954,6 +7137,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/foreman-for-real"
   },
   {
+    "gameId": "sega-game-gear-00184",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Frank Thomas Big Hurt Baseball",
@@ -6992,6 +7176,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/frank-thomas-big-hurt-baseball"
   },
   {
+    "gameId": "sega-game-gear-00185",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Fred Couples' Golf",
@@ -7030,6 +7215,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/fred-couples-golf"
   },
   {
+    "gameId": "sega-game-gear-00186",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "GG Aleste",
@@ -7068,6 +7254,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/gg-aleste"
   },
   {
+    "gameId": "sega-game-gear-00187",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Galaga 2",
@@ -7106,6 +7293,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/galaga-2"
   },
   {
+    "gameId": "sega-game-gear-00188",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Gamble Panic",
@@ -7144,6 +7332,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/gamble-panic"
   },
   {
+    "gameId": "sega-game-gear-00189",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Ganbare Gorby!",
@@ -7182,6 +7371,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/ganbare-gorby"
   },
   {
+    "gameId": "sega-game-gear-00190",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Garfield - Caught in the Act",
@@ -7220,6 +7410,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/garfield-caught-in-the-act"
   },
   {
+    "gameId": "sega-game-gear-00191",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Gear Works",
@@ -7258,6 +7449,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/gear-works"
   },
   {
+    "gameId": "sega-game-gear-00192",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "George Foreman's KO Boxing",
@@ -7296,6 +7488,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/george-foremans-ko-boxing"
   },
   {
+    "gameId": "sega-game-gear-00193",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Greendog",
@@ -7334,6 +7527,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/greendog"
   },
   {
+    "gameId": "sega-game-gear-00194",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Griffin",
@@ -7372,6 +7566,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/griffin"
   },
   {
+    "gameId": "sega-game-gear-00195",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Gunstar Heroes",
@@ -7410,6 +7605,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/gunstar-heroes"
   },
   {
+    "gameId": "sega-game-gear-00196",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Halley Wars",
@@ -7448,6 +7644,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/halley-wars"
   },
   {
+    "gameId": "sega-game-gear-00197",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Home Alone",
@@ -7486,6 +7683,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/home-alone"
   },
   {
+    "gameId": "sega-game-gear-00198",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Hook",
@@ -7524,6 +7722,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/hook"
   },
   {
+    "gameId": "sega-game-gear-00199",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Hurricanes",
@@ -7562,6 +7761,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/hurricanes"
   },
   {
+    "gameId": "sega-game-gear-00200",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Incredible Crash Dummies, The",
@@ -7600,6 +7800,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/incredible-crash-dummies-the"
   },
   {
+    "gameId": "sega-game-gear-00201",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Incredible Hulk, The",
@@ -7638,6 +7839,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/incredible-hulk-the"
   },
   {
+    "gameId": "sega-game-gear-00202",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Indiana Jones and the Last Crusade",
@@ -7676,6 +7878,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/indiana-jones-and-the-last-crusade"
   },
   {
+    "gameId": "sega-game-gear-00203",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Iron Man X-O Manowar in Heavy Metal",
@@ -7714,6 +7917,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/iron-man-x-o-manowar-in-heavy-metal"
   },
   {
+    "gameId": "sega-game-gear-00204",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Itchy & Scratchy Game, The",
@@ -7752,6 +7956,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/itchy-and-scratchy-game-the"
   },
   {
+    "gameId": "sega-game-gear-00205",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "James Bond 007 - The Duel",
@@ -7790,6 +7995,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/james-bond-007-the-duel"
   },
   {
+    "gameId": "sega-game-gear-00206",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "James Pond 3 - Operation Starfi5h",
@@ -7828,6 +8034,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/james-pond-3-operation-starfi5h"
   },
   {
+    "gameId": "sega-game-gear-00207",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "James Pond II - Codename RoboCod",
@@ -7866,6 +8073,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/james-pond-ii-codename-robocod"
   },
   {
+    "gameId": "sega-game-gear-00208",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Journey from Darkness - Strider Returns",
@@ -7904,6 +8112,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/journey-from-darkness-strider-returns"
   },
   {
+    "gameId": "sega-game-gear-00209",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Judge Dredd",
@@ -7942,6 +8151,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/judge-dredd"
   },
   {
+    "gameId": "sega-game-gear-00210",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Junction",
@@ -7980,6 +8190,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/junction"
   },
   {
+    "gameId": "sega-game-gear-00211",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Jungle Book, The",
@@ -8018,6 +8229,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/jungle-book-the"
   },
   {
+    "gameId": "sega-game-gear-00212",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Jungle Strike",
@@ -8056,6 +8268,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/jungle-strike"
   },
   {
+    "gameId": "sega-game-gear-00213",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Jurassic Park",
@@ -8094,6 +8307,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/jurassic-park"
   },
   {
+    "gameId": "sega-game-gear-00214",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Kaitou Saint Tail",
@@ -8132,6 +8346,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/kaitou-saint-tail"
   },
   {
+    "gameId": "sega-game-gear-00215",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Kawasaki Superbike Challenge",
@@ -8170,6 +8385,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/kawasaki-superbike-challenge"
   },
   {
+    "gameId": "sega-game-gear-00216",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Kenyuu Densetsu Yaiba",
@@ -8208,6 +8424,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/kenyuu-densetsu-yaiba"
   },
   {
+    "gameId": "sega-game-gear-00217",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Kinetic Connection",
@@ -8246,6 +8463,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/kinetic-connection"
   },
   {
+    "gameId": "sega-game-gear-00218",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Kishin Douji Zenki",
@@ -8284,6 +8502,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/kishin-douji-zenki"
   },
   {
+    "gameId": "sega-game-gear-00219",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Klax",
@@ -8322,6 +8541,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/klax"
   },
   {
+    "gameId": "sega-game-gear-00220",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Krusty's Fun House",
@@ -8360,6 +8580,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/krustys-fun-house"
   },
   {
+    "gameId": "sega-game-gear-00221",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Land of Illusion Starring Mickey Mouse",
@@ -8398,6 +8619,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/land-of-illusion-starring-mickey-mouse"
   },
   {
+    "gameId": "sega-game-gear-00222",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Last Action Hero",
@@ -8436,6 +8658,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/last-action-hero"
   },
   {
+    "gameId": "sega-game-gear-00223",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Legend of Illusion Starring Mickey Mouse",
@@ -8474,6 +8697,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/legend-of-illusion-starring-mickey-mouse"
   },
   {
+    "gameId": "sega-game-gear-00224",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Lemmings 2 - The Tribes",
@@ -8512,6 +8736,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/lemmings-2-the-tribes"
   },
   {
+    "gameId": "sega-game-gear-00225",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Lion King, The",
@@ -8550,6 +8775,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/lion-king-the"
   },
   {
+    "gameId": "sega-game-gear-00226",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Lost World, The - Jurassic Park",
@@ -8588,6 +8814,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/lost-world-the-jurassic-park"
   },
   {
+    "gameId": "sega-game-gear-00227",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Lucky Dime Caper, The",
@@ -8626,6 +8853,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/lucky-dime-caper-the"
   },
   {
+    "gameId": "sega-game-gear-00228",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Lunar - Sanposuru Gakuen",
@@ -8664,6 +8892,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/lunar-sanposuru-gakuen"
   },
   {
+    "gameId": "sega-game-gear-00229",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "MLBPA Baseball",
@@ -8702,6 +8931,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/mlbpa-baseball"
   },
   {
+    "gameId": "sega-game-gear-00230",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Madden NFL '95",
@@ -8740,6 +8970,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/madden-nfl-95"
   },
   {
+    "gameId": "sega-game-gear-00231",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Madden NFL '96",
@@ -8778,6 +9009,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/madden-nfl-96"
   },
   {
+    "gameId": "sega-game-gear-00232",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Madou Monogatari I - 3-Tsu no Madoukyuu",
@@ -8816,6 +9048,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/madou-monogatari-i-3-tsu-no-madoukyuu"
   },
   {
+    "gameId": "sega-game-gear-00233",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Magical Puzzle Popils",
@@ -8854,6 +9087,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/magical-puzzle-popils"
   },
   {
+    "gameId": "sega-game-gear-00234",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Magical Taruruuto-kun",
@@ -8892,6 +9126,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/magical-taruruuto-kun"
   },
   {
+    "gameId": "sega-game-gear-00235",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Marble Madness",
@@ -8930,6 +9165,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/marble-madness"
   },
   {
+    "gameId": "sega-game-gear-00236",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Marko's Magic Football",
@@ -8968,6 +9204,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/markos-magic-football"
   },
   {
+    "gameId": "sega-game-gear-00237",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Mega Man",
@@ -9006,6 +9243,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/mega-man"
   },
   {
+    "gameId": "sega-game-gear-00238",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Mick & Mack as the Global Gladiators",
@@ -9044,6 +9282,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/mick-and-mack-as-the-global-gladiators"
   },
   {
+    "gameId": "sega-game-gear-00239",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Mickey's Ultimate Challenge",
@@ -9082,6 +9321,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/mickeys-ultimate-challenge"
   },
   {
+    "gameId": "sega-game-gear-00240",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Monster Truck Wars",
@@ -9120,6 +9360,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/monster-truck-wars"
   },
   {
+    "gameId": "sega-game-gear-00241",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "NBA Jam",
@@ -9158,6 +9399,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/nba-jam"
   },
   {
+    "gameId": "sega-game-gear-00242",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "NFL Quarterback Club",
@@ -9196,6 +9438,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/nfl-quarterback-club"
   },
   {
+    "gameId": "sega-game-gear-00243",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "NFL Quarterback Club '96",
@@ -9234,6 +9477,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/nfl-quarterback-club-96"
   },
   {
+    "gameId": "sega-game-gear-00244",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "NHL All-Star Hockey",
@@ -9272,6 +9516,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/nhl-all-star-hockey"
   },
   {
+    "gameId": "sega-game-gear-00245",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "NHL Hockey",
@@ -9310,6 +9555,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/nhl-hockey"
   },
   {
+    "gameId": "sega-game-gear-00246",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Ninja Gaiden",
@@ -9348,6 +9594,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/ninja-gaiden"
   },
   {
+    "gameId": "sega-game-gear-00247",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Ottifants, The",
@@ -9386,6 +9633,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/ottifants-the"
   },
   {
+    "gameId": "sega-game-gear-00248",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Out Run Europa",
@@ -9424,6 +9672,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/out-run-europa"
   },
   {
+    "gameId": "sega-game-gear-00249",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Pac-In-Time",
@@ -9462,6 +9711,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/pac-in-time"
   },
   {
+    "gameId": "sega-game-gear-00250",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Panzer Dragoon Mini",
@@ -9500,6 +9750,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/panzer-dragoon-mini"
   },
   {
+    "gameId": "sega-game-gear-00251",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Paperboy",
@@ -9538,6 +9789,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/paperboy"
   },
   {
+    "gameId": "sega-game-gear-00252",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Paperboy II",
@@ -9576,6 +9828,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/paperboy-ii"
   },
   {
+    "gameId": "sega-game-gear-00253",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Pengo",
@@ -9614,6 +9867,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/pengo"
   },
   {
+    "gameId": "sega-game-gear-00254",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Phantasy Star Adventure",
@@ -9652,6 +9906,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/phantasy-star-adventure"
   },
   {
+    "gameId": "sega-game-gear-00255",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Phantasy Star Gaiden",
@@ -9690,6 +9945,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/phantasy-star-gaiden"
   },
   {
+    "gameId": "sega-game-gear-00256",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Phantom 2040",
@@ -9728,6 +9984,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/phantom-2040"
   },
   {
+    "gameId": "sega-game-gear-00257",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Power Strike II",
@@ -9766,6 +10023,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/power-strike-ii"
   },
   {
+    "gameId": "sega-game-gear-00258",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Predator 2",
@@ -9804,6 +10062,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/predator-2"
   },
   {
+    "gameId": "sega-game-gear-00259",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Prince of Persia",
@@ -9842,6 +10101,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/prince-of-persia"
   },
   {
+    "gameId": "sega-game-gear-00260",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Psychic World",
@@ -9880,6 +10140,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/psychic-world"
   },
   {
+    "gameId": "sega-game-gear-00261",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Quest for the Shaven Yak Starring Ren Hoek & Stimpy",
@@ -9918,6 +10179,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/quest-for-the-shaven-yak-starring-ren-hoek-and-stimpy"
   },
   {
+    "gameId": "sega-game-gear-00262",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Rastan Saga",
@@ -9956,6 +10218,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/rastan-saga"
   },
   {
+    "gameId": "sega-game-gear-00263",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Revenge of Drancon",
@@ -9994,6 +10257,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/revenge-of-drancon"
   },
   {
+    "gameId": "sega-game-gear-00264",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Ristar - The Shooting Star",
@@ -10032,6 +10296,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/ristar-the-shooting-star"
   },
   {
+    "gameId": "sega-game-gear-00265",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "RoboCop 3",
@@ -10070,6 +10335,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/robocop-3"
   },
   {
+    "gameId": "sega-game-gear-00266",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "RoboCop versus The Terminator",
@@ -10108,6 +10374,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/robocop-versus-the-terminator"
   },
   {
+    "gameId": "sega-game-gear-00267",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Royal Stone - Hirakareshi Toki no Tobira",
@@ -10146,6 +10413,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/royal-stone-hirakareshi-toki-no-tobira"
   },
   {
+    "gameId": "sega-game-gear-00268",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Samurai Shodown",
@@ -10184,6 +10452,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/samurai-shodown"
   },
   {
+    "gameId": "sega-game-gear-00269",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Sega Game Pack 4 in 1",
@@ -10222,6 +10491,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/sega-game-pack-4-in-1"
   },
   {
+    "gameId": "sega-game-gear-00270",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Sensible Soccer - European Champions",
@@ -10260,6 +10530,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/sensible-soccer-european-champions"
   },
   {
+    "gameId": "sega-game-gear-00271",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Shikinjou",
@@ -10298,6 +10569,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/shikinjou"
   },
   {
+    "gameId": "sega-game-gear-00272",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Shining Force Gaiden - Final Conflict",
@@ -10336,6 +10608,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/shining-force-gaiden-final-conflict"
   },
   {
+    "gameId": "sega-game-gear-00273",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Shining Force II - The Sword of Hajya",
@@ -10374,6 +10647,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/shining-force-ii-the-sword-of-hajya"
   },
   {
+    "gameId": "sega-game-gear-00274",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Shinobi",
@@ -10412,6 +10686,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/shinobi"
   },
   {
+    "gameId": "sega-game-gear-00275",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Shinobi II - The Silent Fury",
@@ -10450,6 +10725,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/shinobi-ii-the-silent-fury"
   },
   {
+    "gameId": "sega-game-gear-00276",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Simpsons, The - Bart vs. The Space Mutants",
@@ -10488,6 +10764,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/simpsons-the-bart-vs-the-space-mutants"
   },
   {
+    "gameId": "sega-game-gear-00277",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Simpsons, The - Bart vs. The World",
@@ -10526,6 +10803,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/simpsons-the-bart-vs-the-world"
   },
   {
+    "gameId": "sega-game-gear-00278",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Slider",
@@ -10564,6 +10842,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/slider"
   },
   {
+    "gameId": "sega-game-gear-00279",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Smurfs Travel the World, The",
@@ -10602,6 +10881,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/smurfs-travel-the-world-the"
   },
   {
+    "gameId": "sega-game-gear-00280",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Smurfs, The",
@@ -10640,6 +10920,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/smurfs-the"
   },
   {
+    "gameId": "sega-game-gear-00281",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Solitaire Funpak",
@@ -10678,6 +10959,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/solitaire-funpak"
   },
   {
+    "gameId": "sega-game-gear-00282",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Sonic Blast",
@@ -10716,6 +10998,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/sonic-blast"
   },
   {
+    "gameId": "sega-game-gear-00283",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Sonic Chaos",
@@ -10754,6 +11037,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/sonic-chaos"
   },
   {
+    "gameId": "sega-game-gear-00284",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Sonic Labyrinth",
@@ -10792,6 +11076,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/sonic-labyrinth"
   },
   {
+    "gameId": "sega-game-gear-00285",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Sonic Spinball",
@@ -10830,6 +11115,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/sonic-spinball"
   },
   {
+    "gameId": "sega-game-gear-00286",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Sonic The Hedgehog",
@@ -10868,6 +11154,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/sonic-the-hedgehog"
   },
   {
+    "gameId": "sega-game-gear-00287",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Sonic The Hedgehog - Triple Trouble",
@@ -10906,6 +11193,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/sonic-the-hedgehog-triple-trouble"
   },
   {
+    "gameId": "sega-game-gear-00288",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Sonic The Hedgehog 2",
@@ -10944,6 +11232,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/sonic-the-hedgehog-2"
   },
   {
+    "gameId": "sega-game-gear-00289",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Soukoban",
@@ -10982,6 +11271,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/soukoban"
   },
   {
+    "gameId": "sega-game-gear-00290",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Space Harrier",
@@ -11020,6 +11310,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/space-harrier"
   },
   {
+    "gameId": "sega-game-gear-00291",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Spider-Man - Return of the Sinister Six",
@@ -11058,6 +11349,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/spider-man-return-of-the-sinister-six"
   },
   {
+    "gameId": "sega-game-gear-00292",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Spider-Man and the X-Men in Arcade's Revenge",
@@ -11096,6 +11388,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/spider-man-and-the-x-men-in-arcades-revenge"
   },
   {
+    "gameId": "sega-game-gear-00293",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Spider-Man vs. The Kingpin",
@@ -11134,6 +11427,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/spider-man-vs-the-kingpin"
   },
   {
+    "gameId": "sega-game-gear-00294",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Spirou",
@@ -11172,6 +11466,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/spirou"
   },
   {
+    "gameId": "sega-game-gear-00295",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Sports Illustrated Championship Football & Baseball",
@@ -11210,6 +11505,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/sports-illustrated-championship-football-and-baseball"
   },
   {
+    "gameId": "sega-game-gear-00296",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Star Trek - The Next Generation - The Advanced Holodeck Tutorial",
@@ -11248,6 +11544,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/star-trek-the-next-generation-the-advanced-holodeck-tutorial"
   },
   {
+    "gameId": "sega-game-gear-00297",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Star Trek Generations - Beyond the Nexus",
@@ -11286,6 +11583,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/star-trek-generations-beyond-the-nexus"
   },
   {
+    "gameId": "sega-game-gear-00298",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Star Wars",
@@ -11324,6 +11622,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/star-wars"
   },
   {
+    "gameId": "sega-game-gear-00299",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Street Hero",
@@ -11362,6 +11661,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/street-hero"
   },
   {
+    "gameId": "sega-game-gear-00300",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Super Battletank",
@@ -11400,6 +11700,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/super-battletank"
   },
   {
+    "gameId": "sega-game-gear-00301",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Super Columns",
@@ -11438,6 +11739,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/super-columns"
   },
   {
+    "gameId": "sega-game-gear-00302",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Super Kick Off",
@@ -11476,6 +11778,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/super-kick-off"
   },
   {
+    "gameId": "sega-game-gear-00303",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Super Return of the Jedi",
@@ -11514,6 +11817,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/super-return-of-the-jedi"
   },
   {
+    "gameId": "sega-game-gear-00304",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Super Smash T.V.",
@@ -11552,6 +11856,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/super-smash-t-v"
   },
   {
+    "gameId": "sega-game-gear-00305",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Superman - The Man of Steel",
@@ -11590,6 +11895,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/superman-the-man-of-steel"
   },
   {
+    "gameId": "sega-game-gear-00306",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Surf Ninjas",
@@ -11628,6 +11934,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/surf-ninjas"
   },
   {
+    "gameId": "sega-game-gear-00307",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Sylvan Tale",
@@ -11666,6 +11973,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/sylvan-tale"
   },
   {
+    "gameId": "sega-game-gear-00308",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "T2 - The Arcade Game",
@@ -11704,6 +12012,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/t2-the-arcade-game"
   },
   {
+    "gameId": "sega-game-gear-00309",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Tails Adventures",
@@ -11742,6 +12051,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/tails-adventures"
   },
   {
+    "gameId": "sega-game-gear-00310",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Tails no Sky Patrol",
@@ -11780,6 +12090,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/tails-no-sky-patrol"
   },
   {
+    "gameId": "sega-game-gear-00311",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Tale Spin",
@@ -11818,6 +12129,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/tale-spin"
   },
   {
+    "gameId": "sega-game-gear-00312",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Tarzan - Lord of the Jungle",
@@ -11856,6 +12168,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/tarzan-lord-of-the-jungle"
   },
   {
+    "gameId": "sega-game-gear-00313",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Taz in Escape from Mars",
@@ -11894,6 +12207,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/taz-in-escape-from-mars"
   },
   {
+    "gameId": "sega-game-gear-00314",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Taz-Mania - The Search for the Lost Seabirds",
@@ -11932,6 +12246,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/taz-mania-the-search-for-the-lost-seabirds"
   },
   {
+    "gameId": "sega-game-gear-00315",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Tempo Jr.",
@@ -11970,6 +12285,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/tempo-jr"
   },
   {
+    "gameId": "sega-game-gear-00316",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Terminator 2 - Judgment Day",
@@ -12008,6 +12324,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/terminator-2-judgment-day"
   },
   {
+    "gameId": "sega-game-gear-00317",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Terminator, The",
@@ -12046,6 +12363,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/terminator-the"
   },
   {
+    "gameId": "sega-game-gear-00318",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Tesserae",
@@ -12084,6 +12402,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/tesserae"
   },
   {
+    "gameId": "sega-game-gear-00319",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Tintin in Tibet",
@@ -12122,6 +12441,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/tintin-in-tibet"
   },
   {
+    "gameId": "sega-game-gear-00320",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Tom and Jerry - The Movie",
@@ -12160,6 +12480,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/tom-and-jerry-the-movie"
   },
   {
+    "gameId": "sega-game-gear-00321",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "True Lies",
@@ -12198,6 +12519,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/true-lies"
   },
   {
+    "gameId": "sega-game-gear-00322",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Urban Strike",
@@ -12236,6 +12558,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/urban-strike"
   },
   {
+    "gameId": "sega-game-gear-00323",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "VR Troopers",
@@ -12274,6 +12597,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/vr-troopers"
   },
   {
+    "gameId": "sega-game-gear-00324",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Vampire - Master of Darkness",
@@ -12312,6 +12636,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/vampire-master-of-darkness"
   },
   {
+    "gameId": "sega-game-gear-00325",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Wagan Land",
@@ -12350,6 +12675,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/wagan-land"
   },
   {
+    "gameId": "sega-game-gear-00326",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Wild Snake",
@@ -12388,6 +12714,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/wild-snake"
   },
   {
+    "gameId": "sega-game-gear-00327",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Wonder Boy - The Dragon's Trap",
@@ -12426,6 +12753,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/wonder-boy-the-dragons-trap"
   },
   {
+    "gameId": "sega-game-gear-00328",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Woody Pop",
@@ -12464,6 +12792,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/woody-pop"
   },
   {
+    "gameId": "sega-game-gear-00329",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "X-Men",
@@ -12502,6 +12831,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/x-men"
   },
   {
+    "gameId": "sega-game-gear-00330",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "X-Men - Gamemaster's Legacy",
@@ -12540,6 +12870,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/x-men-gamemasters-legacy"
   },
   {
+    "gameId": "sega-game-gear-00331",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "X-Men - Mojo World",
@@ -12578,6 +12909,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/x-men-mojo-world"
   },
   {
+    "gameId": "sega-game-gear-00332",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Yogi Bear in Yogi Bear's Goldrush",
@@ -12616,6 +12948,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/yogi-bear-in-yogi-bears-goldrush"
   },
   {
+    "gameId": "sega-game-gear-00333",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Yu Yu Hakusho - Horobishimono no Gyakushuu",
@@ -12654,6 +12987,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/yu-yu-hakusho-horobishimono-no-gyakushuu"
   },
   {
+    "gameId": "sega-game-gear-00334",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Zool - Ninja of the Nth Dimension",
@@ -12692,6 +13026,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/sega-game-gear/artwork-title-screen/zool-ninja-of-the-nth-dimension"
   },
   {
+    "gameId": "sega-game-gear-00335",
     "datasetId": "sega-game-gear",
     "console": "Sega Game Gear",
     "english_name": "Zoop",

@@ -1,5 +1,6 @@
 [
   {
+    "gameId": "nintendo-64-00001",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Mario Party",
@@ -38,6 +39,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/mario-party"
   },
   {
+    "gameId": "nintendo-64-00002",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Micro Machines 64 Turbo",
@@ -76,6 +78,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/micro-machines-64-turbo"
   },
   {
+    "gameId": "nintendo-64-00003",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Pokemon Stadium 2",
@@ -114,6 +117,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/pokemon-stadium-2"
   },
   {
+    "gameId": "nintendo-64-00004",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Super Smash Bros.",
@@ -152,6 +156,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/super-smash-bros"
   },
   {
+    "gameId": "nintendo-64-00005",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Mario Party 2",
@@ -190,6 +195,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/mario-party-2"
   },
   {
+    "gameId": "nintendo-64-00006",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Mario Party 3",
@@ -228,6 +234,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/mario-party-3"
   },
   {
+    "gameId": "nintendo-64-00007",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "South Park - Chef's Luv Shack",
@@ -266,6 +273,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/south-park-chefs-luv-shack"
   },
   {
+    "gameId": "nintendo-64-00008",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Automobili Lamborghini",
@@ -304,6 +312,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/automobili-lamborghini"
   },
   {
+    "gameId": "nintendo-64-00009",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Beetle Adventure Racing!",
@@ -342,6 +351,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/beetle-adventure-racing"
   },
   {
+    "gameId": "nintendo-64-00010",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "California Speed",
@@ -380,6 +390,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/california-speed"
   },
   {
+    "gameId": "nintendo-64-00011",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Cruis'n World",
@@ -418,6 +429,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/cruisn-world"
   },
   {
+    "gameId": "nintendo-64-00012",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Destruction Derby 64",
@@ -456,6 +468,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/destruction-derby-64"
   },
   {
+    "gameId": "nintendo-64-00013",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Extreme-G",
@@ -494,6 +507,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/extreme-g"
   },
   {
+    "gameId": "nintendo-64-00014",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Extreme-G XG2",
@@ -532,6 +546,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/extreme-g-xg2"
   },
   {
+    "gameId": "nintendo-64-00015",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "GT64 - Championship Edition",
@@ -570,6 +585,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/gt64-championship-edition"
   },
   {
+    "gameId": "nintendo-64-00016",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Hot Wheels - Turbo Racing",
@@ -608,6 +624,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/hot-wheels-turbo-racing"
   },
   {
+    "gameId": "nintendo-64-00017",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Iggy's Reckin' Balls",
@@ -646,6 +663,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/iggys-reckin-balls"
   },
   {
+    "gameId": "nintendo-64-00018",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Indy Racing 2000",
@@ -684,6 +702,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/indy-racing-2000"
   },
   {
+    "gameId": "nintendo-64-00019",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Jeremy McGrath Supercross 2000",
@@ -722,6 +741,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/jeremy-mcgrath-supercross-2000"
   },
   {
+    "gameId": "nintendo-64-00020",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "MRC - Multi Racing Championship",
@@ -760,6 +780,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/mrc-multi-racing-championship"
   },
   {
+    "gameId": "nintendo-64-00021",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Mickey's Speedway USA",
@@ -798,6 +819,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/mickeys-speedway-usa"
   },
   {
+    "gameId": "nintendo-64-00022",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Monaco Grand Prix",
@@ -836,6 +858,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/monaco-grand-prix"
   },
   {
+    "gameId": "nintendo-64-00023",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Monster Truck Madness 64",
@@ -874,6 +897,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/monster-truck-madness-64"
   },
   {
+    "gameId": "nintendo-64-00024",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "NASCAR 2000",
@@ -912,6 +936,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/nascar-2000"
   },
   {
+    "gameId": "nintendo-64-00025",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "NASCAR 99",
@@ -950,6 +975,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/nascar-99"
   },
   {
+    "gameId": "nintendo-64-00026",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Off Road Challenge",
@@ -988,6 +1014,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/off-road-challenge"
   },
   {
+    "gameId": "nintendo-64-00027",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Penny Racers",
@@ -1026,6 +1053,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/penny-racers"
   },
   {
+    "gameId": "nintendo-64-00028",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Polaris SnoCross",
@@ -1064,6 +1092,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/polaris-snocross"
   },
   {
+    "gameId": "nintendo-64-00029",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "RR64 - Ridge Racer 64",
@@ -1102,6 +1131,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/rr64-ridge-racer-64"
   },
   {
+    "gameId": "nintendo-64-00030",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Rally Challenge 2000",
@@ -1140,6 +1170,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/rally-challenge-2000"
   },
   {
+    "gameId": "nintendo-64-00031",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Re-Volt",
@@ -1178,6 +1209,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/re-volt"
   },
   {
+    "gameId": "nintendo-64-00032",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Roadsters Trophy",
@@ -1216,6 +1248,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/roadsters-trophy"
   },
   {
+    "gameId": "nintendo-64-00033",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "S.C.A.R.S.",
@@ -1254,6 +1287,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/s-c-a-r-s"
   },
   {
+    "gameId": "nintendo-64-00034",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "San Francisco Rush 2049",
@@ -1292,6 +1326,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/san-francisco-rush-2049"
   },
   {
+    "gameId": "nintendo-64-00035",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Snowboard Kids",
@@ -1330,6 +1365,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/snowboard-kids"
   },
   {
+    "gameId": "nintendo-64-00036",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Stunt Racer 64",
@@ -1368,6 +1404,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/stunt-racer-64"
   },
   {
+    "gameId": "nintendo-64-00037",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Supercross 2000",
@@ -1406,6 +1443,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/supercross-2000"
   },
   {
+    "gameId": "nintendo-64-00038",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Tony Hawk's Pro Skater 2",
@@ -1444,6 +1482,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/tony-hawks-pro-skater-2"
   },
   {
+    "gameId": "nintendo-64-00039",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Top Gear Hyper-Bike",
@@ -1482,6 +1521,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/top-gear-hyper-bike"
   },
   {
+    "gameId": "nintendo-64-00040",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Top Gear Overdrive",
@@ -1520,6 +1560,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/top-gear-overdrive"
   },
   {
+    "gameId": "nintendo-64-00041",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Top Gear Rally",
@@ -1558,6 +1599,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/top-gear-rally"
   },
   {
+    "gameId": "nintendo-64-00042",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Top Gear Rally 2",
@@ -1596,6 +1638,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/top-gear-rally-2"
   },
   {
+    "gameId": "nintendo-64-00043",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Twisted Edge - Extreme Snowboarding",
@@ -1634,6 +1677,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/twisted-edge-extreme-snowboarding"
   },
   {
+    "gameId": "nintendo-64-00044",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "V-Rally Edition 99",
@@ -1672,6 +1716,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/v-rally-edition-99"
   },
   {
+    "gameId": "nintendo-64-00045",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Vigilante 8",
@@ -1710,6 +1755,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/vigilante-8"
   },
   {
+    "gameId": "nintendo-64-00046",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Wipeout 64",
@@ -1748,6 +1794,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/wipeout-64"
   },
   {
+    "gameId": "nintendo-64-00047",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "World Driver Championship",
@@ -1786,6 +1833,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/world-driver-championship"
   },
   {
+    "gameId": "nintendo-64-00048",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Bomberman 64 - The Second Attack!",
@@ -1824,6 +1872,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/bomberman-64-the-second-attack"
   },
   {
+    "gameId": "nintendo-64-00049",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "South Park Rally",
@@ -1862,6 +1911,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/south-park-rally"
   },
   {
+    "gameId": "nintendo-64-00050",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Bust-A-Move '99",
@@ -1900,6 +1950,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/bust-a-move-99"
   },
   {
+    "gameId": "nintendo-64-00051",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Hydro Thunder",
@@ -1938,6 +1989,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/hydro-thunder"
   },
   {
+    "gameId": "nintendo-64-00052",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "International Track & Field 2000",
@@ -1976,6 +2028,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/international-track-and-field-2000"
   },
   {
+    "gameId": "nintendo-64-00053",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Mario Kart 64",
@@ -2014,6 +2067,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/mario-kart-64"
   },
   {
+    "gameId": "nintendo-64-00054",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Nagano Winter Olympics '98",
@@ -2052,6 +2106,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/nagano-winter-olympics-98"
   },
   {
+    "gameId": "nintendo-64-00055",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Snowboard Kids 2",
@@ -2090,6 +2145,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/snowboard-kids-2"
   },
   {
+    "gameId": "nintendo-64-00056",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Diddy Kong Racing",
@@ -2128,6 +2184,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/diddy-kong-racing"
   },
   {
+    "gameId": "nintendo-64-00057",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Excitebike 64",
@@ -2166,6 +2223,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/excitebike-64"
   },
   {
+    "gameId": "nintendo-64-00058",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "All Star Tennis '99",
@@ -2204,6 +2262,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/all-star-tennis-99"
   },
   {
+    "gameId": "nintendo-64-00059",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Centre Court Tennis",
@@ -2242,6 +2301,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/centre-court-tennis"
   },
   {
+    "gameId": "nintendo-64-00060",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Dr. Mario 64",
@@ -2280,6 +2340,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/dr-mario-64"
   },
   {
+    "gameId": "nintendo-64-00061",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Magical Tetris Challenge",
@@ -2318,6 +2379,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/magical-tetris-challenge"
   },
   {
+    "gameId": "nintendo-64-00062",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Star Fox 64",
@@ -2356,6 +2418,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/star-fox-64"
   },
   {
+    "gameId": "nintendo-64-00063",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Tetrisphere",
@@ -2394,6 +2457,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/tetrisphere"
   },
   {
+    "gameId": "nintendo-64-00064",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "007 - The World Is Not Enough",
@@ -2432,6 +2496,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/007-the-world-is-not-enough"
   },
   {
+    "gameId": "nintendo-64-00065",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "AeroFighters Assault",
@@ -2470,6 +2535,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/aerofighters-assault"
   },
   {
+    "gameId": "nintendo-64-00066",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Armorines - Project S.W.A.R.M.",
@@ -2508,6 +2574,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/armorines-project-s-w-a-r-m"
   },
   {
+    "gameId": "nintendo-64-00067",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Army Men - Sarge's Heroes",
@@ -2546,6 +2613,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/army-men-sarges-heroes"
   },
   {
+    "gameId": "nintendo-64-00068",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Army Men - Sarge's Heroes 2",
@@ -2584,6 +2652,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/army-men-sarges-heroes-2"
   },
   {
+    "gameId": "nintendo-64-00069",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Flying Dragon",
@@ -2622,6 +2691,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/flying-dragon"
   },
   {
+    "gameId": "nintendo-64-00070",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Forsaken 64",
@@ -2660,6 +2730,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/forsaken-64"
   },
   {
+    "gameId": "nintendo-64-00071",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Jet Force Gemini",
@@ -2698,6 +2769,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/jet-force-gemini"
   },
   {
+    "gameId": "nintendo-64-00072",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Knife Edge - Nose Gunner",
@@ -2736,6 +2808,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/knife-edge-nose-gunner"
   },
   {
+    "gameId": "nintendo-64-00073",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Wheel of Fortune",
@@ -2774,6 +2847,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/wheel-of-fortune"
   },
   {
+    "gameId": "nintendo-64-00074",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "WinBack - Covert Operations",
@@ -2812,6 +2886,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/winback-covert-operations"
   },
   {
+    "gameId": "nintendo-64-00075",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "1080 Snowboarding",
@@ -2850,6 +2925,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/1080-snowboarding"
   },
   {
+    "gameId": "nintendo-64-00076",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "AeroGauge",
@@ -2888,6 +2964,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/aerogauge"
   },
   {
+    "gameId": "nintendo-64-00077",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Big Mountain 2000",
@@ -2926,6 +3003,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/big-mountain-2000"
   },
   {
+    "gameId": "nintendo-64-00078",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Cruis'n Exotica",
@@ -2964,6 +3042,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/cruisn-exotica"
   },
   {
+    "gameId": "nintendo-64-00079",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Cruis'n USA",
@@ -3002,6 +3081,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/cruisn-usa"
   },
   {
+    "gameId": "nintendo-64-00080",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "F-1 World Grand Prix",
@@ -3040,6 +3120,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/f-1-world-grand-prix"
   },
   {
+    "gameId": "nintendo-64-00081",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "F-1 World Grand Prix II",
@@ -3078,6 +3159,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/f-1-world-grand-prix-ii"
   },
   {
+    "gameId": "nintendo-64-00082",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "F1 Racing Championship",
@@ -3116,6 +3198,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/f1-racing-championship"
   },
   {
+    "gameId": "nintendo-64-00083",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "LEGO Racers",
@@ -3154,6 +3237,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/lego-racers"
   },
   {
+    "gameId": "nintendo-64-00084",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "NFL Blitz",
@@ -3192,6 +3276,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/nfl-blitz"
   },
   {
+    "gameId": "nintendo-64-00085",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Road Rash 64",
@@ -3230,6 +3315,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/road-rash-64"
   },
   {
+    "gameId": "nintendo-64-00086",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Rush 2 - Extreme Racing USA",
@@ -3268,6 +3354,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/rush-2-extreme-racing-usa"
   },
   {
+    "gameId": "nintendo-64-00087",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "San Francisco Rush - Extreme Racing",
@@ -3306,6 +3393,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/san-francisco-rush-extreme-racing"
   },
   {
+    "gameId": "nintendo-64-00088",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Star Wars Episode I - Racer",
@@ -3344,6 +3432,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/star-wars-episode-i-racer"
   },
   {
+    "gameId": "nintendo-64-00089",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Tony Hawk's Pro Skater",
@@ -3382,6 +3471,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/tony-hawks-pro-skater"
   },
   {
+    "gameId": "nintendo-64-00090",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Tony Hawk's Pro Skater 3",
@@ -3420,6 +3510,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/tony-hawks-pro-skater-3"
   },
   {
+    "gameId": "nintendo-64-00091",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Wave Race 64",
@@ -3458,6 +3549,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/wave-race-64"
   },
   {
+    "gameId": "nintendo-64-00092",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Duke Nukem - Zero Hour",
@@ -3496,6 +3588,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/duke-nukem-zero-hour"
   },
   {
+    "gameId": "nintendo-64-00093",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Duke Nukem 64",
@@ -3534,6 +3627,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/duke-nukem-64"
   },
   {
+    "gameId": "nintendo-64-00094",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Hexen",
@@ -3572,6 +3666,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/hexen"
   },
   {
+    "gameId": "nintendo-64-00095",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "John Romero's Daikatana",
@@ -3610,6 +3705,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/john-romeros-daikatana"
   },
   {
+    "gameId": "nintendo-64-00096",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Mario Tennis",
@@ -3648,6 +3744,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/mario-tennis"
   },
   {
+    "gameId": "nintendo-64-00097",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "NBA Showtime - NBA on NBC",
@@ -3686,6 +3783,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/nba-showtime-nba-on-nbc"
   },
   {
+    "gameId": "nintendo-64-00098",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Quake II",
@@ -3724,6 +3822,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/quake-ii"
   },
   {
+    "gameId": "nintendo-64-00099",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Rakuga Kids",
@@ -3762,6 +3861,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/rakuga-kids"
   },
   {
+    "gameId": "nintendo-64-00100",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Ready 2 Rumble Boxing",
@@ -3800,6 +3900,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/ready-2-rumble-boxing"
   },
   {
+    "gameId": "nintendo-64-00101",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Ready 2 Rumble Boxing - Round 2",
@@ -3838,6 +3939,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/ready-2-rumble-boxing-round-2"
   },
   {
+    "gameId": "nintendo-64-00102",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "South Park",
@@ -3876,6 +3978,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/south-park"
   },
   {
+    "gameId": "nintendo-64-00103",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Tom and Jerry in Fists of Furry",
@@ -3914,6 +4017,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/tom-and-jerry-in-fists-of-furry"
   },
   {
+    "gameId": "nintendo-64-00104",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Transformers - Beast Wars Transmetals",
@@ -3952,6 +4056,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/transformers-beast-wars-transmetals"
   },
   {
+    "gameId": "nintendo-64-00105",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Turok - Rage Wars",
@@ -3990,6 +4095,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/turok-rage-wars"
   },
   {
+    "gameId": "nintendo-64-00106",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Turok 3 - Shadow of Oblivion",
@@ -4028,6 +4134,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/turok-3-shadow-of-oblivion"
   },
   {
+    "gameId": "nintendo-64-00107",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Wayne Gretzky's 3D Hockey '98",
@@ -4066,6 +4173,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/wayne-gretzkys-3d-hockey-98"
   },
   {
+    "gameId": "nintendo-64-00108",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Wetrix",
@@ -4104,6 +4212,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/wetrix"
   },
   {
+    "gameId": "nintendo-64-00109",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Xena - Warrior Princess - The Talisman of Fate",
@@ -4142,6 +4251,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/xena-warrior-princess-the-talisman-of-fate"
   },
   {
+    "gameId": "nintendo-64-00110",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Carmageddon 64",
@@ -4180,6 +4290,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/carmageddon-64"
   },
   {
+    "gameId": "nintendo-64-00111",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Rat Attack!",
@@ -4218,6 +4329,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/rat-attack"
   },
   {
+    "gameId": "nintendo-64-00112",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "F-Zero X",
@@ -4256,6 +4368,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/f-zero-x"
   },
   {
+    "gameId": "nintendo-64-00113",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "FIFA - Road to World Cup 98",
@@ -4294,6 +4407,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/fifa-road-to-world-cup-98"
   },
   {
+    "gameId": "nintendo-64-00114",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "FIFA 99",
@@ -4332,6 +4446,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/fifa-99"
   },
   {
+    "gameId": "nintendo-64-00115",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "FIFA Soccer 64",
@@ -4370,6 +4485,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/fifa-soccer-64"
   },
   {
+    "gameId": "nintendo-64-00116",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Fox Sports College Hoops '99",
@@ -4408,6 +4524,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/fox-sports-college-hoops-99"
   },
   {
+    "gameId": "nintendo-64-00117",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "International Superstar Soccer '98",
@@ -4446,6 +4563,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/international-superstar-soccer-98"
   },
   {
+    "gameId": "nintendo-64-00118",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "International Superstar Soccer 2000",
@@ -4484,6 +4602,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/international-superstar-soccer-2000"
   },
   {
+    "gameId": "nintendo-64-00119",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "International Superstar Soccer 64",
@@ -4522,6 +4641,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/international-superstar-soccer-64"
   },
   {
+    "gameId": "nintendo-64-00120",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Kobe Bryant's NBA Courtside",
@@ -4560,6 +4680,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/kobe-bryants-nba-courtside"
   },
   {
+    "gameId": "nintendo-64-00121",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Madden Football 64",
@@ -4598,6 +4719,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/madden-football-64"
   },
   {
+    "gameId": "nintendo-64-00122",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Madden NFL 2000",
@@ -4636,6 +4758,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/madden-nfl-2000"
   },
   {
+    "gameId": "nintendo-64-00123",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Madden NFL 2001",
@@ -4674,6 +4797,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/madden-nfl-2001"
   },
   {
+    "gameId": "nintendo-64-00124",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Madden NFL 2002",
@@ -4712,6 +4836,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/madden-nfl-2002"
   },
   {
+    "gameId": "nintendo-64-00125",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Madden NFL 99",
@@ -4750,6 +4875,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/madden-nfl-99"
   },
   {
+    "gameId": "nintendo-64-00126",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Mia Hamm Soccer 64",
@@ -4788,6 +4914,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/mia-hamm-soccer-64"
   },
   {
+    "gameId": "nintendo-64-00127",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "NBA Courtside 2 featuring Kobe Bryant",
@@ -4826,6 +4953,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/nba-courtside-2-featuring-kobe-bryant"
   },
   {
+    "gameId": "nintendo-64-00128",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "NBA Hangtime",
@@ -4864,6 +4992,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/nba-hangtime"
   },
   {
+    "gameId": "nintendo-64-00129",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "NBA Jam 2000",
@@ -4902,6 +5031,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/nba-jam-2000"
   },
   {
+    "gameId": "nintendo-64-00130",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "NBA Jam 99",
@@ -4940,6 +5070,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/nba-jam-99"
   },
   {
+    "gameId": "nintendo-64-00131",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "NBA Live 2000",
@@ -4978,6 +5109,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/nba-live-2000"
   },
   {
+    "gameId": "nintendo-64-00132",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "NBA Live 99",
@@ -5016,6 +5148,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/nba-live-99"
   },
   {
+    "gameId": "nintendo-64-00133",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "NBA in the Zone '98",
@@ -5054,6 +5187,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/nba-in-the-zone-98"
   },
   {
+    "gameId": "nintendo-64-00134",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "NBA in the Zone '99",
@@ -5092,6 +5226,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/nba-in-the-zone-99"
   },
   {
+    "gameId": "nintendo-64-00135",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "NBA in the Zone 2000",
@@ -5130,6 +5265,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/nba-in-the-zone-2000"
   },
   {
+    "gameId": "nintendo-64-00136",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "NFL Blitz - Special Edition",
@@ -5168,6 +5304,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/nfl-blitz-special-edition"
   },
   {
+    "gameId": "nintendo-64-00137",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "NFL Blitz 2000",
@@ -5206,6 +5343,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/nfl-blitz-2000"
   },
   {
+    "gameId": "nintendo-64-00138",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "NFL Blitz 2001",
@@ -5244,6 +5382,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/nfl-blitz-2001"
   },
   {
+    "gameId": "nintendo-64-00139",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "NFL Quarterback Club 2000",
@@ -5282,6 +5421,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/nfl-quarterback-club-2000"
   },
   {
+    "gameId": "nintendo-64-00140",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "NFL Quarterback Club 2001",
@@ -5320,6 +5460,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/nfl-quarterback-club-2001"
   },
   {
+    "gameId": "nintendo-64-00141",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "NFL Quarterback Club 98",
@@ -5358,6 +5499,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/nfl-quarterback-club-98"
   },
   {
+    "gameId": "nintendo-64-00142",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "NFL Quarterback Club 99",
@@ -5396,6 +5538,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/nfl-quarterback-club-99"
   },
   {
+    "gameId": "nintendo-64-00143",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "NHL 99",
@@ -5434,6 +5577,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/nhl-99"
   },
   {
+    "gameId": "nintendo-64-00144",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "NHL Blades of Steel '99",
@@ -5472,6 +5616,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/nhl-blades-of-steel-99"
   },
   {
+    "gameId": "nintendo-64-00145",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "NHL Breakaway 98",
@@ -5510,6 +5655,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/nhl-breakaway-98"
   },
   {
+    "gameId": "nintendo-64-00146",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "NHL Breakaway 99",
@@ -5548,6 +5694,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/nhl-breakaway-99"
   },
   {
+    "gameId": "nintendo-64-00147",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "New Tetris, The",
@@ -5586,6 +5733,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/new-tetris-the"
   },
   {
+    "gameId": "nintendo-64-00148",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Olympic Hockey 98",
@@ -5624,6 +5772,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/olympic-hockey-98"
   },
   {
+    "gameId": "nintendo-64-00149",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "WCW Backstage Assault",
@@ -5662,6 +5811,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/wcw-backstage-assault"
   },
   {
+    "gameId": "nintendo-64-00150",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "WCW Mayhem",
@@ -5700,6 +5850,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/wcw-mayhem"
   },
   {
+    "gameId": "nintendo-64-00151",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "WCW Nitro",
@@ -5738,6 +5889,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/wcw-nitro"
   },
   {
+    "gameId": "nintendo-64-00152",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "WCW vs. nWo - World Tour",
@@ -5776,6 +5928,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/wcw-vs-nwo-world-tour"
   },
   {
+    "gameId": "nintendo-64-00153",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "WCW-nWo Revenge",
@@ -5814,6 +5967,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/wcw-nwo-revenge"
   },
   {
+    "gameId": "nintendo-64-00154",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "WWF Attitude",
@@ -5852,6 +6006,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/wwf-attitude"
   },
   {
+    "gameId": "nintendo-64-00155",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "WWF No Mercy",
@@ -5890,6 +6045,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/wwf-no-mercy"
   },
   {
+    "gameId": "nintendo-64-00156",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "WWF War Zone",
@@ -5928,6 +6084,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/wwf-war-zone"
   },
   {
+    "gameId": "nintendo-64-00157",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "WWF WrestleMania 2000",
@@ -5966,6 +6123,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/wwf-wrestlemania-2000"
   },
   {
+    "gameId": "nintendo-64-00158",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Wayne Gretzky's 3D Hockey",
@@ -6004,6 +6162,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/wayne-gretzkys-3d-hockey"
   },
   {
+    "gameId": "nintendo-64-00159",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "World Cup 98",
@@ -6042,6 +6201,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/world-cup-98"
   },
   {
+    "gameId": "nintendo-64-00160",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "007 - GoldenEye",
@@ -6080,6 +6240,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/007-goldeneye"
   },
   {
+    "gameId": "nintendo-64-00161",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Brunswick Circuit Pro Bowling",
@@ -6118,6 +6279,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/brunswick-circuit-pro-bowling"
   },
   {
+    "gameId": "nintendo-64-00162",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Mace - The Dark Age",
@@ -6156,6 +6318,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/mace-the-dark-age"
   },
   {
+    "gameId": "nintendo-64-00163",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Milo's Astro Lanes",
@@ -6194,6 +6357,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/milos-astro-lanes"
   },
   {
+    "gameId": "nintendo-64-00164",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Super Bowling",
@@ -6232,6 +6396,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/super-bowling"
   },
   {
+    "gameId": "nintendo-64-00165",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Vigilante 8 - 2nd Offense",
@@ -6270,6 +6435,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/vigilante-8-2nd-offense"
   },
   {
+    "gameId": "nintendo-64-00166",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "ECW Hardcore Revolution",
@@ -6308,6 +6474,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/ecw-hardcore-revolution"
   },
   {
+    "gameId": "nintendo-64-00167",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Bust-A-Move 2 - Arcade Edition",
@@ -6346,6 +6513,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/bust-a-move-2-arcade-edition"
   },
   {
+    "gameId": "nintendo-64-00168",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Pokemon Puzzle League",
@@ -6384,6 +6552,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/pokemon-puzzle-league"
   },
   {
+    "gameId": "nintendo-64-00169",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Asteroids Hyper 64",
@@ -6422,6 +6591,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/asteroids-hyper-64"
   },
   {
+    "gameId": "nintendo-64-00170",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Golden Nugget 64",
@@ -6460,6 +6630,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/golden-nugget-64"
   },
   {
+    "gameId": "nintendo-64-00171",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Perfect Dark",
@@ -6498,6 +6669,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/perfect-dark"
   },
   {
+    "gameId": "nintendo-64-00172",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Clay Fighter - Sculptor's Cut",
@@ -6536,6 +6708,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/clay-fighter-sculptors-cut"
   },
   {
+    "gameId": "nintendo-64-00173",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Clay Fighter 63 1-3",
@@ -6574,6 +6747,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/clay-fighter-63-1-3"
   },
   {
+    "gameId": "nintendo-64-00174",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Dark Rift",
@@ -6612,6 +6786,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/dark-rift"
   },
   {
+    "gameId": "nintendo-64-00175",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Deadly Arts",
@@ -6650,6 +6825,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/deadly-arts"
   },
   {
+    "gameId": "nintendo-64-00176",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Dual Heroes",
@@ -6688,6 +6864,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/dual-heroes"
   },
   {
+    "gameId": "nintendo-64-00177",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Fighter Destiny 2",
@@ -6726,6 +6903,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/fighter-destiny-2"
   },
   {
+    "gameId": "nintendo-64-00178",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Fighters Destiny",
@@ -6764,6 +6942,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/fighters-destiny"
   },
   {
+    "gameId": "nintendo-64-00179",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Killer Instinct Gold",
@@ -6802,6 +6981,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/killer-instinct-gold"
   },
   {
+    "gameId": "nintendo-64-00180",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Knockout Kings 2000",
@@ -6840,6 +7020,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/knockout-kings-2000"
   },
   {
+    "gameId": "nintendo-64-00181",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Quake 64",
@@ -6878,6 +7059,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/quake-64"
   },
   {
+    "gameId": "nintendo-64-00182",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Turok 2 - Seeds of Evil",
@@ -6916,6 +7098,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/turok-2-seeds-of-evil"
   },
   {
+    "gameId": "nintendo-64-00183",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Conker's Bad Fur Day",
@@ -6954,6 +7137,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/conkers-bad-fur-day"
   },
   {
+    "gameId": "nintendo-64-00184",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "All-Star Baseball '99",
@@ -6992,6 +7176,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/all-star-baseball-99"
   },
   {
+    "gameId": "nintendo-64-00185",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "All-Star Baseball 2000",
@@ -7030,6 +7215,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/all-star-baseball-2000"
   },
   {
+    "gameId": "nintendo-64-00186",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "All-Star Baseball 2001",
@@ -7068,6 +7254,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/all-star-baseball-2001"
   },
   {
+    "gameId": "nintendo-64-00187",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Ken Griffey Jr.'s Slugfest",
@@ -7106,6 +7293,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/ken-griffey-jr-s-slugfest"
   },
   {
+    "gameId": "nintendo-64-00188",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Major League Baseball featuring Ken Griffey Jr.",
@@ -7144,6 +7332,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/major-league-baseball-featuring-ken-griffey-jr"
   },
   {
+    "gameId": "nintendo-64-00189",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Mike Piazza's StrikeZone",
@@ -7182,6 +7371,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/mike-piazzas-strikezone"
   },
   {
+    "gameId": "nintendo-64-00190",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Triple Play 2000",
@@ -7220,6 +7410,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/triple-play-2000"
   },
   {
+    "gameId": "nintendo-64-00191",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Bio F.R.E.A.K.S.",
@@ -7258,6 +7449,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/bio-f-r-e-a-k-s"
   },
   {
+    "gameId": "nintendo-64-00192",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Mortal Kombat 4",
@@ -7296,6 +7488,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/mortal-kombat-4"
   },
   {
+    "gameId": "nintendo-64-00193",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Mortal Kombat Trilogy",
@@ -7334,6 +7527,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/mortal-kombat-trilogy"
   },
   {
+    "gameId": "nintendo-64-00194",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Virtual Pool 64",
@@ -7372,6 +7566,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/virtual-pool-64"
   },
   {
+    "gameId": "nintendo-64-00195",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "War Gods",
@@ -7410,6 +7605,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/war-gods"
   },
   {
+    "gameId": "nintendo-64-00196",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Air Boarder 64",
@@ -7448,6 +7644,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/air-boarder-64"
   },
   {
+    "gameId": "nintendo-64-00197",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Bassmasters 2000",
@@ -7486,6 +7683,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/bassmasters-2000"
   },
   {
+    "gameId": "nintendo-64-00198",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Razor Freestyle Scooter",
@@ -7524,6 +7722,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/razor-freestyle-scooter"
   },
   {
+    "gameId": "nintendo-64-00199",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "CyberTiger",
@@ -7562,6 +7761,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/cybertiger"
   },
   {
+    "gameId": "nintendo-64-00200",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Mario Golf",
@@ -7600,6 +7800,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/mario-golf"
   },
   {
+    "gameId": "nintendo-64-00201",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "PGA European Tour",
@@ -7638,6 +7839,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/pga-european-tour"
   },
   {
+    "gameId": "nintendo-64-00202",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Waialae Country Club - True Golf Classics",
@@ -7676,6 +7878,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/waialae-country-club-true-golf-classics"
   },
   {
+    "gameId": "nintendo-64-00203",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Bottom of the 9th",
@@ -7714,6 +7917,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/bottom-of-the-9th"
   },
   {
+    "gameId": "nintendo-64-00204",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Rampage - World Tour",
@@ -7752,6 +7956,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/rampage-world-tour"
   },
   {
+    "gameId": "nintendo-64-00205",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Rampage 2 - Universal Tour",
@@ -7790,6 +7995,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/rampage-2-universal-tour"
   },
   {
+    "gameId": "nintendo-64-00206",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Monopoly",
@@ -7828,6 +8034,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/monopoly"
   },
   {
+    "gameId": "nintendo-64-00207",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Rugrats - Scavenger Hunt",
@@ -7866,6 +8073,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/rugrats-scavenger-hunt"
   },
   {
+    "gameId": "nintendo-64-00208",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Blues Brothers 2000",
@@ -7904,6 +8112,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/blues-brothers-2000"
   },
   {
+    "gameId": "nintendo-64-00209",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Buck Bumble",
@@ -7942,6 +8151,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/buck-bumble"
   },
   {
+    "gameId": "nintendo-64-00210",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Fighting Force 64",
@@ -7980,6 +8190,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/fighting-force-64"
   },
   {
+    "gameId": "nintendo-64-00211",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Powerpuff Girls, The - Chemical X-Traction",
@@ -8018,6 +8229,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/powerpuff-girls-the-chemical-x-traction"
   },
   {
+    "gameId": "nintendo-64-00212",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Army Men - Air Combat",
@@ -8056,6 +8268,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/army-men-air-combat"
   },
   {
+    "gameId": "nintendo-64-00213",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Banjo-Tooie",
@@ -8094,6 +8307,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/banjo-tooie"
   },
   {
+    "gameId": "nintendo-64-00214",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "BattleTanx",
@@ -8132,6 +8346,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/battletanx"
   },
   {
+    "gameId": "nintendo-64-00215",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "BattleTanx - Global Assault",
@@ -8170,6 +8385,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/battletanx-global-assault"
   },
   {
+    "gameId": "nintendo-64-00216",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Bomberman 64",
@@ -8208,6 +8424,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/bomberman-64"
   },
   {
+    "gameId": "nintendo-64-00217",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Chameleon Twist",
@@ -8246,6 +8463,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/chameleon-twist"
   },
   {
+    "gameId": "nintendo-64-00218",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Charlie Blast's Territory",
@@ -8284,6 +8502,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/charlie-blasts-territory"
   },
   {
+    "gameId": "nintendo-64-00219",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Donkey Kong 64",
@@ -8322,6 +8541,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/donkey-kong-64"
   },
   {
+    "gameId": "nintendo-64-00220",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Gauntlet Legends",
@@ -8360,6 +8580,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/gauntlet-legends"
   },
   {
+    "gameId": "nintendo-64-00221",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Goemon's Great Adventure",
@@ -8398,6 +8619,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/goemons-great-adventure"
   },
   {
+    "gameId": "nintendo-64-00222",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Kirby 64 - The Crystal Shards",
@@ -8436,6 +8658,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/kirby-64-the-crystal-shards"
   },
   {
+    "gameId": "nintendo-64-00223",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Ms. Pac-Man - Maze Madness",
@@ -8474,6 +8697,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/ms-pac-man-maze-madness"
   },
   {
+    "gameId": "nintendo-64-00224",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Power Rangers - Lightspeed Rescue",
@@ -8512,6 +8736,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/power-rangers-lightspeed-rescue"
   },
   {
+    "gameId": "nintendo-64-00225",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Rugrats in Paris - The Movie",
@@ -8550,6 +8775,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/rugrats-in-paris-the-movie"
   },
   {
+    "gameId": "nintendo-64-00226",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Tigger's Honey Hunt",
@@ -8588,6 +8814,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/tiggers-honey-hunt"
   },
   {
+    "gameId": "nintendo-64-00227",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Superman",
@@ -8626,6 +8853,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/superman"
   },
   {
+    "gameId": "nintendo-64-00228",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Virtual Chess 64",
@@ -8664,6 +8892,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/virtual-chess-64"
   },
   {
+    "gameId": "nintendo-64-00229",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Battlezone - Rise of the Black Dogs",
@@ -8702,6 +8931,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/battlezone-rise-of-the-black-dogs"
   },
   {
+    "gameId": "nintendo-64-00230",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Pokemon Stadium",
@@ -8740,6 +8970,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/pokemon-stadium"
   },
   {
+    "gameId": "nintendo-64-00231",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Worms Armageddon",
@@ -8778,6 +9009,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/worms-armageddon"
   },
   {
+    "gameId": "nintendo-64-00232",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Hybrid Heaven",
@@ -8816,6 +9048,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/hybrid-heaven"
   },
   {
+    "gameId": "nintendo-64-00233",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Aidyn Chronicles - The First Mage",
@@ -8854,6 +9087,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/aidyn-chronicles-the-first-mage"
   },
   {
+    "gameId": "nintendo-64-00234",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Banjo-Kazooie",
@@ -8892,6 +9126,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/banjo-kazooie"
   },
   {
+    "gameId": "nintendo-64-00235",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Batman Beyond - Return of the Joker",
@@ -8930,6 +9165,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/batman-beyond-return-of-the-joker"
   },
   {
+    "gameId": "nintendo-64-00236",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Blast Corps",
@@ -8968,6 +9204,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/blast-corps"
   },
   {
+    "gameId": "nintendo-64-00237",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Body Harvest",
@@ -9006,6 +9243,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/body-harvest"
   },
   {
+    "gameId": "nintendo-64-00238",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Bomberman Hero",
@@ -9044,6 +9282,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/bomberman-hero"
   },
   {
+    "gameId": "nintendo-64-00239",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Bug's Life, A",
@@ -9082,6 +9321,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/bugs-life-a"
   },
   {
+    "gameId": "nintendo-64-00240",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Castlevania",
@@ -9120,6 +9360,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/castlevania"
   },
   {
+    "gameId": "nintendo-64-00241",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Castlevania - Legacy of Darkness",
@@ -9158,6 +9399,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/castlevania-legacy-of-darkness"
   },
   {
+    "gameId": "nintendo-64-00242",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Chameleon Twist 2",
@@ -9196,6 +9438,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/chameleon-twist-2"
   },
   {
+    "gameId": "nintendo-64-00243",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Chopper Attack",
@@ -9234,6 +9477,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/chopper-attack"
   },
   {
+    "gameId": "nintendo-64-00244",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Command & Conquer",
@@ -9272,6 +9516,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/command-and-conquer"
   },
   {
+    "gameId": "nintendo-64-00245",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Donald Duck - Goin' Quackers",
@@ -9310,6 +9555,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/donald-duck-goin-quackers"
   },
   {
+    "gameId": "nintendo-64-00246",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Doom 64",
@@ -9348,6 +9594,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/doom-64"
   },
   {
+    "gameId": "nintendo-64-00247",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Duck Dodgers Starring Daffy Duck",
@@ -9386,6 +9633,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/duck-dodgers-starring-daffy-duck"
   },
   {
+    "gameId": "nintendo-64-00248",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Earthworm Jim 3D",
@@ -9424,6 +9672,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/earthworm-jim-3d"
   },
   {
+    "gameId": "nintendo-64-00249",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Elmo's Letter Adventure",
@@ -9462,6 +9711,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/elmos-letter-adventure"
   },
   {
+    "gameId": "nintendo-64-00250",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Elmo's Number Journey",
@@ -9500,6 +9750,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/elmos-number-journey"
   },
   {
+    "gameId": "nintendo-64-00251",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "F1 Pole Position 64",
@@ -9538,6 +9789,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/f1-pole-position-64"
   },
   {
+    "gameId": "nintendo-64-00252",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Gex 3 - Deep Cover Gecko",
@@ -9576,6 +9828,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/gex-3-deep-cover-gecko"
   },
   {
+    "gameId": "nintendo-64-00253",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Gex 64 - Enter the Gecko",
@@ -9614,6 +9867,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/gex-64-enter-the-gecko"
   },
   {
+    "gameId": "nintendo-64-00254",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Glover",
@@ -9652,6 +9906,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/glover"
   },
   {
+    "gameId": "nintendo-64-00255",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Harvest Moon 64",
@@ -9690,6 +9945,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/harvest-moon-64"
   },
   {
+    "gameId": "nintendo-64-00256",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Hercules - The Legendary Journeys",
@@ -9728,6 +9984,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/hercules-the-legendary-journeys"
   },
   {
+    "gameId": "nintendo-64-00257",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Hey You, Pikachu!",
@@ -9766,6 +10023,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/hey-you-pikachu"
   },
   {
+    "gameId": "nintendo-64-00258",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "In-Fisherman - Bass Hunter 64",
@@ -9804,6 +10062,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/in-fisherman-bass-hunter-64"
   },
   {
+    "gameId": "nintendo-64-00259",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Indiana Jones and the Infernal Machine",
@@ -9842,6 +10101,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/indiana-jones-and-the-infernal-machine"
   },
   {
+    "gameId": "nintendo-64-00260",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Jeopardy!",
@@ -9880,6 +10140,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/jeopardy"
   },
   {
+    "gameId": "nintendo-64-00261",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Legend of Zelda, The - Majora's Mask",
@@ -9918,6 +10179,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/legend-of-zelda-the-majoras-mask"
   },
   {
+    "gameId": "nintendo-64-00262",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Legend of Zelda, The - Ocarina of Time",
@@ -9956,6 +10218,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/legend-of-zelda-the-ocarina-of-time"
   },
   {
+    "gameId": "nintendo-64-00263",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Lode Runner 3-D",
@@ -9994,6 +10257,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/lode-runner-3-d"
   },
   {
+    "gameId": "nintendo-64-00264",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Mega Man 64",
@@ -10032,6 +10296,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/mega-man-64"
   },
   {
+    "gameId": "nintendo-64-00265",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Midway's Greatest Arcade Hits - Volume 1",
@@ -10070,6 +10335,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/midways-greatest-arcade-hits-volume-1"
   },
   {
+    "gameId": "nintendo-64-00266",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Mischief Makers",
@@ -10108,6 +10374,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/mischief-makers"
   },
   {
+    "gameId": "nintendo-64-00267",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Mission Impossible",
@@ -10146,6 +10413,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/mission-impossible"
   },
   {
+    "gameId": "nintendo-64-00268",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Mortal Kombat Mythologies - Sub-Zero",
@@ -10184,6 +10452,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/mortal-kombat-mythologies-sub-zero"
   },
   {
+    "gameId": "nintendo-64-00269",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Mystical Ninja Starring Goemon",
@@ -10222,6 +10491,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/mystical-ninja-starring-goemon"
   },
   {
+    "gameId": "nintendo-64-00270",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Namco Museum 64",
@@ -10260,6 +10530,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/namco-museum-64"
   },
   {
+    "gameId": "nintendo-64-00271",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Nightmare Creatures",
@@ -10298,6 +10569,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/nightmare-creatures"
   },
   {
+    "gameId": "nintendo-64-00272",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Nuclear Strike 64",
@@ -10336,6 +10608,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/nuclear-strike-64"
   },
   {
+    "gameId": "nintendo-64-00273",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Ogre Battle 64 - Person of Lordly Caliber",
@@ -10374,6 +10647,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/ogre-battle-64-person-of-lordly-caliber"
   },
   {
+    "gameId": "nintendo-64-00274",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Paper Mario",
@@ -10412,6 +10686,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/paper-mario"
   },
   {
+    "gameId": "nintendo-64-00275",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Paperboy",
@@ -10450,6 +10725,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/paperboy"
   },
   {
+    "gameId": "nintendo-64-00276",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Pilotwings 64",
@@ -10488,6 +10764,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/pilotwings-64"
   },
   {
+    "gameId": "nintendo-64-00277",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Pokemon Snap",
@@ -10526,6 +10803,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/pokemon-snap"
   },
   {
+    "gameId": "nintendo-64-00278",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Premier Manager 64",
@@ -10564,6 +10842,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/premier-manager-64"
   },
   {
+    "gameId": "nintendo-64-00279",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Quest 64",
@@ -10602,6 +10881,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/quest-64"
   },
   {
+    "gameId": "nintendo-64-00280",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Rayman 2 - The Great Escape",
@@ -10640,6 +10920,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/rayman-2-the-great-escape"
   },
   {
+    "gameId": "nintendo-64-00281",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Resident Evil 2",
@@ -10678,6 +10959,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/resident-evil-2"
   },
   {
+    "gameId": "nintendo-64-00282",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Robotron 64",
@@ -10716,6 +10998,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/robotron-64"
   },
   {
+    "gameId": "nintendo-64-00283",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Rocket - Robot on Wheels",
@@ -10754,6 +11037,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/rocket-robot-on-wheels"
   },
   {
+    "gameId": "nintendo-64-00284",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Scooby-Doo! - Classic Creep Capers",
@@ -10792,6 +11076,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/scooby-doo-classic-creep-capers"
   },
   {
+    "gameId": "nintendo-64-00285",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Shadow Man",
@@ -10830,6 +11115,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/shadow-man"
   },
   {
+    "gameId": "nintendo-64-00286",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Shadowgate 64 - Trials of the Four Towers",
@@ -10868,6 +11154,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/shadowgate-64-trials-of-the-four-towers"
   },
   {
+    "gameId": "nintendo-64-00287",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Space Invaders",
@@ -10906,6 +11193,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/space-invaders"
   },
   {
+    "gameId": "nintendo-64-00288",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "SpaceStation Silicon Valley",
@@ -10944,6 +11232,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/spacestation-silicon-valley"
   },
   {
+    "gameId": "nintendo-64-00289",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Spider-Man",
@@ -10982,6 +11271,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/spider-man"
   },
   {
+    "gameId": "nintendo-64-00290",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Star Soldier - Vanishing Earth",
@@ -11020,6 +11310,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/star-soldier-vanishing-earth"
   },
   {
+    "gameId": "nintendo-64-00291",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Star Wars - Rogue Squadron",
@@ -11058,6 +11349,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/star-wars-rogue-squadron"
   },
   {
+    "gameId": "nintendo-64-00292",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Star Wars - Shadows of the Empire",
@@ -11096,6 +11388,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/star-wars-shadows-of-the-empire"
   },
   {
+    "gameId": "nintendo-64-00293",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Star Wars Episode I - Battle for Naboo",
@@ -11134,6 +11427,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/star-wars-episode-i-battle-for-naboo"
   },
   {
+    "gameId": "nintendo-64-00294",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "StarCraft 64",
@@ -11172,6 +11466,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/starcraft-64"
   },
   {
+    "gameId": "nintendo-64-00295",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Starshot - Space Circus Fever",
@@ -11210,6 +11505,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/starshot-space-circus-fever"
   },
   {
+    "gameId": "nintendo-64-00296",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Super Mario 64",
@@ -11248,6 +11544,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/super-mario-64"
   },
   {
+    "gameId": "nintendo-64-00297",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Tarzan",
@@ -11286,6 +11583,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/tarzan"
   },
   {
+    "gameId": "nintendo-64-00298",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Taz Express",
@@ -11324,6 +11622,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/taz-express"
   },
   {
+    "gameId": "nintendo-64-00299",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Tom Clancy's Rainbow Six",
@@ -11362,6 +11661,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/tom-clancys-rainbow-six"
   },
   {
+    "gameId": "nintendo-64-00300",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Tonic Trouble",
@@ -11400,6 +11700,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/tonic-trouble"
   },
   {
+    "gameId": "nintendo-64-00301",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Toy Story 2",
@@ -11438,6 +11739,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/toy-story-2"
   },
   {
+    "gameId": "nintendo-64-00302",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Turok - Dinosaur Hunter",
@@ -11476,6 +11778,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/nintendo-n64/artwork-title-screen/turok-dinosaur-hunter"
   },
   {
+    "gameId": "nintendo-64-00303",
     "datasetId": "nintendo-64",
     "console": "Nintendo 64",
     "english_name": "Yoshi's Story",

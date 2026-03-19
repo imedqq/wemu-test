@@ -1,5 +1,6 @@
 [
   {
+    "gameId": "atari-2600-00001",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Steeplechase",
@@ -38,6 +39,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/steeplechase"
   },
   {
+    "gameId": "atari-2600-00002",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Street Racer",
@@ -76,6 +78,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/street-racer"
   },
   {
+    "gameId": "atari-2600-00003",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Activision Decathlon, The",
@@ -114,6 +117,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/activision-decathlon-the"
   },
   {
+    "gameId": "atari-2600-00004",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Winter Games",
@@ -152,6 +156,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/winter-games"
   },
   {
+    "gameId": "atari-2600-00005",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Party Mix",
@@ -190,6 +195,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/party-mix"
   },
   {
+    "gameId": "atari-2600-00006",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Breakout",
@@ -228,6 +234,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/breakout"
   },
   {
+    "gameId": "atari-2600-00007",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Fireball",
@@ -266,6 +273,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/fireball"
   },
   {
+    "gameId": "atari-2600-00008",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Warlords",
@@ -304,6 +312,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/warlords"
   },
   {
+    "gameId": "atari-2600-00009",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Communist Mutants from Space",
@@ -342,6 +351,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/communist-mutants-from-space"
   },
   {
+    "gameId": "atari-2600-00010",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "BMX Air Master",
@@ -380,6 +390,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/bmx-air-master"
   },
   {
+    "gameId": "atari-2600-00011",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Demolition Herby",
@@ -418,6 +429,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/demolition-herby"
   },
   {
+    "gameId": "atari-2600-00012",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Dodge 'Em",
@@ -456,6 +468,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/dodge-em"
   },
   {
+    "gameId": "atari-2600-00013",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Dragster",
@@ -494,6 +507,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/dragster"
   },
   {
+    "gameId": "atari-2600-00014",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Indy 500",
@@ -532,6 +546,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/indy-500"
   },
   {
+    "gameId": "atari-2600-00015",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "MotoRodeo",
@@ -570,6 +585,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/motorodeo"
   },
   {
+    "gameId": "atari-2600-00016",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Motocross",
@@ -608,6 +624,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/motocross"
   },
   {
+    "gameId": "atari-2600-00017",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Racing Car",
@@ -646,6 +663,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/racing-car"
   },
   {
+    "gameId": "atari-2600-00018",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Sprint Master",
@@ -684,6 +702,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/sprint-master"
   },
   {
+    "gameId": "atari-2600-00019",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "G.I. Joe - Cobra Strike",
@@ -722,6 +741,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/g-i-joe-cobra-strike"
   },
   {
+    "gameId": "atari-2600-00020",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Track & Field",
@@ -760,6 +780,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/track-and-field"
   },
   {
+    "gameId": "atari-2600-00021",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "California Games",
@@ -798,6 +819,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/california-games"
   },
   {
+    "gameId": "atari-2600-00022",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Go Go Home Monster",
@@ -836,6 +858,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/go-go-home-monster"
   },
   {
+    "gameId": "atari-2600-00023",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Jawbreaker",
@@ -874,6 +897,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/jawbreaker"
   },
   {
+    "gameId": "atari-2600-00024",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Lochjaw",
@@ -912,6 +936,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/lochjaw"
   },
   {
+    "gameId": "atari-2600-00025",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Lock 'n' Chase",
@@ -950,6 +975,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/lock-n-chase"
   },
   {
+    "gameId": "atari-2600-00026",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Malagai",
@@ -988,6 +1014,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/malagai"
   },
   {
+    "gameId": "atari-2600-00027",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Maze Craze - A Game of Cops 'n Robbers",
@@ -1026,6 +1053,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/maze-craze-a-game-of-cops-n-robbers"
   },
   {
+    "gameId": "atari-2600-00028",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Mines of Minos",
@@ -1064,6 +1092,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/mines-of-minos"
   },
   {
+    "gameId": "atari-2600-00029",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Pac-Man",
@@ -1102,6 +1131,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/pac-man"
   },
   {
+    "gameId": "atari-2600-00030",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Slot Racers",
@@ -1140,6 +1170,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/slot-racers"
   },
   {
+    "gameId": "atari-2600-00031",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Summer Games",
@@ -1178,6 +1209,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/summer-games"
   },
   {
+    "gameId": "atari-2600-00032",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "3-D Tic-Tac-Toe",
@@ -1216,6 +1248,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/3-d-tic-tac-toe"
   },
   {
+    "gameId": "atari-2600-00033",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Circus Atari",
@@ -1254,6 +1287,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/circus-atari"
   },
   {
+    "gameId": "atari-2600-00034",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Flag Capture",
@@ -1292,6 +1326,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/flag-capture"
   },
   {
+    "gameId": "atari-2600-00035",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Frostbite",
@@ -1330,6 +1365,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/frostbite"
   },
   {
+    "gameId": "atari-2600-00036",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Hangman",
@@ -1368,6 +1404,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/hangman"
   },
   {
+    "gameId": "atari-2600-00037",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Hunt & Score",
@@ -1406,6 +1443,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/hunt-and-score"
   },
   {
+    "gameId": "atari-2600-00038",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Off the Wall",
@@ -1444,6 +1482,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/off-the-wall"
   },
   {
+    "gameId": "atari-2600-00039",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Pick 'n' Pile",
@@ -1482,6 +1521,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/pick-n-pile"
   },
   {
+    "gameId": "atari-2600-00040",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Quick Step!",
@@ -1520,6 +1560,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/quick-step"
   },
   {
+    "gameId": "atari-2600-00041",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Racquetball",
@@ -1558,6 +1599,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/racquetball"
   },
   {
+    "gameId": "atari-2600-00042",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "RealSports Tennis",
@@ -1596,6 +1638,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/realsports-tennis"
   },
   {
+    "gameId": "atari-2600-00043",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Sneak 'n Peek",
@@ -1634,6 +1677,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/sneak-n-peek"
   },
   {
+    "gameId": "atari-2600-00044",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Super Breakout",
@@ -1672,6 +1716,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/super-breakout"
   },
   {
+    "gameId": "atari-2600-00045",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Tennis",
@@ -1710,6 +1755,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/tennis"
   },
   {
+    "gameId": "atari-2600-00046",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Air-Sea Battle",
@@ -1748,6 +1794,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/air-sea-battle"
   },
   {
+    "gameId": "atari-2600-00047",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Armor Ambush",
@@ -1786,6 +1833,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/armor-ambush"
   },
   {
+    "gameId": "atari-2600-00048",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Artillery Duel",
@@ -1824,6 +1872,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/artillery-duel"
   },
   {
+    "gameId": "atari-2600-00049",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Asteroids",
@@ -1862,6 +1911,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/asteroids"
   },
   {
+    "gameId": "atari-2600-00050",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Atlantis",
@@ -1900,6 +1950,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/atlantis"
   },
   {
+    "gameId": "atari-2600-00051",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Atlantis II",
@@ -1938,6 +1989,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/atlantis-ii"
   },
   {
+    "gameId": "atari-2600-00052",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Bermuda Triangle",
@@ -1976,6 +2028,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/bermuda-triangle"
   },
   {
+    "gameId": "atari-2600-00053",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Bugs",
@@ -2014,6 +2067,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/bugs"
   },
   {
+    "gameId": "atari-2600-00054",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Canyon Bomber",
@@ -2052,6 +2106,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/canyon-bomber"
   },
   {
+    "gameId": "atari-2600-00055",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Carnival",
@@ -2090,6 +2145,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/carnival"
   },
   {
+    "gameId": "atari-2600-00056",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Chopper Command",
@@ -2128,6 +2184,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/chopper-command"
   },
   {
+    "gameId": "atari-2600-00057",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Combat",
@@ -2166,6 +2223,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/combat"
   },
   {
+    "gameId": "atari-2600-00058",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Commando",
@@ -2204,6 +2262,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/commando"
   },
   {
+    "gameId": "atari-2600-00059",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Cosmic Ark",
@@ -2242,6 +2301,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/cosmic-ark"
   },
   {
+    "gameId": "atari-2600-00060",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Crackpots",
@@ -2280,6 +2340,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/crackpots"
   },
   {
+    "gameId": "atari-2600-00061",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Cross Force",
@@ -2318,6 +2379,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/cross-force"
   },
   {
+    "gameId": "atari-2600-00062",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Defender",
@@ -2356,6 +2418,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/defender"
   },
   {
+    "gameId": "atari-2600-00063",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Demon Attack",
@@ -2394,6 +2457,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/demon-attack"
   },
   {
+    "gameId": "atari-2600-00064",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Demons to Diamonds",
@@ -2432,6 +2496,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/demons-to-diamonds"
   },
   {
+    "gameId": "atari-2600-00065",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Desert Falcon",
@@ -2470,6 +2535,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/desert-falcon"
   },
   {
+    "gameId": "atari-2600-00066",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Encounter at L-5",
@@ -2508,6 +2574,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/encounter-at-l-5"
   },
   {
+    "gameId": "atari-2600-00067",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Fire Fly",
@@ -2546,6 +2613,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/fire-fly"
   },
   {
+    "gameId": "atari-2600-00068",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Front Line",
@@ -2584,6 +2652,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/front-line"
   },
   {
+    "gameId": "atari-2600-00069",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Gamma-Attack",
@@ -2622,6 +2691,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/gamma-attack"
   },
   {
+    "gameId": "atari-2600-00070",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Gangster Alley",
@@ -2660,6 +2730,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/gangster-alley"
   },
   {
+    "gameId": "atari-2600-00071",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Glacier Patrol",
@@ -2698,6 +2769,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/glacier-patrol"
   },
   {
+    "gameId": "atari-2600-00072",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Guardian",
@@ -2736,6 +2808,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/guardian"
   },
   {
+    "gameId": "atari-2600-00073",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Human Cannonball",
@@ -2774,6 +2847,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/human-cannonball"
   },
   {
+    "gameId": "atari-2600-00074",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Ikari Warriors",
@@ -2812,6 +2886,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/ikari-warriors"
   },
   {
+    "gameId": "atari-2600-00075",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "M.A.D.",
@@ -2850,6 +2925,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/m-a-d"
   },
   {
+    "gameId": "atari-2600-00076",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "M.A.S.H",
@@ -2888,6 +2964,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/m-a-s-h"
   },
   {
+    "gameId": "atari-2600-00077",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Marine Wars",
@@ -2926,6 +3003,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/marine-wars"
   },
   {
+    "gameId": "atari-2600-00078",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "MegaMania - A Space Nightmare",
@@ -2964,6 +3042,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/megamania-a-space-nightmare"
   },
   {
+    "gameId": "atari-2600-00079",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Missile Command",
@@ -3002,6 +3081,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/missile-command"
   },
   {
+    "gameId": "atari-2600-00080",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Moon Patrol",
@@ -3040,6 +3120,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/moon-patrol"
   },
   {
+    "gameId": "atari-2600-00081",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Moonsweeper",
@@ -3078,6 +3159,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/moonsweeper"
   },
   {
+    "gameId": "atari-2600-00082",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Name This Game",
@@ -3116,6 +3198,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/name-this-game"
   },
   {
+    "gameId": "atari-2600-00083",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Omega Race",
@@ -3154,6 +3237,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/omega-race"
   },
   {
+    "gameId": "atari-2600-00084",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Outlaw",
@@ -3192,6 +3276,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/outlaw"
   },
   {
+    "gameId": "atari-2600-00085",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Phantom Tank",
@@ -3230,6 +3315,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/phantom-tank"
   },
   {
+    "gameId": "atari-2600-00086",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Pigs in Space - Starring Miss Piggy",
@@ -3268,6 +3354,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/pigs-in-space-starring-miss-piggy"
   },
   {
+    "gameId": "atari-2600-00087",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Planet Patrol",
@@ -3306,6 +3393,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/planet-patrol"
   },
   {
+    "gameId": "atari-2600-00088",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Plaque Attack",
@@ -3344,6 +3432,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/plaque-attack"
   },
   {
+    "gameId": "atari-2600-00089",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Polaris",
@@ -3382,6 +3471,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/polaris"
   },
   {
+    "gameId": "atari-2600-00090",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Pooyan",
@@ -3420,6 +3510,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/pooyan"
   },
   {
+    "gameId": "atari-2600-00091",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Ram It",
@@ -3458,6 +3549,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/ram-it"
   },
   {
+    "gameId": "atari-2600-00092",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Rescue Terra I",
@@ -3496,6 +3588,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/rescue-terra-i"
   },
   {
+    "gameId": "atari-2600-00093",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "River Raid",
@@ -3534,6 +3627,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/river-raid"
   },
   {
+    "gameId": "atari-2600-00094",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "River Raid II",
@@ -3572,6 +3666,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/river-raid-ii"
   },
   {
+    "gameId": "atari-2600-00095",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Robin Hood",
@@ -3610,6 +3705,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/robin-hood"
   },
   {
+    "gameId": "atari-2600-00096",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Sea Monster",
@@ -3648,6 +3744,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/sea-monster"
   },
   {
+    "gameId": "atari-2600-00097",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Seaquest",
@@ -3686,6 +3783,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/seaquest"
   },
   {
+    "gameId": "atari-2600-00098",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Skeet Shoot",
@@ -3724,6 +3822,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/skeet-shoot"
   },
   {
+    "gameId": "atari-2600-00099",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Solar Storm",
@@ -3762,6 +3861,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/solar-storm"
   },
   {
+    "gameId": "atari-2600-00100",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Sorcerer",
@@ -3800,6 +3900,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/sorcerer"
   },
   {
+    "gameId": "atari-2600-00101",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Space Cavern",
@@ -3838,6 +3939,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/space-cavern"
   },
   {
+    "gameId": "atari-2600-00102",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Space Invaders",
@@ -3876,6 +3978,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/space-invaders"
   },
   {
+    "gameId": "atari-2600-00103",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Space War",
@@ -3914,6 +4017,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/space-war"
   },
   {
+    "gameId": "atari-2600-00104",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Spacechase",
@@ -3952,6 +4056,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/spacechase"
   },
   {
+    "gameId": "atari-2600-00105",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Sssnake",
@@ -3990,6 +4095,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/sssnake"
   },
   {
+    "gameId": "atari-2600-00106",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Star Fox",
@@ -4028,6 +4134,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/star-fox"
   },
   {
+    "gameId": "atari-2600-00107",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Star Ship",
@@ -4066,6 +4173,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/star-ship"
   },
   {
+    "gameId": "atari-2600-00108",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Star Voyager",
@@ -4104,6 +4212,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/star-voyager"
   },
   {
+    "gameId": "atari-2600-00109",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Star Wars - Return of the Jedi - Death Star Battle",
@@ -4142,6 +4251,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/star-wars-return-of-the-jedi-death-star-battle"
   },
   {
+    "gameId": "atari-2600-00110",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Star Wars - The Empire Strikes Back",
@@ -4180,6 +4290,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/star-wars-the-empire-strikes-back"
   },
   {
+    "gameId": "atari-2600-00111",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Stargunner",
@@ -4218,6 +4329,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/stargunner"
   },
   {
+    "gameId": "atari-2600-00112",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Strategy X",
@@ -4256,6 +4368,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/strategy-x"
   },
   {
+    "gameId": "atari-2600-00113",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Subterranea",
@@ -4294,6 +4407,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/subterranea"
   },
   {
+    "gameId": "atari-2600-00114",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Suicide Mission",
@@ -4332,6 +4446,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/suicide-mission"
   },
   {
+    "gameId": "atari-2600-00115",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Threshold",
@@ -4370,6 +4485,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/threshold"
   },
   {
+    "gameId": "atari-2600-00116",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Time Pilot",
@@ -4408,6 +4524,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/time-pilot"
   },
   {
+    "gameId": "atari-2600-00117",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Tutankham",
@@ -4446,6 +4563,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/tutankham"
   },
   {
+    "gameId": "atari-2600-00118",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Universal Chaos",
@@ -4484,6 +4602,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/universal-chaos"
   },
   {
+    "gameId": "atari-2600-00119",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Vanguard",
@@ -4522,6 +4641,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/vanguard"
   },
   {
+    "gameId": "atari-2600-00120",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Wabbit",
@@ -4560,6 +4680,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/wabbit"
   },
   {
+    "gameId": "atari-2600-00121",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Warplock",
@@ -4598,6 +4719,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/warplock"
   },
   {
+    "gameId": "atari-2600-00122",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Wizard of Wor",
@@ -4636,6 +4758,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/wizard-of-wor"
   },
   {
+    "gameId": "atari-2600-00123",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Word Zapper",
@@ -4674,6 +4797,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/word-zapper"
   },
   {
+    "gameId": "atari-2600-00124",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "World End",
@@ -4712,6 +4836,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/world-end"
   },
   {
+    "gameId": "atari-2600-00125",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Worm War I",
@@ -4750,6 +4875,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/worm-war-i"
   },
   {
+    "gameId": "atari-2600-00126",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Xenophobe",
@@ -4788,6 +4914,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/xenophobe"
   },
   {
+    "gameId": "atari-2600-00127",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Yars' Revenge",
@@ -4826,6 +4953,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/yars-revenge"
   },
   {
+    "gameId": "atari-2600-00128",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Zaxxon",
@@ -4864,6 +4992,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/zaxxon"
   },
   {
+    "gameId": "atari-2600-00129",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Casino",
@@ -4902,6 +5031,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/casino"
   },
   {
+    "gameId": "atari-2600-00130",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Boxing",
@@ -4940,6 +5070,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/boxing"
   },
   {
+    "gameId": "atari-2600-00131",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Karate",
@@ -4978,6 +5109,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/karate"
   },
   {
+    "gameId": "atari-2600-00132",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Midnight Magic",
@@ -5016,6 +5148,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/midnight-magic"
   },
   {
+    "gameId": "atari-2600-00133",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "RealSports Boxing",
@@ -5054,6 +5187,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/realsports-boxing"
   },
   {
+    "gameId": "atari-2600-00134",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Swordfight",
@@ -5092,6 +5226,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/swordfight"
   },
   {
+    "gameId": "atari-2600-00135",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Video Pinball",
@@ -5130,6 +5265,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/video-pinball"
   },
   {
+    "gameId": "atari-2600-00136",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Basketball",
@@ -5168,6 +5304,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/basketball"
   },
   {
+    "gameId": "atari-2600-00137",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Championship Soccer",
@@ -5206,6 +5343,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/championship-soccer"
   },
   {
+    "gameId": "atari-2600-00138",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Double Dunk",
@@ -5244,6 +5382,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/double-dunk"
   },
   {
+    "gameId": "atari-2600-00139",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Football",
@@ -5282,6 +5421,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/football"
   },
   {
+    "gameId": "atari-2600-00140",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Ice Hockey",
@@ -5320,6 +5460,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/ice-hockey"
   },
   {
+    "gameId": "atari-2600-00141",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "International Soccer",
@@ -5358,6 +5499,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/international-soccer"
   },
   {
+    "gameId": "atari-2600-00142",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "RealSports Football",
@@ -5396,6 +5538,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/realsports-football"
   },
   {
+    "gameId": "atari-2600-00143",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "RealSports Soccer",
@@ -5434,6 +5577,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/realsports-soccer"
   },
   {
+    "gameId": "atari-2600-00144",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "RealSports Volleyball",
@@ -5472,6 +5616,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/realsports-volleyball"
   },
   {
+    "gameId": "atari-2600-00145",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Super Challenge Football",
@@ -5510,6 +5655,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/super-challenge-football"
   },
   {
+    "gameId": "atari-2600-00146",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Super Football",
@@ -5548,6 +5694,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/super-football"
   },
   {
+    "gameId": "atari-2600-00147",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Title Match Pro Wrestling",
@@ -5586,6 +5733,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/title-match-pro-wrestling"
   },
   {
+    "gameId": "atari-2600-00148",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Blackjack",
@@ -5624,6 +5772,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/blackjack"
   },
   {
+    "gameId": "atari-2600-00149",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Bowling",
@@ -5662,6 +5811,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/bowling"
   },
   {
+    "gameId": "atari-2600-00150",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Trick Shot",
@@ -5700,6 +5850,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/trick-shot"
   },
   {
+    "gameId": "atari-2600-00151",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Fishing Derby",
@@ -5738,6 +5889,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/fishing-derby"
   },
   {
+    "gameId": "atari-2600-00152",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Slot Machine",
@@ -5776,6 +5928,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/slot-machine"
   },
   {
+    "gameId": "atari-2600-00153",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Home Run",
@@ -5814,6 +5967,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/home-run"
   },
   {
+    "gameId": "atari-2600-00154",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Pete Rose Baseball",
@@ -5852,6 +6006,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/pete-rose-baseball"
   },
   {
+    "gameId": "atari-2600-00155",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "RealSports Baseball",
@@ -5890,6 +6045,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/realsports-baseball"
   },
   {
+    "gameId": "atari-2600-00156",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Super Challenge Baseball",
@@ -5928,6 +6084,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/super-challenge-baseball"
   },
   {
+    "gameId": "atari-2600-00157",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Golf",
@@ -5966,6 +6123,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/golf"
   },
   {
+    "gameId": "atari-2600-00158",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Miniature Golf",
@@ -6004,6 +6162,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/miniature-golf"
   },
   {
+    "gameId": "atari-2600-00159",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "My Golf",
@@ -6042,6 +6201,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/my-golf"
   },
   {
+    "gameId": "atari-2600-00160",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Video Olympics",
@@ -6080,6 +6240,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/video-olympics"
   },
   {
+    "gameId": "atari-2600-00161",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Airlock",
@@ -6118,6 +6279,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/airlock"
   },
   {
+    "gameId": "atari-2600-00162",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Berzerk",
@@ -6156,6 +6318,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/berzerk"
   },
   {
+    "gameId": "atari-2600-00163",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Big Bird's Egg Catch",
@@ -6194,6 +6357,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/big-birds-egg-catch"
   },
   {
+    "gameId": "atari-2600-00164",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Blueprint",
@@ -6232,6 +6396,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/blueprint"
   },
   {
+    "gameId": "atari-2600-00165",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "BurgerTime",
@@ -6270,6 +6435,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/burgertime"
   },
   {
+    "gameId": "atari-2600-00166",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Chuck Norris Superkicks",
@@ -6308,6 +6474,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/chuck-norris-superkicks"
   },
   {
+    "gameId": "atari-2600-00167",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Coco Nuts",
@@ -6346,6 +6513,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/coco-nuts"
   },
   {
+    "gameId": "atari-2600-00168",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Congo Bongo",
@@ -6384,6 +6552,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/congo-bongo"
   },
   {
+    "gameId": "atari-2600-00169",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Crossbow",
@@ -6422,6 +6591,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/crossbow"
   },
   {
+    "gameId": "atari-2600-00170",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Dark Chambers",
@@ -6460,6 +6630,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/dark-chambers"
   },
   {
+    "gameId": "atari-2600-00171",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Dolphin",
@@ -6498,6 +6669,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/dolphin"
   },
   {
+    "gameId": "atari-2600-00172",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Donkey Kong Junior",
@@ -6536,6 +6708,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/donkey-kong-junior"
   },
   {
+    "gameId": "atari-2600-00173",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Double Dragon",
@@ -6574,6 +6747,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/double-dragon"
   },
   {
+    "gameId": "atari-2600-00174",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Dragonfire",
@@ -6612,6 +6786,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/dragonfire"
   },
   {
+    "gameId": "atari-2600-00175",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Fast Food",
@@ -6650,6 +6825,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/fast-food"
   },
   {
+    "gameId": "atari-2600-00176",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Frankenstein's Monster",
@@ -6688,6 +6864,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/frankensteins-monster"
   },
   {
+    "gameId": "atari-2600-00177",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Freeway",
@@ -6726,6 +6903,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/freeway"
   },
   {
+    "gameId": "atari-2600-00178",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Frogger",
@@ -6764,6 +6942,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/frogger"
   },
   {
+    "gameId": "atari-2600-00179",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Frogs and Flies",
@@ -6802,6 +6981,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/frogs-and-flies"
   },
   {
+    "gameId": "atari-2600-00180",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Gopher",
@@ -6840,6 +7020,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/gopher"
   },
   {
+    "gameId": "atari-2600-00181",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Gremlins",
@@ -6878,6 +7059,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/gremlins"
   },
   {
+    "gameId": "atari-2600-00182",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Infiltrate",
@@ -6916,6 +7098,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/infiltrate"
   },
   {
+    "gameId": "atari-2600-00183",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Journey Escape",
@@ -6954,6 +7137,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/journey-escape"
   },
   {
+    "gameId": "atari-2600-00184",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Joust",
@@ -6992,6 +7176,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/joust"
   },
   {
+    "gameId": "atari-2600-00185",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Kaboom!",
@@ -7030,6 +7215,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/kaboom"
   },
   {
+    "gameId": "atari-2600-00186",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Kangaroo",
@@ -7068,6 +7254,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/kangaroo"
   },
   {
+    "gameId": "atari-2600-00187",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "King Kong",
@@ -7106,6 +7293,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/king-kong"
   },
   {
+    "gameId": "atari-2600-00188",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Kung-Fu Master",
@@ -7144,6 +7332,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/kung-fu-master"
   },
   {
+    "gameId": "atari-2600-00189",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Lost Luggage",
@@ -7182,6 +7371,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/lost-luggage"
   },
   {
+    "gameId": "atari-2600-00190",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Mangia'",
@@ -7220,6 +7410,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/mangia"
   },
   {
+    "gameId": "atari-2600-00191",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Mario Bros.",
@@ -7258,6 +7449,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/mario-bros"
   },
   {
+    "gameId": "atari-2600-00192",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Music Machine, The",
@@ -7296,6 +7488,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/music-machine-the"
   },
   {
+    "gameId": "atari-2600-00193",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "No Escape!",
@@ -7334,6 +7527,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/no-escape"
   },
   {
+    "gameId": "atari-2600-00194",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Official Frogger, The",
@@ -7372,6 +7566,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/official-frogger-the"
   },
   {
+    "gameId": "atari-2600-00195",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Oink!",
@@ -7410,6 +7605,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/oink"
   },
   {
+    "gameId": "atari-2600-00196",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Pengo",
@@ -7448,6 +7644,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/pengo"
   },
   {
+    "gameId": "atari-2600-00197",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Picnic",
@@ -7486,6 +7683,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/picnic"
   },
   {
+    "gameId": "atari-2600-00198",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Popeye",
@@ -7524,6 +7722,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/popeye"
   },
   {
+    "gameId": "atari-2600-00199",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Pressure Cooker",
@@ -7562,6 +7761,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/pressure-cooker"
   },
   {
+    "gameId": "atari-2600-00200",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Rabbit Transit",
@@ -7600,6 +7800,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/rabbit-transit"
   },
   {
+    "gameId": "atari-2600-00201",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Rampage!",
@@ -7638,6 +7839,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/rampage"
   },
   {
+    "gameId": "atari-2600-00202",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Road Runner",
@@ -7676,6 +7878,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/road-runner"
   },
   {
+    "gameId": "atari-2600-00203",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Roc 'n Rope",
@@ -7714,6 +7917,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/roc-n-rope"
   },
   {
+    "gameId": "atari-2600-00204",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Sky Diver",
@@ -7752,6 +7956,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/sky-diver"
   },
   {
+    "gameId": "atari-2600-00205",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Smurf - Rescue in Gargamel's Castle",
@@ -7790,6 +7995,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/smurf-rescue-in-gargamels-castle"
   },
   {
+    "gameId": "atari-2600-00206",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Solar Fox",
@@ -7828,6 +8034,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/solar-fox"
   },
   {
+    "gameId": "atari-2600-00207",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Spider-Man",
@@ -7866,6 +8073,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/spider-man"
   },
   {
+    "gameId": "atari-2600-00208",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Star Wars - Jedi Arena",
@@ -7904,6 +8112,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/star-wars-jedi-arena"
   },
   {
+    "gameId": "atari-2600-00209",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Stone Age",
@@ -7942,6 +8151,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/stone-age"
   },
   {
+    "gameId": "atari-2600-00210",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Surround",
@@ -7980,6 +8190,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/surround"
   },
   {
+    "gameId": "atari-2600-00211",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Tapeworm",
@@ -8018,6 +8229,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/tapeworm"
   },
   {
+    "gameId": "atari-2600-00212",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Tapper",
@@ -8056,6 +8268,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/tapper"
   },
   {
+    "gameId": "atari-2600-00213",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Taz",
@@ -8094,6 +8307,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/taz"
   },
   {
+    "gameId": "atari-2600-00214",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Towering Inferno",
@@ -8132,6 +8346,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/towering-inferno"
   },
   {
+    "gameId": "atari-2600-00215",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Unknown Datatech Game #2 - AKA Mazy Match",
@@ -8170,6 +8385,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/unknown-datatech-game-2-aka-mazy-match"
   },
   {
+    "gameId": "atari-2600-00216",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Up 'n Down",
@@ -8208,6 +8424,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/up-n-down"
   },
   {
+    "gameId": "atari-2600-00217",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Eggomania",
@@ -8246,6 +8463,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/eggomania"
   },
   {
+    "gameId": "atari-2600-00218",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Bachelor Party",
@@ -8284,6 +8502,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/bachelor-party"
   },
   {
+    "gameId": "atari-2600-00219",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Bachelorette Party",
@@ -8322,6 +8541,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/bachelorette-party"
   },
   {
+    "gameId": "atari-2600-00220",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Backgammon",
@@ -8360,6 +8580,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/backgammon"
   },
   {
+    "gameId": "atari-2600-00221",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Checkers",
@@ -8398,6 +8619,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/checkers"
   },
   {
+    "gameId": "atari-2600-00222",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Glib - Video Word Game",
@@ -8436,6 +8658,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/glib-video-word-game"
   },
   {
+    "gameId": "atari-2600-00223",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Othello",
@@ -8474,6 +8697,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/othello"
   },
   {
+    "gameId": "atari-2600-00224",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Video Checkers",
@@ -8512,6 +8736,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/video-checkers"
   },
   {
+    "gameId": "atari-2600-00225",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "32 in 1 Game Cartridge",
@@ -8550,6 +8775,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/32-in-1-game-cartridge"
   },
   {
+    "gameId": "atari-2600-00226",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Alpha Beam with Ernie",
@@ -8588,6 +8814,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/alpha-beam-with-ernie"
   },
   {
+    "gameId": "atari-2600-00227",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Brain Games",
@@ -8626,6 +8853,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/brain-games"
   },
   {
+    "gameId": "atari-2600-00228",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Codebreaker",
@@ -8664,6 +8892,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/codebreaker"
   },
   {
+    "gameId": "atari-2600-00229",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Cookie Monster Munch",
@@ -8702,6 +8931,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/cookie-monster-munch"
   },
   {
+    "gameId": "atari-2600-00230",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Eli's Ladder",
@@ -8740,6 +8970,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/elis-ladder"
   },
   {
+    "gameId": "atari-2600-00231",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Final Approach",
@@ -8778,6 +9009,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/final-approach"
   },
   {
+    "gameId": "atari-2600-00232",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Math Gran Prix",
@@ -8816,6 +9048,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/math-gran-prix"
   },
   {
+    "gameId": "atari-2600-00233",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Oscar's Trash Race",
@@ -8854,6 +9087,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/oscars-trash-race"
   },
   {
+    "gameId": "atari-2600-00234",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Submarine Commander",
@@ -8892,6 +9126,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/submarine-commander"
   },
   {
+    "gameId": "atari-2600-00235",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Acid Drop",
@@ -8930,6 +9165,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/acid-drop"
   },
   {
+    "gameId": "atari-2600-00236",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Adventure",
@@ -8968,6 +9204,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/adventure"
   },
   {
+    "gameId": "atari-2600-00237",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Adventures of TRON",
@@ -9006,6 +9243,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/adventures-of-tron"
   },
   {
+    "gameId": "atari-2600-00238",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Air Raid",
@@ -9044,6 +9282,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/air-raid"
   },
   {
+    "gameId": "atari-2600-00239",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Air Raiders",
@@ -9082,6 +9321,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/air-raiders"
   },
   {
+    "gameId": "atari-2600-00240",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Alien",
@@ -9120,6 +9360,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/alien"
   },
   {
+    "gameId": "atari-2600-00241",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Amidar",
@@ -9158,6 +9399,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/amidar"
   },
   {
+    "gameId": "atari-2600-00242",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Asteroid Fire",
@@ -9196,6 +9438,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/asteroid-fire"
   },
   {
+    "gameId": "atari-2600-00243",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Astroblast",
@@ -9234,6 +9477,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/astroblast"
   },
   {
+    "gameId": "atari-2600-00244",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Astrowar",
@@ -9272,6 +9516,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/astrowar"
   },
   {
+    "gameId": "atari-2600-00245",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Atari Video Cube",
@@ -9310,6 +9555,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/atari-video-cube"
   },
   {
+    "gameId": "atari-2600-00246",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "BASIC Programming",
@@ -9348,6 +9594,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/basic-programming"
   },
   {
+    "gameId": "atari-2600-00247",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Bank Heist",
@@ -9386,6 +9633,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/bank-heist"
   },
   {
+    "gameId": "atari-2600-00248",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Barnstorming",
@@ -9424,6 +9672,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/barnstorming"
   },
   {
+    "gameId": "atari-2600-00249",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Base Attack",
@@ -9462,6 +9711,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/base-attack"
   },
   {
+    "gameId": "atari-2600-00250",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Basic Math",
@@ -9500,6 +9750,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/basic-math"
   },
   {
+    "gameId": "atari-2600-00251",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Battlezone",
@@ -9538,6 +9789,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/battlezone"
   },
   {
+    "gameId": "atari-2600-00252",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Beamrider",
@@ -9576,6 +9828,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/beamrider"
   },
   {
+    "gameId": "atari-2600-00253",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Beany Bopper",
@@ -9614,6 +9867,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/beany-bopper"
   },
   {
+    "gameId": "atari-2600-00254",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Beat 'Em & Eat 'Em",
@@ -9652,6 +9906,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/beat-em-and-eat-em"
   },
   {
+    "gameId": "atari-2600-00255",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Berenstain Bears",
@@ -9690,6 +9945,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/berenstain-bears"
   },
   {
+    "gameId": "atari-2600-00256",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Bobby Is Going Home",
@@ -9728,6 +9984,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/bobby-is-going-home"
   },
   {
+    "gameId": "atari-2600-00257",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Boing!",
@@ -9766,6 +10023,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/boing"
   },
   {
+    "gameId": "atari-2600-00258",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Bridge",
@@ -9804,6 +10062,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/bridge"
   },
   {
+    "gameId": "atari-2600-00259",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Buck Rogers - Planet of Zoom",
@@ -9842,6 +10101,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/buck-rogers-planet-of-zoom"
   },
   {
+    "gameId": "atari-2600-00260",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Bump 'n' Jump",
@@ -9880,6 +10140,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/bump-n-jump"
   },
   {
+    "gameId": "atari-2600-00261",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Bumper Bash",
@@ -9918,6 +10179,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/bumper-bash"
   },
   {
+    "gameId": "atari-2600-00262",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Burning Desire",
@@ -9956,6 +10218,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/burning-desire"
   },
   {
+    "gameId": "atari-2600-00263",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Cakewalk",
@@ -9994,6 +10257,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/cakewalk"
   },
   {
+    "gameId": "atari-2600-00264",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Cathouse Blues",
@@ -10032,6 +10296,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/cathouse-blues"
   },
   {
+    "gameId": "atari-2600-00265",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Centipede",
@@ -10070,6 +10335,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/centipede"
   },
   {
+    "gameId": "atari-2600-00266",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Challenge",
@@ -10108,6 +10374,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/challenge"
   },
   {
+    "gameId": "atari-2600-00267",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Challenge of.... Nexar, The",
@@ -10146,6 +10413,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/challenge-of-nexar-the"
   },
   {
+    "gameId": "atari-2600-00268",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Chase the Chuckwagon",
@@ -10184,6 +10452,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/chase-the-chuckwagon"
   },
   {
+    "gameId": "atari-2600-00269",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "China Syndrome",
@@ -10222,6 +10491,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/china-syndrome"
   },
   {
+    "gameId": "atari-2600-00270",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Commando Raid",
@@ -10260,6 +10530,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/commando-raid"
   },
   {
+    "gameId": "atari-2600-00271",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Condor Attack",
@@ -10298,6 +10569,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/condor-attack"
   },
   {
+    "gameId": "atari-2600-00272",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Cosmic Commuter",
@@ -10336,6 +10608,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/cosmic-commuter"
   },
   {
+    "gameId": "atari-2600-00273",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Cosmic Creeps",
@@ -10374,6 +10647,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/cosmic-creeps"
   },
   {
+    "gameId": "atari-2600-00274",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Cosmic Swarm",
@@ -10412,6 +10686,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/cosmic-swarm"
   },
   {
+    "gameId": "atari-2600-00275",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Crash Dive",
@@ -10450,6 +10725,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/crash-dive"
   },
   {
+    "gameId": "atari-2600-00276",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Crazy Climber",
@@ -10488,6 +10764,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/crazy-climber"
   },
   {
+    "gameId": "atari-2600-00277",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Criminal Pursuit",
@@ -10526,6 +10803,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/criminal-pursuit"
   },
   {
+    "gameId": "atari-2600-00278",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Crypts of Chaos",
@@ -10564,6 +10842,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/crypts-of-chaos"
   },
   {
+    "gameId": "atari-2600-00279",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Crystal Castles",
@@ -10602,6 +10881,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/crystal-castles"
   },
   {
+    "gameId": "atari-2600-00280",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Custer's Revenge",
@@ -10640,6 +10920,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/custers-revenge"
   },
   {
+    "gameId": "atari-2600-00281",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Dancing Plate",
@@ -10678,6 +10959,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/dancing-plate"
   },
   {
+    "gameId": "atari-2600-00282",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Dark Cavern",
@@ -10716,6 +10998,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/dark-cavern"
   },
   {
+    "gameId": "atari-2600-00283",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Deadly Duck",
@@ -10754,6 +11037,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/deadly-duck"
   },
   {
+    "gameId": "atari-2600-00284",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Death Trap",
@@ -10792,6 +11076,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/death-trap"
   },
   {
+    "gameId": "atari-2600-00285",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Dice Puzzle",
@@ -10830,6 +11115,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/dice-puzzle"
   },
   {
+    "gameId": "atari-2600-00286",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Dig Dug",
@@ -10868,6 +11154,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/dig-dug"
   },
   {
+    "gameId": "atari-2600-00287",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Donkey Kong",
@@ -10906,6 +11193,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/donkey-kong"
   },
   {
+    "gameId": "atari-2600-00288",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Dragon Defender",
@@ -10944,6 +11232,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/dragon-defender"
   },
   {
+    "gameId": "atari-2600-00289",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Dragonstomper",
@@ -10982,6 +11271,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/dragonstomper"
   },
   {
+    "gameId": "atari-2600-00290",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Dukes of Hazzard",
@@ -11020,6 +11310,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/dukes-of-hazzard"
   },
   {
+    "gameId": "atari-2600-00291",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "E.T. - The Extra-Terrestrial",
@@ -11058,6 +11349,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/e-t-the-extra-terrestrial"
   },
   {
+    "gameId": "atari-2600-00292",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Earth Dies Screaming, The",
@@ -11096,6 +11388,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/earth-dies-screaming-the"
   },
   {
+    "gameId": "atari-2600-00293",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Enduro",
@@ -11134,6 +11427,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/enduro"
   },
   {
+    "gameId": "atari-2600-00294",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Entombed",
@@ -11172,6 +11466,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/entombed"
   },
   {
+    "gameId": "atari-2600-00295",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Escape from the Mindmaster",
@@ -11210,6 +11505,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/escape-from-the-mindmaster"
   },
   {
+    "gameId": "atari-2600-00296",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Espial",
@@ -11248,6 +11544,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/espial"
   },
   {
+    "gameId": "atari-2600-00297",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Exocet",
@@ -11286,6 +11583,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/exocet"
   },
   {
+    "gameId": "atari-2600-00298",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Extra Terrestrials",
@@ -11324,6 +11622,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/extra-terrestrials"
   },
   {
+    "gameId": "atari-2600-00299",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Fantastic Voyage",
@@ -11362,6 +11661,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/fantastic-voyage"
   },
   {
+    "gameId": "atari-2600-00300",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Farmyard Fun",
@@ -11400,6 +11700,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/farmyard-fun"
   },
   {
+    "gameId": "atari-2600-00301",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Fast Eddie",
@@ -11438,6 +11739,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/fast-eddie"
   },
   {
+    "gameId": "atari-2600-00302",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Fatal Run",
@@ -11476,6 +11778,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/fatal-run"
   },
   {
+    "gameId": "atari-2600-00303",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Fathom",
@@ -11514,6 +11817,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/fathom"
   },
   {
+    "gameId": "atari-2600-00304",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Fire Fighter",
@@ -11552,6 +11856,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/fire-fighter"
   },
   {
+    "gameId": "atari-2600-00305",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Firebug",
@@ -11590,6 +11895,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/firebug"
   },
   {
+    "gameId": "atari-2600-00306",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Flash Gordon",
@@ -11628,6 +11934,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/flash-gordon"
   },
   {
+    "gameId": "atari-2600-00307",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Forest",
@@ -11666,6 +11973,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/forest"
   },
   {
+    "gameId": "atari-2600-00308",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Frisco",
@@ -11704,6 +12012,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/frisco"
   },
   {
+    "gameId": "atari-2600-00309",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Frogger II - Threeedeep!",
@@ -11742,6 +12051,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/frogger-ii-threeedeep"
   },
   {
+    "gameId": "atari-2600-00310",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Galaxian",
@@ -11780,6 +12090,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/galaxian"
   },
   {
+    "gameId": "atari-2600-00311",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Gas Hog",
@@ -11818,6 +12129,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/gas-hog"
   },
   {
+    "gameId": "atari-2600-00312",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Gauntlet",
@@ -11856,6 +12168,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/gauntlet"
   },
   {
+    "gameId": "atari-2600-00313",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Ghost Manor",
@@ -11894,6 +12207,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/ghost-manor"
   },
   {
+    "gameId": "atari-2600-00314",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Ghostbusters",
@@ -11932,6 +12246,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/ghostbusters"
   },
   {
+    "gameId": "atari-2600-00315",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Ghostbusters II",
@@ -11970,6 +12285,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/ghostbusters-ii"
   },
   {
+    "gameId": "atari-2600-00316",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Gorf",
@@ -12008,6 +12324,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/gorf"
   },
   {
+    "gameId": "atari-2600-00317",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Grand Prix",
@@ -12046,6 +12363,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/grand-prix"
   },
   {
+    "gameId": "atari-2600-00318",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Gravitar",
@@ -12084,6 +12402,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/gravitar"
   },
   {
+    "gameId": "atari-2600-00319",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Gyruss",
@@ -12122,6 +12441,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/gyruss"
   },
   {
+    "gameId": "atari-2600-00320",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "H.E.R.O.",
@@ -12160,6 +12480,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/h-e-r-o"
   },
   {
+    "gameId": "atari-2600-00321",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Halloween",
@@ -12198,6 +12519,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/halloween"
   },
   {
+    "gameId": "atari-2600-00322",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Harem",
@@ -12236,6 +12558,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/harem"
   },
   {
+    "gameId": "atari-2600-00323",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Haunted House",
@@ -12274,6 +12597,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/haunted-house"
   },
   {
+    "gameId": "atari-2600-00324",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "IQ Memory Teaser",
@@ -12312,6 +12636,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/iq-memory-teaser"
   },
   {
+    "gameId": "atari-2600-00325",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Inca Gold - Spider Monster",
@@ -12350,6 +12675,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/inca-gold-spider-monster"
   },
   {
+    "gameId": "atari-2600-00326",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "James Bond 007",
@@ -12388,6 +12714,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/james-bond-007"
   },
   {
+    "gameId": "atari-2600-00327",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Jr. Pac-Man",
@@ -12426,6 +12753,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/jr-pac-man"
   },
   {
+    "gameId": "atari-2600-00328",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Jungle Fever",
@@ -12464,6 +12792,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/jungle-fever"
   },
   {
+    "gameId": "atari-2600-00329",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Jungle Hunt",
@@ -12502,6 +12831,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/jungle-hunt"
   },
   {
+    "gameId": "atari-2600-00330",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Keystone Kapers",
@@ -12540,6 +12870,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/keystone-kapers"
   },
   {
+    "gameId": "atari-2600-00331",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Killer Satellites",
@@ -12578,6 +12909,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/killer-satellites"
   },
   {
+    "gameId": "atari-2600-00332",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Klax",
@@ -12616,6 +12948,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/klax"
   },
   {
+    "gameId": "atari-2600-00333",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Knight on the Town",
@@ -12654,6 +12987,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/knight-on-the-town"
   },
   {
+    "gameId": "atari-2600-00334",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Kool-Aid Man",
@@ -12692,6 +13026,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/kool-aid-man"
   },
   {
+    "gameId": "atari-2600-00335",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Krull",
@@ -12730,6 +13065,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/krull"
   },
   {
+    "gameId": "atari-2600-00336",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Lady in Wading",
@@ -12768,6 +13104,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/lady-in-wading"
   },
   {
+    "gameId": "atari-2600-00337",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Laser Blast",
@@ -12806,6 +13143,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/laser-blast"
   },
   {
+    "gameId": "atari-2600-00338",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Laser Gates",
@@ -12844,6 +13182,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/laser-gates"
   },
   {
+    "gameId": "atari-2600-00339",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Lilly Adventure",
@@ -12882,6 +13221,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/lilly-adventure"
   },
   {
+    "gameId": "atari-2600-00340",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "London Blitz",
@@ -12920,6 +13260,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/london-blitz"
   },
   {
+    "gameId": "atari-2600-00341",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "MagiCard",
@@ -12958,6 +13299,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/magicard"
   },
   {
+    "gameId": "atari-2600-00342",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Marauder",
@@ -12996,6 +13338,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/marauder"
   },
   {
+    "gameId": "atari-2600-00343",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Master Builder",
@@ -13034,6 +13377,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/master-builder"
   },
   {
+    "gameId": "atari-2600-00344",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Masters of the Universe - The Power of He-Man",
@@ -13072,6 +13416,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/masters-of-the-universe-the-power-of-he-man"
   },
   {
+    "gameId": "atari-2600-00345",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Mega Force",
@@ -13110,6 +13455,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/mega-force"
   },
   {
+    "gameId": "atari-2600-00346",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Millipede",
@@ -13148,6 +13494,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/millipede"
   },
   {
+    "gameId": "atari-2600-00347",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Miner 2049er - Starring Bounty Bob",
@@ -13186,6 +13533,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/miner-2049er-starring-bounty-bob"
   },
   {
+    "gameId": "atari-2600-00348",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Miner 2049er Volume II",
@@ -13224,6 +13572,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/miner-2049er-volume-ii"
   },
   {
+    "gameId": "atari-2600-00349",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Missile Control",
@@ -13262,6 +13611,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/missile-control"
   },
   {
+    "gameId": "atari-2600-00350",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Mission 3,000 A.D.",
@@ -13300,6 +13650,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/mission-3-000-a-d"
   },
   {
+    "gameId": "atari-2600-00351",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Mission Survive",
@@ -13338,6 +13689,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/mission-survive"
   },
   {
+    "gameId": "atari-2600-00352",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Mogul Maniac",
@@ -13376,6 +13728,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/mogul-maniac"
   },
   {
+    "gameId": "atari-2600-00353",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Montezuma's Revenge - Featuring Panama Joe",
@@ -13414,6 +13767,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/montezumas-revenge-featuring-panama-joe"
   },
   {
+    "gameId": "atari-2600-00354",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Motocross Racer",
@@ -13452,6 +13806,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/motocross-racer"
   },
   {
+    "gameId": "atari-2600-00355",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Mountain King",
@@ -13490,6 +13845,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/mountain-king"
   },
   {
+    "gameId": "atari-2600-00356",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Mouse Trap",
@@ -13528,6 +13884,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/mouse-trap"
   },
   {
+    "gameId": "atari-2600-00357",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Mr. Do!",
@@ -13566,6 +13923,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/mr-do"
   },
   {
+    "gameId": "atari-2600-00358",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Mr. Do!'s Castle",
@@ -13604,6 +13962,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/mr-do-s-castle"
   },
   {
+    "gameId": "atari-2600-00359",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Mr. Postman",
@@ -13642,6 +14001,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/mr-postman"
   },
   {
+    "gameId": "atari-2600-00360",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Ms. Pac-Man",
@@ -13680,6 +14040,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/ms-pac-man"
   },
   {
+    "gameId": "atari-2600-00361",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Night Driver",
@@ -13718,6 +14079,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/night-driver"
   },
   {
+    "gameId": "atari-2600-00362",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Nightmare",
@@ -13756,6 +14118,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/nightmare"
   },
   {
+    "gameId": "atari-2600-00363",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Nuts",
@@ -13794,6 +14157,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/nuts"
   },
   {
+    "gameId": "atari-2600-00364",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Obelix",
@@ -13832,6 +14196,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/obelix"
   },
   {
+    "gameId": "atari-2600-00365",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Open Sesame",
@@ -13870,6 +14235,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/open-sesame"
   },
   {
+    "gameId": "atari-2600-00366",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Out of Control",
@@ -13908,6 +14274,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/out-of-control"
   },
   {
+    "gameId": "atari-2600-00367",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Panda Chase",
@@ -13946,6 +14313,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/panda-chase"
   },
   {
+    "gameId": "atari-2600-00368",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Parachute",
@@ -13984,6 +14352,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/parachute"
   },
   {
+    "gameId": "atari-2600-00369",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Pepsi Invaders - Coke Wins",
@@ -14022,6 +14391,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/pepsi-invaders-coke-wins"
   },
   {
+    "gameId": "atari-2600-00370",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Pharaoh's Curse",
@@ -14060,6 +14430,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/pharaohs-curse"
   },
   {
+    "gameId": "atari-2600-00371",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Phaser Patrol",
@@ -14098,6 +14469,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/phaser-patrol"
   },
   {
+    "gameId": "atari-2600-00372",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Philly Flasher",
@@ -14136,6 +14508,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/philly-flasher"
   },
   {
+    "gameId": "atari-2600-00373",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Phoenix",
@@ -14174,6 +14547,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/phoenix"
   },
   {
+    "gameId": "atari-2600-00374",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Piece o' Cake",
@@ -14212,6 +14586,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/piece-o-cake"
   },
   {
+    "gameId": "atari-2600-00375",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Pitfall II - Lost Caverns",
@@ -14250,6 +14625,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/pitfall-ii-lost-caverns"
   },
   {
+    "gameId": "atari-2600-00376",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Pitfall! - Pitfall Harry's Jungle Adventure",
@@ -14288,6 +14664,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/pitfall-pitfall-harrys-jungle-adventure"
   },
   {
+    "gameId": "atari-2600-00377",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Pole Position",
@@ -14326,6 +14703,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/pole-position"
   },
   {
+    "gameId": "atari-2600-00378",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Porky's",
@@ -14364,6 +14742,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/porkys"
   },
   {
+    "gameId": "atari-2600-00379",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Private Eye",
@@ -14402,6 +14781,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/private-eye"
   },
   {
+    "gameId": "atari-2600-00380",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Q-bert",
@@ -14440,6 +14820,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/q-bert"
   },
   {
+    "gameId": "atari-2600-00381",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Q-bert's Qubes",
@@ -14478,6 +14859,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/q-berts-qubes"
   },
   {
+    "gameId": "atari-2600-00382",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Quadrun",
@@ -14516,6 +14898,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/quadrun"
   },
   {
+    "gameId": "atari-2600-00383",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Quest for Quintana Roo",
@@ -14554,6 +14937,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/quest-for-quintana-roo"
   },
   {
+    "gameId": "atari-2600-00384",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Radar Lock",
@@ -14592,6 +14976,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/radar-lock"
   },
   {
+    "gameId": "atari-2600-00385",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Raft Rider",
@@ -14630,6 +15015,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/raft-rider"
   },
   {
+    "gameId": "atari-2600-00386",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Raiders of the Lost Ark",
@@ -14668,6 +15054,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/raiders-of-the-lost-ark"
   },
   {
+    "gameId": "atari-2600-00387",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Reactor",
@@ -14706,6 +15093,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/reactor"
   },
   {
+    "gameId": "atari-2600-00388",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Revenge of the Beefsteak Tomatoes",
@@ -14744,6 +15132,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/revenge-of-the-beefsteak-tomatoes"
   },
   {
+    "gameId": "atari-2600-00389",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Riddle of the Sphinx",
@@ -14782,6 +15171,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/riddle-of-the-sphinx"
   },
   {
+    "gameId": "atari-2600-00390",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "River Patrol",
@@ -14820,6 +15210,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/river-patrol"
   },
   {
+    "gameId": "atari-2600-00391",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Robot Tank",
@@ -14858,6 +15249,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/robot-tank"
   },
   {
+    "gameId": "atari-2600-00392",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Room of Doom",
@@ -14896,6 +15288,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/room-of-doom"
   },
   {
+    "gameId": "atari-2600-00393",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Save Our Ship",
@@ -14934,6 +15327,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/save-our-ship"
   },
   {
+    "gameId": "atari-2600-00394",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Seahawk",
@@ -14972,6 +15366,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/seahawk"
   },
   {
+    "gameId": "atari-2600-00395",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Secret Quest",
@@ -15010,6 +15405,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/secret-quest"
   },
   {
+    "gameId": "atari-2600-00396",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Sentinel",
@@ -15048,6 +15444,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/sentinel"
   },
   {
+    "gameId": "atari-2600-00397",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Shootin' Gallery",
@@ -15086,6 +15483,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/shootin-gallery"
   },
   {
+    "gameId": "atari-2600-00398",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Shuttle Orbiter",
@@ -15124,6 +15522,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/shuttle-orbiter"
   },
   {
+    "gameId": "atari-2600-00399",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Sir Lancelot",
@@ -15162,6 +15561,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/sir-lancelot"
   },
   {
+    "gameId": "atari-2600-00400",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Skate Boardin'",
@@ -15200,6 +15600,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/skate-boardin"
   },
   {
+    "gameId": "atari-2600-00401",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Ski Hunt",
@@ -15238,6 +15639,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/ski-hunt"
   },
   {
+    "gameId": "atari-2600-00402",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Ski Run",
@@ -15276,6 +15678,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/ski-run"
   },
   {
+    "gameId": "atari-2600-00403",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Skiing",
@@ -15314,6 +15717,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/skiing"
   },
   {
+    "gameId": "atari-2600-00404",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Skindiver",
@@ -15352,6 +15756,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/skindiver"
   },
   {
+    "gameId": "atari-2600-00405",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Sky Alien",
@@ -15390,6 +15795,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/sky-alien"
   },
   {
+    "gameId": "atari-2600-00406",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Sky Jinks",
@@ -15428,6 +15834,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/sky-jinks"
   },
   {
+    "gameId": "atari-2600-00407",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Sky Skipper",
@@ -15466,6 +15873,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/sky-skipper"
   },
   {
+    "gameId": "atari-2600-00408",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Smurfs Save the Day",
@@ -15504,6 +15912,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/smurfs-save-the-day"
   },
   {
+    "gameId": "atari-2600-00409",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Snail Against Squirrel",
@@ -15542,6 +15951,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/snail-against-squirrel"
   },
   {
+    "gameId": "atari-2600-00410",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Snoopy and the Red Baron",
@@ -15580,6 +15990,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/snoopy-and-the-red-baron"
   },
   {
+    "gameId": "atari-2600-00411",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Solaris",
@@ -15618,6 +16029,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/solaris"
   },
   {
+    "gameId": "atari-2600-00412",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Sorcerer's Apprentice",
@@ -15656,6 +16068,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/sorcerers-apprentice"
   },
   {
+    "gameId": "atari-2600-00413",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Space Attack",
@@ -15694,6 +16107,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/space-attack"
   },
   {
+    "gameId": "atari-2600-00414",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Space Jockey",
@@ -15732,6 +16146,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/space-jockey"
   },
   {
+    "gameId": "atari-2600-00415",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Space Shuttle - A Journey Into Space",
@@ -15770,6 +16185,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/space-shuttle-a-journey-into-space"
   },
   {
+    "gameId": "atari-2600-00416",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Space Tunnel",
@@ -15808,6 +16224,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/space-tunnel"
   },
   {
+    "gameId": "atari-2600-00417",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "SpaceMaster X-7",
@@ -15846,6 +16263,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/spacemaster-x-7"
   },
   {
+    "gameId": "atari-2600-00418",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Spectracube Invasion",
@@ -15884,6 +16302,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/spectracube-invasion"
   },
   {
+    "gameId": "atari-2600-00419",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Spider Fighter",
@@ -15922,6 +16341,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/spider-fighter"
   },
   {
+    "gameId": "atari-2600-00420",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Spike's Peak",
@@ -15960,6 +16380,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/spikes-peak"
   },
   {
+    "gameId": "atari-2600-00421",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Spitfire Attack",
@@ -15998,6 +16419,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/spitfire-attack"
   },
   {
+    "gameId": "atari-2600-00422",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Springer",
@@ -16036,6 +16458,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/springer"
   },
   {
+    "gameId": "atari-2600-00423",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Spy Hunter",
@@ -16074,6 +16497,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/spy-hunter"
   },
   {
+    "gameId": "atari-2600-00424",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Squeeze Box",
@@ -16112,6 +16536,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/squeeze-box"
   },
   {
+    "gameId": "atari-2600-00425",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Stampede",
@@ -16150,6 +16575,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/stampede"
   },
   {
+    "gameId": "atari-2600-00426",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Star Raiders",
@@ -16188,6 +16614,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/star-raiders"
   },
   {
+    "gameId": "atari-2600-00427",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Star Strike",
@@ -16226,6 +16653,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/star-strike"
   },
   {
+    "gameId": "atari-2600-00428",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Star Trek - Strategic Operations Simulator",
@@ -16264,6 +16692,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/star-trek-strategic-operations-simulator"
   },
   {
+    "gameId": "atari-2600-00429",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Star Wars - The Arcade Game",
@@ -16302,6 +16731,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/star-wars-the-arcade-game"
   },
   {
+    "gameId": "atari-2600-00430",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "StarMaster",
@@ -16340,6 +16770,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/starmaster"
   },
   {
+    "gameId": "atari-2600-00431",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Stargate",
@@ -16378,6 +16809,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/stargate"
   },
   {
+    "gameId": "atari-2600-00432",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Steeplechase",
@@ -16416,6 +16848,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/steeplechase"
   },
   {
+    "gameId": "atari-2600-00433",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Stellar Track",
@@ -16454,6 +16887,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/stellar-track"
   },
   {
+    "gameId": "atari-2600-00434",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Strawberry Shortcake - Musical Match-Ups",
@@ -16492,6 +16926,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/strawberry-shortcake-musical-match-ups"
   },
   {
+    "gameId": "atari-2600-00435",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Stronghold",
@@ -16530,6 +16965,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/stronghold"
   },
   {
+    "gameId": "atari-2600-00436",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Sub-Scan",
@@ -16568,6 +17004,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/sub-scan"
   },
   {
+    "gameId": "atari-2600-00437",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Super Cobra",
@@ -16606,6 +17043,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/super-cobra"
   },
   {
+    "gameId": "atari-2600-00438",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Superman",
@@ -16644,6 +17082,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/superman"
   },
   {
+    "gameId": "atari-2600-00439",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Surfer's Paradise - But Danger Below!",
@@ -16682,6 +17121,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/surfers-paradise-but-danger-below"
   },
   {
+    "gameId": "atari-2600-00440",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Survival Island",
@@ -16720,6 +17160,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/survival-island"
   },
   {
+    "gameId": "atari-2600-00441",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Survival Run",
@@ -16758,6 +17199,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/survival-run"
   },
   {
+    "gameId": "atari-2600-00442",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Sword of Saros",
@@ -16796,6 +17238,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/sword-of-saros"
   },
   {
+    "gameId": "atari-2600-00443",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "SwordQuest - EarthWorld",
@@ -16834,6 +17277,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/swordquest-earthworld"
   },
   {
+    "gameId": "atari-2600-00444",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "SwordQuest - FireWorld",
@@ -16872,6 +17316,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/swordquest-fireworld"
   },
   {
+    "gameId": "atari-2600-00445",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "SwordQuest - WaterWorld",
@@ -16910,6 +17355,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/swordquest-waterworld"
   },
   {
+    "gameId": "atari-2600-00446",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "TRON - Deadly Discs",
@@ -16948,6 +17394,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/tron-deadly-discs"
   },
   {
+    "gameId": "atari-2600-00447",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Tac-Scan",
@@ -16986,6 +17433,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/tac-scan"
   },
   {
+    "gameId": "atari-2600-00448",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Tax Avoiders",
@@ -17024,6 +17472,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/tax-avoiders"
   },
   {
+    "gameId": "atari-2600-00449",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Texas Chainsaw Massacre, The",
@@ -17062,6 +17511,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/texas-chainsaw-massacre-the"
   },
   {
+    "gameId": "atari-2600-00450",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Thunderground",
@@ -17100,6 +17550,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/thunderground"
   },
   {
+    "gameId": "atari-2600-00451",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Time Warp",
@@ -17138,6 +17589,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/time-warp"
   },
   {
+    "gameId": "atari-2600-00452",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Tomarc the Barbarian",
@@ -17176,6 +17628,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/tomarc-the-barbarian"
   },
   {
+    "gameId": "atari-2600-00453",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Tomcat - The F-14 Fighter Simulator",
@@ -17214,6 +17667,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/tomcat-the-f-14-fighter-simulator"
   },
   {
+    "gameId": "atari-2600-00454",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Tooth Protectors",
@@ -17252,6 +17706,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/tooth-protectors"
   },
   {
+    "gameId": "atari-2600-00455",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Topy",
@@ -17290,6 +17745,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/topy"
   },
   {
+    "gameId": "atari-2600-00456",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Treasure Below",
@@ -17328,6 +17784,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/treasure-below"
   },
   {
+    "gameId": "atari-2600-00457",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Treasure Island",
@@ -17366,6 +17823,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/treasure-island"
   },
   {
+    "gameId": "atari-2600-00458",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Tunnel Runner",
@@ -17404,6 +17862,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/tunnel-runner"
   },
   {
+    "gameId": "atari-2600-00459",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Turmoil",
@@ -17442,6 +17901,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/turmoil"
   },
   {
+    "gameId": "atari-2600-00460",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Venture",
@@ -17480,6 +17940,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/venture"
   },
   {
+    "gameId": "atari-2600-00461",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Video Chess",
@@ -17518,6 +17979,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/video-chess"
   },
   {
+    "gameId": "atari-2600-00462",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Video Jogger",
@@ -17556,6 +18018,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/video-jogger"
   },
   {
+    "gameId": "atari-2600-00463",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Video Life",
@@ -17594,6 +18057,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/video-life"
   },
   {
+    "gameId": "atari-2600-00464",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Video Reflex",
@@ -17632,6 +18096,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/video-reflex"
   },
   {
+    "gameId": "atari-2600-00465",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Walker",
@@ -17670,6 +18135,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/walker"
   },
   {
+    "gameId": "atari-2600-00466",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Wall Ball",
@@ -17708,6 +18174,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/wall-ball"
   },
   {
+    "gameId": "atari-2600-00467",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Wall Break",
@@ -17746,6 +18213,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/wall-break"
   },
   {
+    "gameId": "atari-2600-00468",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Wing War",
@@ -17784,6 +18252,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/wing-war"
   },
   {
+    "gameId": "atari-2600-00469",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "X'Mission",
@@ -17822,6 +18291,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/xmission"
   },
   {
+    "gameId": "atari-2600-00470",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "X-Man",
@@ -17860,6 +18330,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-2600/artwork-title-screen/x-man"
   },
   {
+    "gameId": "atari-2600-00471",
     "datasetId": "atari-2600",
     "console": "Atari 2600",
     "english_name": "Zoo Fun",

@@ -1,5 +1,6 @@
 [
   {
+    "gameId": "atari-lynx-00001",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Battle Wheels",
@@ -38,6 +39,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/battle-wheels"
   },
   {
+    "gameId": "atari-lynx-00002",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Checkered Flag",
@@ -76,6 +78,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/checkered-flag"
   },
   {
+    "gameId": "atari-lynx-00003",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Super Off-Road",
@@ -114,6 +117,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/super-off-road"
   },
   {
+    "gameId": "atari-lynx-00004",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Jimmy Connors' Tennis",
@@ -152,6 +156,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/jimmy-connors-tennis"
   },
   {
+    "gameId": "atari-lynx-00005",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Malibu Bikini Volleyball",
@@ -190,6 +195,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/malibu-bikini-volleyball"
   },
   {
+    "gameId": "atari-lynx-00006",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "California Games",
@@ -228,6 +234,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/california-games"
   },
   {
+    "gameId": "atari-lynx-00007",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Tournament Cyberball",
@@ -266,6 +273,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/tournament-cyberball"
   },
   {
+    "gameId": "atari-lynx-00008",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Ishido - The Way of Stones",
@@ -304,6 +312,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/ishido-the-way-of-stones"
   },
   {
+    "gameId": "atari-lynx-00009",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Lexis",
@@ -342,6 +351,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/lexis"
   },
   {
+    "gameId": "atari-lynx-00010",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Qix",
@@ -380,6 +390,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/qix"
   },
   {
+    "gameId": "atari-lynx-00011",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Shanghai",
@@ -418,6 +429,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/shanghai"
   },
   {
+    "gameId": "atari-lynx-00012",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Super Skweek",
@@ -456,6 +468,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/super-skweek"
   },
   {
+    "gameId": "atari-lynx-00013",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Pit Fighter - The Ultimate Competition",
@@ -494,6 +507,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/pit-fighter-the-ultimate-competition"
   },
   {
+    "gameId": "atari-lynx-00014",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Basketbrawl",
@@ -532,6 +546,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/basketbrawl"
   },
   {
+    "gameId": "atari-lynx-00015",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "European Soccer Challenge",
@@ -570,6 +585,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/european-soccer-challenge"
   },
   {
+    "gameId": "atari-lynx-00016",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Hockey",
@@ -608,6 +624,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/hockey"
   },
   {
+    "gameId": "atari-lynx-00017",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "NFL Football",
@@ -646,6 +663,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/nfl-football"
   },
   {
+    "gameId": "atari-lynx-00018",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "World Class Soccer",
@@ -684,6 +702,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/world-class-soccer"
   },
   {
+    "gameId": "atari-lynx-00019",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Robo-Squash",
@@ -722,6 +741,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/robo-squash"
   },
   {
+    "gameId": "atari-lynx-00020",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Awesome Golf",
@@ -760,6 +780,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/awesome-golf"
   },
   {
+    "gameId": "atari-lynx-00021",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Krazy Ace - Miniature Golf",
@@ -798,6 +819,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/krazy-ace-miniature-golf"
   },
   {
+    "gameId": "atari-lynx-00022",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Lynx Casino",
@@ -836,6 +858,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/lynx-casino"
   },
   {
+    "gameId": "atari-lynx-00023",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Double Dragon",
@@ -874,6 +897,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/double-dragon"
   },
   {
+    "gameId": "atari-lynx-00024",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Joust",
@@ -912,6 +936,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/joust"
   },
   {
+    "gameId": "atari-lynx-00025",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Pac-Land",
@@ -950,6 +975,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/pac-land"
   },
   {
+    "gameId": "atari-lynx-00026",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Rampart",
@@ -988,6 +1014,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/rampart"
   },
   {
+    "gameId": "atari-lynx-00027",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Xybots",
@@ -1026,6 +1053,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/xybots"
   },
   {
+    "gameId": "atari-lynx-00028",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Battlezone 2000",
@@ -1064,6 +1092,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/battlezone-2000"
   },
   {
+    "gameId": "atari-lynx-00029",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Rampage",
@@ -1102,6 +1131,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/rampage"
   },
   {
+    "gameId": "atari-lynx-00030",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Todd's Adventures in Slime World",
@@ -1140,6 +1170,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/todds-adventures-in-slime-world"
   },
   {
+    "gameId": "atari-lynx-00031",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Xenophobe",
@@ -1178,6 +1209,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/xenophobe"
   },
   {
+    "gameId": "atari-lynx-00032",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Zarlor Mercenary",
@@ -1216,6 +1248,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/zarlor-mercenary"
   },
   {
+    "gameId": "atari-lynx-00033",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Gauntlet - The Third Encounter",
@@ -1254,6 +1287,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/gauntlet-the-third-encounter"
   },
   {
+    "gameId": "atari-lynx-00034",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Fidelity Ultimate Chess Challenge, The",
@@ -1292,6 +1326,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/fidelity-ultimate-chess-challenge-the"
   },
   {
+    "gameId": "atari-lynx-00035",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Bill & Ted's Excellent Adventure",
@@ -1330,6 +1365,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/bill-and-teds-excellent-adventure"
   },
   {
+    "gameId": "atari-lynx-00036",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Warbirds",
@@ -1368,6 +1404,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/warbirds"
   },
   {
+    "gameId": "atari-lynx-00037",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "A.P.B. - All Points Bulletin",
@@ -1406,6 +1443,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/a-p-b-all-points-bulletin"
   },
   {
+    "gameId": "atari-lynx-00038",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Batman Returns",
@@ -1444,6 +1482,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/batman-returns"
   },
   {
+    "gameId": "atari-lynx-00039",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Block Out",
@@ -1482,6 +1521,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/block-out"
   },
   {
+    "gameId": "atari-lynx-00040",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Blue Lightning",
@@ -1520,6 +1560,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/blue-lightning"
   },
   {
+    "gameId": "atari-lynx-00041",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Bubble Trouble",
@@ -1558,6 +1599,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/bubble-trouble"
   },
   {
+    "gameId": "atari-lynx-00042",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Chip's Challenge",
@@ -1596,6 +1638,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/chips-challenge"
   },
   {
+    "gameId": "atari-lynx-00043",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Crystal Mines II",
@@ -1634,6 +1677,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/crystal-mines-ii"
   },
   {
+    "gameId": "atari-lynx-00044",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Desert Strike - Return to the Gulf",
@@ -1672,6 +1716,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/desert-strike-return-to-the-gulf"
   },
   {
+    "gameId": "atari-lynx-00045",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Dinolympics",
@@ -1710,6 +1755,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/dinolympics"
   },
   {
+    "gameId": "atari-lynx-00046",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Dirty Larry - Renegade Cop",
@@ -1748,6 +1794,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/dirty-larry-renegade-cop"
   },
   {
+    "gameId": "atari-lynx-00047",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Dracula the Undead",
@@ -1786,6 +1833,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/dracula-the-undead"
   },
   {
+    "gameId": "atari-lynx-00048",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Electrocop",
@@ -1824,6 +1872,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/electrocop"
   },
   {
+    "gameId": "atari-lynx-00049",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Fat Bobby",
@@ -1862,6 +1911,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/fat-bobby"
   },
   {
+    "gameId": "atari-lynx-00050",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Gates of Zendocon, The",
@@ -1900,6 +1950,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/gates-of-zendocon-the"
   },
   {
+    "gameId": "atari-lynx-00051",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Gordo 106 - The Mutated Lab Monkey",
@@ -1938,6 +1989,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/gordo-106-the-mutated-lab-monkey"
   },
   {
+    "gameId": "atari-lynx-00052",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Hard Drivin'",
@@ -1976,6 +2028,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/hard-drivin"
   },
   {
+    "gameId": "atari-lynx-00053",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Hydra",
@@ -2014,6 +2067,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/hydra"
   },
   {
+    "gameId": "atari-lynx-00054",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Klax",
@@ -2052,6 +2106,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/klax"
   },
   {
+    "gameId": "atari-lynx-00055",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Kung Food",
@@ -2090,6 +2145,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/kung-food"
   },
   {
+    "gameId": "atari-lynx-00056",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Lemmings",
@@ -2128,6 +2184,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/lemmings"
   },
   {
+    "gameId": "atari-lynx-00057",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Ms. Pac-Man",
@@ -2166,6 +2223,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/ms-pac-man"
   },
   {
+    "gameId": "atari-lynx-00058",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Ninja Gaiden",
@@ -2204,6 +2262,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/ninja-gaiden"
   },
   {
+    "gameId": "atari-lynx-00059",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Ninja Gaiden III - The Ancient Ship of Doom",
@@ -2242,6 +2301,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/ninja-gaiden-iii-the-ancient-ship-of-doom"
   },
   {
+    "gameId": "atari-lynx-00060",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Paperboy",
@@ -2280,6 +2340,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/paperboy"
   },
   {
+    "gameId": "atari-lynx-00061",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Pinball Jam",
@@ -2318,6 +2379,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/pinball-jam"
   },
   {
+    "gameId": "atari-lynx-00062",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Power Factor",
@@ -2356,6 +2418,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/power-factor"
   },
   {
+    "gameId": "atari-lynx-00063",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Raiden",
@@ -2394,6 +2457,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/raiden"
   },
   {
+    "gameId": "atari-lynx-00064",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "RoadBlasters",
@@ -2432,6 +2496,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/roadblasters"
   },
   {
+    "gameId": "atari-lynx-00065",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Robotron 2084",
@@ -2470,6 +2535,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/robotron-2084"
   },
   {
+    "gameId": "atari-lynx-00066",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Rygar - Legendary Warrior",
@@ -2508,6 +2574,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/rygar-legendary-warrior"
   },
   {
+    "gameId": "atari-lynx-00067",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "S.T.U.N. Runner",
@@ -2546,6 +2613,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/s-t-u-n-runner"
   },
   {
+    "gameId": "atari-lynx-00068",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Scrapyard Dog",
@@ -2584,6 +2652,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/scrapyard-dog"
   },
   {
+    "gameId": "atari-lynx-00069",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Shadow of the Beast",
@@ -2622,6 +2691,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/shadow-of-the-beast"
   },
   {
+    "gameId": "atari-lynx-00070",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Steel Talons",
@@ -2660,6 +2730,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/steel-talons"
   },
   {
+    "gameId": "atari-lynx-00071",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Super Asteroids, Missile Command",
@@ -2698,6 +2769,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/super-asteroids-missile-command"
   },
   {
+    "gameId": "atari-lynx-00072",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Switchblade II",
@@ -2736,6 +2808,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/switchblade-ii"
   },
   {
+    "gameId": "atari-lynx-00073",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Toki",
@@ -2774,6 +2847,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/toki"
   },
   {
+    "gameId": "atari-lynx-00074",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Turbo Sub",
@@ -2812,6 +2886,7 @@
     "gamesdatabase_title_url": "https://www.gamesdatabase.org/media/atari-lynx/artwork-title-screen/turbo-sub"
   },
   {
+    "gameId": "atari-lynx-00075",
     "datasetId": "atari-lynx",
     "console": "Atari Lynx",
     "english_name": "Viking Child",
