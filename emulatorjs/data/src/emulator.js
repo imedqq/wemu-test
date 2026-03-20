@@ -568,6 +568,14 @@ class EmulatorJS {
                         }
                         this.enableMouseLock = core.options.supportsMouse;
                         this.retroarchOpts = core.retroarchOpts;
+                        if (Array.isArray(window.EJS_retroarchOpts)) {
+                            const runtimeRetroarchOpts = window.EJS_retroarchOpts;
+                            const existingNames = new Set(runtimeRetroarchOpts.map(option => option.name));
+                            this.retroarchOpts = [
+                                ...((Array.isArray(this.retroarchOpts) ? this.retroarchOpts : []).filter(option => !existingNames.has(option.name))),
+                                ...runtimeRetroarchOpts
+                            ];
+                        }
                         this.saveFileExt = core.save;
                     } else if (k === "license.txt") {
                         this.license = new TextDecoder().decode(data[k]);
