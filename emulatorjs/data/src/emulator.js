@@ -655,6 +655,23 @@ class EmulatorJS {
         });
     }
     initGameCore(js, wasm, thread) {
+        const patchLoadedRuntimeScript = (sourceData) => {
+            if (!(sourceData instanceof Uint8Array) && typeof sourceData !== "string") {
+                return sourceData;
+            }
+            let runtimeSource = sourceData instanceof Uint8Array ? new TextDecoder().decode(sourceData) : sourceData;
+            const originalRuntimeSource = runtimeSource;
+            runtimeSource = runtimeSource.replace(/setImmediates\.shift\(\)\(\);?/g, '(()=>{var cb=setImmediates.shift();if(typeof cb==="function"){cb();}})();');
+            runtimeSource = runtimeSource.replace(/window\[['"]setImmediate['"]\]\(Browser\.mainLoop\.runner\);?/g, 'setTimeout(Browser.mainLoop.runner, 0);');
+            runtimeSource = runtimeSource.replace(/setImmediate\(Browser\.mainLoop\.runner\);?/g, 'setTimeout(Browser.mainLoop.runner, 0);');
+            runtimeSource = runtimeSource.replace(/Browser\.mainLoop\.method\s*=\s*["']immediate["'];/g, 'Browser.mainLoop.method = "timeout";');
+            if (runtimeSource === originalRuntimeSource) {
+                return sourceData;
+            }
+            return sourceData instanceof Uint8Array ? new TextEncoder().encode(runtimeSource) : runtimeSource;
+        };
+        js = patchLoadedRuntimeScript(js);
+        thread = patchLoadedRuntimeScript(thread);
         let script = this.createElement("script");
         script.src = URL.createObjectURL(new Blob([js], { type: "application/javascript" }));
         script.addEventListener("load", () => {
@@ -4173,6 +4190,9 @@ class EmulatorJS {
         return "ejs-" + identifier + "-settings";
     }
     preGetSetting(setting) {
+        if (window.EJS_forcedSettings && Object.prototype.hasOwnProperty.call(window.EJS_forcedSettings, setting)) {
+            return window.EJS_forcedSettings[setting];
+        }
         if (window.localStorage && !this.config.disableLocalStorage) {
             let coreSpecific = localStorage.getItem(this.getLocalStorageKey());
             try {
@@ -4235,6 +4255,9 @@ class EmulatorJS {
                 this.controls = coreSpecific.controlSettings;
                 this.checkGamepadInputs();
                 for (const k in coreSpecific.settings) {
+                    if (window.EJS_forcedSettings && Object.prototype.hasOwnProperty.call(window.EJS_forcedSettings, k)) {
+                        continue;
+                    }
                     this.changeSettingOption(k, coreSpecific.settings[k]);
                 }
                 for (let i = 0; i < coreSpecific.cheats.length; i++) {
