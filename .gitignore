@@ -1,0 +1,5 @@
+# This repository tracks deployment infrastructure only.
+/*
+!/.github/
+!/README.md
+!/.gitignore

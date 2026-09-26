@@ -5,7 +5,6 @@ on:
       release:
         description: Versioned release containing wemu-web.tar.gz
         required: true
-        default: rebuild-46f671a
 permissions:
   contents: read
   pages: write
