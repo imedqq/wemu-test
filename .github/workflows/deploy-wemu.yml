@@ -1,0 +1,38 @@
+name: Deploy WEMU testing site
+on:
+  workflow_dispatch:
+    inputs:
+      release:
+        description: Versioned release containing wemu-web.tar.gz
+        required: true
+        default: rebuild-46f671a
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/configure-pages@v5
+      - name: Download verified browser build
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RELEASE_TAG: ${{ inputs.release }}
+        run: |
+          gh release download "$RELEASE_TAG" --repo imedqq/wemu-test --pattern 'wemu-web.tar.gz*'
+          sha256sum -c wemu-web.tar.gz.sha256
+          mkdir _site
+          tar -xzf wemu-web.tar.gz -C _site
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
